@@ -18,9 +18,9 @@ function Unit({ u }: { u: ZhUnit }) {
   }
   const face: ReactNode = u.n ? <><span className="o">{u.c}</span><span className="n">{u.n}</span></> : u.c;
   const inner = u.hv ? <ruby>{face}<rt>{u.hv}</rt></ruby> : face;
-  const title = u.ent?.first ? undefined : `Tra từ điển từ ${u.c}${u.flag ? ' · ⚑ nghi vấn, xem Góp ý sửa' : ''}`;
+  // the tooltip ("Tra từ điển từ …") is added on first hover by the client, to keep the page small
   return (
-    <span className={`hz${u.flag ? ' flg' : ''}${cl}${entCls(u.ent)}`} data-c={u.c} data-nc={u.n || u.c} title={title} {...clData} {...ent}>
+    <span className={`hz${u.flag ? ' flg' : ''}${cl}${entCls(u.ent)}`} data-c={u.c} {...clData} {...ent}>
       {inner}
     </span>
   );

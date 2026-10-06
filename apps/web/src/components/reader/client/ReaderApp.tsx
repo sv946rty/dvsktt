@@ -25,6 +25,11 @@ const SWITCHES: [keyof Prefs, string, string, string, string][] = [
   ['hideOn', 'Ẩn chú nhỏ của nguyên văn', 'Phần trong ( )', 'Hide original small notes', 'Text in ( )'],
 ];
 
+// hover/close timers (one reader per page)
+const TIMERS: Record<string, ReturnType<typeof setTimeout> | undefined> = {};
+const clear = (k: string) => clearTimeout(TIMERS[k]);
+const later = (k: string, fn: () => void, ms: number) => { clear(k); TIMERS[k] = setTimeout(fn, ms); };
+
 type ForumProps = {
   forum: NonNullable<ForumView>; setForum: (f: ForumView) => void; threads: Thread[]; setThreads: (t: Thread[]) => void;
   threadsFor: (eid: string) => Thread[]; entryLabel: (id: string) => string; EM: Record<string, { vi: string }>;
@@ -84,6 +89,8 @@ function ForumBody({ forum, setForum, threads, setThreads, threadsFor, entryLabe
 export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode }) {
   // ------------------------------------------------------------ preferences
   const [P, setP] = useState<Prefs>(DEFAULT_PREFS);
+  // read browser preferences after hydration (the server always renders the defaults)
+  // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => { setP(loadPrefs()); }, []);
   const setPref = useCallback((patch: Partial<Prefs>) => {
     setP((p) => { const n = { ...p, ...patch }; savePrefs(n); applyPrefs(n); return n; });
@@ -95,7 +102,6 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
   const EM = useMemo(() => Object.fromEntries(boot.entries.map((e) => [e.id, e])), [boot.entries]);
   const VAR = boot.lexicon.variants;
   const normZh = useCallback((s: string) => Array.from(s).map((c) => VAR[c] || c).join(''), [VAR]);
-  const ysub = (y: (typeof boot.years)[number]) => (P.lang === 'en' && y.enSub ? y.enSub : y.sub || '');
   const ylab = (y: (typeof boot.years)[number]) => (P.lang === 'en' && y.enLabel ? y.enLabel : y.label);
   const rname = (r: (typeof boot.reigns)[number]) => (P.lang === 'en' && r.en ? r.en : r.vi);
   const mt = (s: string) => (P.lang === 'en' && boot.work.en[s] ? boot.work.en[s] : s);
@@ -126,11 +132,9 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
 
   const popRef = useRef<HTMLDivElement>(null), fpopRef = useRef<HTMLDivElement>(null), ddRef = useRef<HTMLDivElement>(null), cardRef = useRef<HTMLElement>(null);
   const popSrc = useRef<Element | null>(null);
-  const timers = useRef<Record<string, ReturnType<typeof setTimeout> | undefined>>({});
-  const clear = (k: string) => clearTimeout(timers.current[k]);
-  const later = (k: string, fn: () => void, ms: number) => { clear(k); timers.current[k] = setTimeout(fn, ms); };
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- browser-only state, read after hydration
     setThreads(loadForum(boot.discussions));
     setSaved(new Set(LS.get<string[]>('dvsktt.saved.v1', [])));
   }, [boot.discussions]);
@@ -193,7 +197,8 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
   useLayoutEffect(() => { if (fpop && fpopRef.current) placeBelow(fpopRef.current, fpop.r); }, [fpop, threads]);
 
   // ------------------------------------------------------------ entity card
-  const cardS = useRef<CardState | null>(null); cardS.current = card;
+  const cardS = useRef<CardState | null>(null);
+  useLayoutEffect(() => { cardS.current = card; }, [card]);
   const openEnt = useCallback((id: string, anchor: HTMLElement | null, o: { pin?: boolean; push?: boolean; back?: boolean; tab?: CardTab } = {}) => {
     if (!o.pin && anchor) { const r = anchor.getBoundingClientRect(); if (!anchor.isConnected || r.bottom < 0 || r.top > innerHeight) return; }
     clear('eto'); clear('etc');
@@ -331,9 +336,10 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
 
   // ------------------------------------------------------------ delegated events on the sheet
   const live = useRef({ P, card, pop, fpop, dd, saved, threads, focus, dlg, settingsOpen, forum, tocOpen, showResults, bundle });
-  live.current = { P, card, pop, fpop, dd, saved, threads, focus, dlg, settingsOpen, forum, tocOpen, showResults, bundle };
+  useLayoutEffect(() => { live.current = { P, card, pop, fpop, dd, saved, threads, focus, dlg, settingsOpen, forum, tocOpen, showResults, bundle }; });
   const act = useRef({ openEnt, closeEnt, lightGroup, clearAl, showChar, closeAll, doFocus, toast, scrollToId, openForum, citation, entryUrl, setSaved, setDlg, setPop, setFpop, setDd, setShowResults });
-  act.current = { openEnt, closeEnt, lightGroup, clearAl, showChar, closeAll, doFocus, toast, scrollToId, openForum, citation, entryUrl, setSaved, setDlg, setPop, setFpop, setDd, setShowResults };
+  // eslint-disable-next-line react-hooks/exhaustive-deps -- refreshes the handler table after every render on purpose
+  useLayoutEffect(() => { act.current = { openEnt, closeEnt, lightGroup, clearAl, showChar, closeAll, doFocus, toast, scrollToId, openForum, citation, entryUrl, setSaved, setDlg, setPop, setFpop, setDd, setShowResults }; });
 
   useEffect(() => {
     const A = () => act.current, L = () => live.current;
@@ -342,6 +348,7 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
 
     const onClick = (ev: MouseEvent) => {
       const t = ev.target as HTMLElement; if (!t.closest) return;
+      if (!t.isConnected) return;   // React already re-rendered the clicked control away (e.g. the card's back button)
       // entity first (also closes a pinned card on an outside click)
       const en = t.closest<HTMLElement>('.ent');
       if (en && t.closest('#sheet')) {
@@ -391,6 +398,8 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
     const onOver = (ev: MouseEvent) => {
       if (isTouch()) return;
       const t = ev.target as HTMLElement; if (!t.closest) return;
+      const hzt = t.closest<HTMLElement>('#sheet .hz');
+      if (hzt && !hzt.title && !hzt.classList.contains('e1')) hzt.title = `Tra từ điển từ ${hzt.dataset.c}${hzt.classList.contains('flg') ? ' · ⚑ nghi vấn, xem Góp ý sửa' : ''}`;
       // char popover: close shortly after the pointer leaves it and its character
       if (L().pop) {
         clear('pop');
@@ -497,10 +506,10 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
     };
   });
 
+  useEffect(() => { document.documentElement.classList.toggle('toc-open', tocOpen); }, [tocOpen]);
+
   // ------------------------------------------------------------ render helpers
   const scrim = tocOpen || settingsOpen || !!forum;
-  const root = typeof document !== 'undefined' ? document.documentElement : null;
-  void root;
   const N = 6, ys = boot.years;
   const yIdx = ys.findIndex((y) => y.id === cur.year);
   let strip = stripOpen ? ys : ys.slice(0, N);
@@ -586,7 +595,6 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
   const seg = (short?: boolean) => (
     <>{(['both', 'zh', 'vi'] as const).map((m) => <button key={m} data-mode={m} aria-pressed={P.mode === m} onClick={() => setMode(m)}>{modeLabel(m, short)}</button>)}</>
   );
-  const closeBtn = (onClick: () => void) => <button className="icon" onClick={onClick} aria-label={t('Đóng', 'Close')}><I.Close /></button>;
 
   // ------------------------------------------------------------ markup (ids and classes from the prototype)
   return (
@@ -611,8 +619,8 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
         <button className="icon" id="bGear2" aria-label={t('Tùy chọn', 'Settings')} title={t('Tùy chọn', 'Settings')} onClick={() => { closeAll(); setSettingsOpen(true); }}><I.Gear /></button>
       </header>
 
-      <aside className="toc" id="toc" aria-label={t('Mục lục', 'Contents')} aria-hidden={!tocOpen} ref={(el) => { document.documentElement.classList.toggle('toc-open', tocOpen); void el; }}>
-        <div className="th"><b>{t('Mục lục', 'Contents')}</b>{closeBtn(closeAll)}</div>
+      <aside className="toc" id="toc" aria-label={t('Mục lục', 'Contents')} aria-hidden={!tocOpen}>
+        <div className="th"><b>{t('Mục lục', 'Contents')}</b><button className="icon" onClick={closeAll} aria-label={t('Đóng', 'Close')}><I.Close /></button></div>
         {(() => {
           const out: ReactNode[] = []; let ly: string | null = null; let items: ReactNode[] = [];
           const flush = (k: string) => { if (items.length) out.push(<ul key={'u' + k}>{items}</ul>); items = []; };
@@ -675,7 +683,7 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
       <div id="dd" ref={ddRef} hidden={!dd}>{dd ? ddItems(boot.work.sections[dd.i].items, String(dd.i)) : null}</div>
 
       <aside className={`panel${settingsOpen ? ' open' : ''}`} id="settings" aria-label={t('Tùy chọn', 'Settings')} aria-hidden={!settingsOpen}>
-        <div className="ph"><h3>{t('Tùy chọn', 'Settings')}</h3>{closeBtn(closeAll)}</div>
+        <div className="ph"><h3>{t('Tùy chọn', 'Settings')}</h3><button className="icon" onClick={closeAll} aria-label={t('Đóng', 'Close')}><I.Close /></button></div>
         <div className="pb" id="settingsBody">
           <h4>{t('Ngôn ngữ bản dịch', 'Translation language')}</h4>
           <div className="seg" role="group" style={{ display: 'flex' }}>
@@ -712,7 +720,7 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
       <aside className={`panel wide${forum ? ' open' : ''}`} id="forum" aria-label="Góp ý sửa" aria-hidden={!forum}>
         <div className="ph">
           <button className="icon" id="fBack" aria-label="Quay lại" hidden={!forum || forum.view === 'list'} onClick={() => forum && setForum({ eid: forum.eid, view: 'list' })}><I.Back /></button>
-          <h3 id="forumTitle">{forum?.view === 'new' ? 'Góp ý cho đoạn này' : 'Góp ý sửa'}</h3>{closeBtn(closeAll)}
+          <h3 id="forumTitle">{forum?.view === 'new' ? 'Góp ý cho đoạn này' : 'Góp ý sửa'}</h3><button className="icon" onClick={closeAll} aria-label={t('Đóng', 'Close')}><I.Close /></button>
         </div>
         <div className="pb" id="forumBody">{forum ? <ForumBody key={forum.eid + forum.view + (forum.tid || '')} forum={forum} setForum={setForum} threads={threads} setThreads={setThreads} threadsFor={threadsFor} entryLabel={entryLabel} EM={EM} toast={toast} threadRow={threadRow} /> : null}</div>
       </aside>
@@ -743,7 +751,7 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
       <div id="toast" hidden={!toastMsg} role="status">{toastMsg}</div>
       <div id="escrim" hidden={!(card && sheetMode)} onClick={closeEnt} />
       <aside id="ecard" ref={cardRef} hidden={!card} className={sheetMode ? 'sheet' : ''} role="dialog" aria-label="Thực thể / Entity" aria-labelledby={card ? 'ecT' : undefined}
-        onClick={(e) => { e.stopPropagation(); if (!(e.target as HTMLElement).closest('a') && card) setCard({ ...card, pinned: true }); }}>
+        onClick={(e) => { e.stopPropagation(); if (!(e.target as HTMLElement).closest('a')) setCard((c) => (c ? { ...c, pinned: true } : c)); }}>
         {card && bundle && ix ? (
           <CardBody b={bundle} ix={ix} st={card}
             onTab={(tab) => { setCard({ ...card, pinned: true, tab }); requestAnimationFrame(() => { const b = $('#ecard .ec-b'); if (b) b.scrollTop = 0; }); }}

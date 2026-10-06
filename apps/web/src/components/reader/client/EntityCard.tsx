@@ -106,7 +106,7 @@ export function CardBody({ b, ix, st, onTab, onGo, onBack, onClose, onOcc, onCha
           <dt>Type</dt><dd>{tl[1]}{tl[2] ? <> <span style={{ color: 'var(--ink2)' }}>({tl[2]})</span></> : null}</dd>
           <dt>Appears in this text</dt>
           <dd className="ap"><span><b>{o.total} {o.total === 1 ? 'time' : 'times'}</b> in Kỷ nhà Đinh{o.total ? <> <span style={{ color: 'var(--ink2)' }}>(中文 {o.zh} · Việt {o.vi})</span></> : null}</span>
-            {o.total ? <button className="ec-btn" onClick={() => onTab('occ')}>View all occurrences →</button> : null}</dd>
+            {o.total ? <button className="ec-btn" data-ent-tab="occ" onClick={() => onTab('occ')}>View all occurrences →</button> : null}</dd>
           {full ? <><dt>Entity ID</dt><dd><code>{e.id}</code></dd></> : null}
         </dl>
         {reviewNotes()}
@@ -122,7 +122,7 @@ export function CardBody({ b, ix, st, onTab, onGo, onBack, onClose, onOcc, onCha
     return (
       <li key={k} title={evTxt}>
         <span className={`ec-pill p-${p[2]}`}>{p[x.dir]}</span><span className="ec-arr" aria-hidden="true">→</span>
-        <button className="ec-tgt" disabled={!t} onClick={() => t && onGo(x.other)}>{t ? <>{entName(t)}{t.names.zh ? <> (<Z>{t.names.zh}</Z>)</> : null}</> : x.other}</button>
+        <button className="ec-tgt" data-ent-go={t ? x.other : undefined} disabled={!t} onClick={() => t && onGo(x.other)}>{t ? <>{entName(t)}{t.names.zh ? <> (<Z>{t.names.zh}</Z>)</> : null}</> : x.other}</button>
         <span className="ec-chip">{t ? t.type.replace('_', ' ') : '?'}</span>
         {full ? <div className="ev">{ev.zh ? <Z>{ev.zh}</Z> : null}{ev.zh && ev.vi ? ' · ' : ''}{ev.vi || ''}{x.r.confidence != null ? ` · confidence ${x.r.confidence}` : ''}</div> : null}
       </li>
@@ -133,7 +133,7 @@ export function CardBody({ b, ix, st, onTab, onGo, onBack, onClose, onOcc, onCha
     const lim = full ? rows.length : 6;
     return (
       <section className="ec-box rl"><div className="ec-bh"><I.RelIcon /><h3>Relations <small>(in this text)</small></h3>
-        {!full && rows.length > lim ? <><span className="sp" /><button className="ec-more" onClick={() => onTab('rel')}>All {rows.length} →</button></> : null}</div>
+        {!full && rows.length > lim ? <><span className="sp" /><button className="ec-more" data-ent-tab="rel" onClick={() => onTab('rel')}>All {rows.length} →</button></> : null}</div>
         {rows.length ? <ul className="ec-rels">{rows.slice(0, lim).map((x, k) => relLi(x, full, k))}</ul> : <div className="ec-none">No relations recorded for this entity in the V4 relation data.</div>}
       </section>
     );
@@ -174,7 +174,7 @@ export function CardBody({ b, ix, st, onTab, onGo, onBack, onClose, onOcc, onCha
     <>
       <div className="ec-h">
         <div className="ec-top">
-          {st.hist.length ? <button className="ec-back" onClick={onBack} aria-label={`Back to ${entName(prev)}`} title="Back">←</button> : null}
+          {st.hist.length ? <button className="ec-back" data-ent-back="" onClick={onBack} aria-label={`Back to ${entName(prev)}`} title="Back">←</button> : null}
           <div className="ec-names">
             <h2 className="ec-vi" id="ecT">{e.names.vi || e.names.zh || e.id}</h2>
             {e.names.vi && e.names.zh ? (
@@ -184,12 +184,12 @@ export function CardBody({ b, ix, st, onTab, onGo, onBack, onClose, onOcc, onCha
             ) : null}
           </div>
           <span className="ec-type">{tl[0]}</span>
-          <button className="ec-x" onClick={onClose} aria-label="Close" title="Close (Esc)">×</button>
+          <button className="ec-x" data-ent-close="" onClick={onClose} aria-label="Close" title="Close (Esc)">×</button>
         </div>
         {aka.length ? <div className="ec-aka"><span>Also known as:</span> {aka.map((x, i) => <span key={i}>{i ? ' · ' : ''}{x}</span>)}</div> : null}
         {e.review_required ? <span className="ec-flag">Identification under review</span> : null}
         <nav className="ec-tabs" role="tablist">
-          {tabs.map(([k, t]) => <button key={k} role="tab" aria-selected={st.tab === k} onClick={() => onTab(k)}>{t}</button>)}
+          {tabs.map(([k, t]) => <button key={k} role="tab" data-ent-tab={k} aria-selected={st.tab === k} onClick={() => onTab(k)}>{t}</button>)}
         </nav>
       </div>
       <div className="ec-b" role="tabpanel">

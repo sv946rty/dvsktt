@@ -97,7 +97,9 @@ const VI = '.vi[data-tl="vi"]';
   const occ = await page.$$eval('#ecard .ec-occ button', (bs) => bs.map((b) => ({ id: b.querySelector('.id').textContent, lg: b.querySelector('.lg').textContent, t: b.querySelector('b').textContent, i: b.dataset.entOcc })));
   ok('occurrence list: entry, language, surface, context; aliases count together', occ.length === 15 && new Set(occ.map((o) => o.t)).size >= 3 && occ.some((o) => o.lg === 'ZH') && occ.some((o) => o.lg === 'VI'), `${occ.length}: ` + [...new Set(occ.map((o) => o.t))].join(', '));
   const far = occ.filter((o) => o.id !== 'E01').slice(-1)[0];
-  await page.click(`#ecard [data-ent-occ="${far.i}"]`); await sleep(1100);
+  await page.click(`#ecard [data-ent-occ="${far.i}"]`);
+  // wait for the scroll to settle (up to 3 s) instead of sampling at a fixed time
+  await page.waitForFunction((i) => { const el = [...document.querySelectorAll(`.ent[data-m="${i}"]`)].find((x) => x.offsetParent); if (!el) return false; const r = el.getBoundingClientRect(); return r.top > 0 && r.bottom < innerHeight; }, far.i, { timeout: 3000 }).catch(() => {});
   const nav = await page.evaluate((i) => { const els = [...document.querySelectorAll(`.ent[data-m="${i}"]`)].filter((x) => x.offsetParent); const r = els[0].getBoundingClientRect();
     return { flash: els.every((x) => x.classList.contains('eflash')), inView: r.top > 0 && r.bottom < innerHeight, entry: els[0].closest('.entry').id, closed: document.querySelector('#ecard').hidden }; }, far.i);
   ok('clicking an occurrence scrolls to it and highlights it', nav.flash && nav.inView && nav.entry === far.id && nav.closed, JSON.stringify(nav));

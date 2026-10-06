@@ -248,7 +248,9 @@ export function ReaderApp({ boot, children }: { boot: Boot; children: ReactNode 
     requestAnimationFrame(() => {
       const els = $$(`.ent[data-m="${mi}"]`).filter((x) => x.offsetParent !== null);
       if (!els.length) { scrollToId(m.en); return; }
-      els[0].scrollIntoView({ behavior: reduceMotion() ? 'auto' : 'smooth', block: 'center' });
+      // long jumps are instant: a smooth scroll across the chapter is slow and can be interrupted
+      const far = Math.abs(els[0].getBoundingClientRect().top) > innerHeight * 2;
+      els[0].scrollIntoView({ behavior: reduceMotion() || far ? 'auto' : 'smooth', block: 'center' });
       els.forEach((x) => { x.classList.remove('eflash'); void x.offsetWidth; x.classList.add('eflash'); });
       setTimeout(() => els.forEach((x) => x.classList.remove('eflash')), 2000);
     });

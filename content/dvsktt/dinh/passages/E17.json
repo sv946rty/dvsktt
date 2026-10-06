@@ -1,0 +1,99 @@
+{
+  "id": "E17",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "975",
+  "type": "annal",
+  "folio": "4b",
+  "folios": [
+    "4b"
+  ],
+  "page": 60,
+  "zh": "乙亥六年〈宋開寳八年〉春，定文武冠服。遣鄭琇遺金帛、犀象于宋。",
+  "zhPartial": false,
+  "vi": "|4b| Ất Hợi, ⟦Thái Bình⟧ năm thứ 6 ⟦975⟧, ⟨Tống Khai Bảo năm thứ 8⟩. Mùa xuân, quy định áo mũ cho các quan văn võ. Sai Trịnh Tú{n1} đem vàng lụa, sừng tê, ngà voi sang nhà Tống.",
+  "en": "Year 6 of Ất Hợi [975] (Song Kaibao 8). Spring: court dress and caps for civil and military officials were regulated. He sent Trịnh Tú with gold, silk, rhinoceros horn and ivory to the Song.",
+  "notes": [
+    "Theo Cương mục: Trịnh Tú người châu Đại Hoàng (CMTB1,6b)."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "乙亥六年"
+      ],
+      "vi": [
+        "Ất Hợi",
+        "năm thứ 6"
+      ],
+      "en": [
+        "Year 6 of Ất Hợi [975]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳八年"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 8"
+      ],
+      "en": [
+        "(Song Kaibao 8)."
+      ]
+    },
+    {
+      "zh": [
+        "春，"
+      ],
+      "vi": [
+        "Mùa xuân"
+      ],
+      "en": [
+        "Spring:"
+      ]
+    },
+    {
+      "zh": [
+        "定文武冠服。"
+      ],
+      "vi": [
+        "quy định áo mũ cho các quan văn võ"
+      ],
+      "en": [
+        "court dress and caps for civil and military officials were regulated."
+      ]
+    },
+    {
+      "zh": [
+        "遣鄭琇"
+      ],
+      "vi": [
+        "Sai Trịnh Tú"
+      ],
+      "en": [
+        "He sent Trịnh Tú"
+      ]
+    },
+    {
+      "zh": [
+        "遺金帛、犀象"
+      ],
+      "vi": [
+        "đem vàng lụa, sừng tê, ngà voi"
+      ],
+      "en": [
+        "with gold, silk, rhinoceros horn and ivory"
+      ]
+    },
+    {
+      "zh": [
+        "于宋。"
+      ],
+      "vi": [
+        "sang nhà Tống"
+      ],
+      "en": [
+        "to the Song."
+      ]
+    }
+  ]
+}

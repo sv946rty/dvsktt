@@ -1,0 +1,18 @@
+/* Tailwind without its preflight reset, so the reader stylesheet keeps the prototype's base styles. */
+@layer theme, base, components, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper2: var(--paper2);
+  --color-leaf: var(--leaf);
+  --color-ink: var(--ink);
+  --color-ink2: var(--ink2);
+  --color-rule: var(--rule);
+  --color-seal: var(--seal);
+  --color-jade: var(--jade);
+  --font-ui: var(--ui);
+  --font-vi: var(--vi);
+  --font-zh: var(--zh);
+}

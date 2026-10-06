@@ -1,0 +1,152 @@
+{
+  "id": "dvsktt",
+  "title": {
+    "zh": "大越史記全書",
+    "vi": "Đại Việt Sử Ký Toàn Thư",
+    "en": "Complete Annals of Đại Việt"
+  },
+  "note": "Navigation tree of the whole work. A node with \"chapter\" links to a chapter that has content; \"anchor\" is an element id inside it. Nodes without either are shown dimmed (no data yet).",
+  "sections": [
+    {
+      "t": "Quyển Thủ",
+      "items": []
+    },
+    {
+      "t": "Ngoại kỷ toàn thư",
+      "items": []
+    },
+    {
+      "t": "Bản kỷ toàn thư",
+      "items": [
+        {
+          "t": "Kỷ nhà Đinh",
+          "chapter": "ky-nha-dinh",
+          "kids": [
+            {
+              "t": "Tiên Hoàng Đế",
+              "chapter": "ky-nha-dinh",
+              "anchor": "R-th"
+            },
+            {
+              "t": "Phế Đế",
+              "chapter": "ky-nha-dinh",
+              "anchor": "R-pd"
+            }
+          ]
+        },
+        {
+          "t": "Kỷ nhà Lê"
+        },
+        {
+          "t": "Kỷ nhà Lý",
+          "kids": [
+            {
+              "t": "Thái Tổ Hoàng Đế"
+            },
+            {
+              "t": "Thái Tông Hoàng Đế"
+            },
+            {
+              "t": "Thánh Tông Hoàng Đế"
+            },
+            {
+              "t": "Nhân Tông Hoàng Đế"
+            },
+            {
+              "t": "Thần Tông Hoàng Đế"
+            },
+            {
+              "t": "Anh Tông Hoàng Đế"
+            },
+            {
+              "t": "Cao Tông Hoàng Đế"
+            },
+            {
+              "t": "Huệ Tông Hoàng Đế"
+            },
+            {
+              "t": "Chiêu Hoàng"
+            }
+          ]
+        },
+        {
+          "t": "Kỷ nhà Trần",
+          "kids": [
+            {
+              "t": "Thái Tông Hoàng Đế"
+            },
+            {
+              "t": "Thánh Tông Hoàng Đế"
+            },
+            {
+              "t": "Nhân Tông Hoàng Đế"
+            },
+            {
+              "t": "Anh Tông Hoàng Đế"
+            },
+            {
+              "t": "Minh Tông Hoàng Đế"
+            },
+            {
+              "t": "Hiến Tông Hoàng Đế"
+            },
+            {
+              "t": "Dụ Tông Hoàng Đế"
+            },
+            {
+              "t": "Nghệ Tông Hoàng Đế"
+            },
+            {
+              "t": "Duệ Tông Hoàng Đế"
+            },
+            {
+              "t": "Phế Đế"
+            },
+            {
+              "t": "Thuận Tông Hoàng Đế"
+            },
+            {
+              "t": "Thiếu Đế"
+            },
+            {
+              "t": "Phụ: Hồ Quý Ly, Hồ Hán Thương"
+            }
+          ]
+        },
+        {
+          "t": "Kỷ Hậu Trần"
+        },
+        {
+          "t": "Kỷ Thuộc Minh"
+        },
+        {
+          "t": "Kỷ Lê Hoàng Triều"
+        }
+      ]
+    },
+    {
+      "t": "Bản kỷ thực lục",
+      "items": []
+    },
+    {
+      "t": "Bản kỷ tục biên",
+      "items": []
+    }
+  ],
+  "en": {
+    "Quyển Thủ": "Preface",
+    "Ngoại kỷ toàn thư": "Outer Annals",
+    "Bản kỷ toàn thư": "Main Annals",
+    "Bản kỷ thực lục": "Veritable-Record Annals",
+    "Bản kỷ tục biên": "Continued Annals",
+    "Kỷ nhà Đinh": "Đinh Dynasty",
+    "Kỷ nhà Lê": "Early Lê Dynasty",
+    "Kỷ nhà Lý": "Lý Dynasty",
+    "Kỷ nhà Trần": "Trần Dynasty",
+    "Kỷ Hậu Trần": "Later Trần",
+    "Kỷ Thuộc Minh": "Ming Occupation",
+    "Kỷ Lê Hoàng Triều": "Lê Imperial Dynasty",
+    "Tiên Hoàng Đế": "Emperor Tiên Hoàng",
+    "Phế Đế": "Phế Đế (the Deposed Emperor)"
+  }
+}

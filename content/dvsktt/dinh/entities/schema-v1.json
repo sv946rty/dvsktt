@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://toanthu.local/schema/entity-v1.json",
+  "title": "Đại Việt Sử Ký Toàn Thư Entity Schema v1",
+  "type": "object",
+  "required": ["id", "type", "names"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z_]+:[a-z0-9-]+$"},
+    "type": {"enum": ["person", "place", "office", "title", "polity", "reign_era"]},
+    "names": {
+      "type": "object",
+      "properties": {"zh": {"type": ["string", "null"]}, "vi": {"type": ["string", "null"]}, "en": {"type": ["string", "null"]}},
+      "additionalProperties": false
+    },
+    "aliases": {
+      "type": "object",
+      "properties": {"zh": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}, "vi": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}, "en": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}},
+      "additionalProperties": false
+    },
+    "variants": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["lang", "surface", "kind", "status"],
+        "properties": {
+          "lang": {"enum": ["zh", "vi", "en"]}, "surface": {"type": "string"},
+          "kind": {"enum": ["orthographic_variant", "textual_variant", "suspected_textual_error", "ocr_variant"]},
+          "status": {"enum": ["accepted", "review", "rejected"]}, "evidence": {"type": "string"}
+        }
+      }
+    },
+    "external_ids": {"type": "object"},
+    "review_required": {"type": "boolean"}
+  },
+  "additionalProperties": true
+}

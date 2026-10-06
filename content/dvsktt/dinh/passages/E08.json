@@ -1,0 +1,61 @@
+{
+  "id": "E08",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "969",
+  "type": "annal",
+  "folio": "3a",
+  "folios": [],
+  "page": 59,
+  "zh": "己巳二年〈宋開寳二年〉閏五月，封長子璉爲南越王。",
+  "zhPartial": false,
+  "vi": "Kỷ Tỵ, năm thứ 2 ⟦969⟧, ⟨Tống Khai Bảo năm thứ 2⟩. Tháng 5 nhuận, phong con trưởng là Liễn làm Nam Việt Vương.",
+  "en": "Year 2 of Kỷ Tỵ [969] (Song Kaibao 2). In the intercalary fifth month he made his eldest son, Liễn, King of Nam Việt.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "己巳二年"
+      ],
+      "vi": [
+        "Kỷ Tỵ, năm thứ 2"
+      ],
+      "en": [
+        "Year 2 of Kỷ Tỵ [969]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳二年"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 2"
+      ],
+      "en": [
+        "(Song Kaibao 2)."
+      ]
+    },
+    {
+      "zh": [
+        "閏五月"
+      ],
+      "vi": [
+        "Tháng 5 nhuận"
+      ],
+      "en": [
+        "In the intercalary fifth month"
+      ]
+    },
+    {
+      "zh": [
+        "封長子璉爲南越王"
+      ],
+      "vi": [
+        "phong con trưởng là Liễn làm Nam Việt Vương"
+      ],
+      "en": [
+        "he made his eldest son, Liễn, King of Nam Việt."
+      ]
+    }
+  ]
+}

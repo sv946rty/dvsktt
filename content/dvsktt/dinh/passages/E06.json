@@ -1,0 +1,94 @@
+{
+  "id": "E06",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "968",
+  "type": "annal",
+  "folio": "2b",
+  "folios": [],
+  "page": 59,
+  "zh": "帝欲以威制天下，乃置大鼎于庭，養猛虎于檻，下令曰：「有違者，受烹齧之罪。」人皆畏服，無有犯者。",
+  "zhPartial": false,
+  "vi": "Vua muốn dùng uy chế ngự thiên hạ, bèn đặt vạc lớn ở sân triều, nuôi hổ dữ trong cũi, hạ lệnh rằng: \"Kẻ nào trái phép phải chịu tội bỏ vạc dầu, cho hổ ăn\". Mọi người đều sợ phục, không ai dám phạm.",
+  "en": "Wishing to rule the realm through awe, the emperor placed a great cauldron in the courtyard and kept fierce tigers in cages, and issued this order: \"Whoever violates the law will suffer the punishment of being boiled or torn apart.\" Everyone was afraid and submitted, and no one dared to offend.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "帝欲以威制天下"
+      ],
+      "vi": [
+        "Vua muốn dùng uy chế ngự thiên hạ"
+      ],
+      "en": [
+        "Wishing to rule the realm through awe,"
+      ]
+    },
+    {
+      "zh": [
+        "乃置大鼎于庭"
+      ],
+      "vi": [
+        "bèn đặt vạc lớn ở sân triều"
+      ],
+      "en": [
+        "the emperor placed a great cauldron in the courtyard"
+      ]
+    },
+    {
+      "zh": [
+        "養猛虎于檻"
+      ],
+      "vi": [
+        "nuôi hổ dữ trong cũi"
+      ],
+      "en": [
+        "and kept fierce tigers in cages,"
+      ]
+    },
+    {
+      "zh": [
+        "下令曰"
+      ],
+      "vi": [
+        "hạ lệnh rằng"
+      ],
+      "en": [
+        "and issued this order:"
+      ]
+    },
+    {
+      "zh": [
+        "有違者，受烹齧之罪"
+      ],
+      "vi": [
+        "Kẻ nào trái phép phải chịu tội bỏ vạc dầu, cho hổ ăn"
+      ],
+      "en": [
+        "\"Whoever violates the law will suffer the punishment of being boiled or torn apart.\""
+      ]
+    },
+    {
+      "zh": [
+        "人皆畏服"
+      ],
+      "vi": [
+        "Mọi người đều sợ phục"
+      ],
+      "en": [
+        "Everyone was afraid and submitted,"
+      ]
+    },
+    {
+      "zh": [
+        "無有犯者"
+      ],
+      "vi": [
+        "không ai dám phạm"
+      ],
+      "en": [
+        "and no one dared to offend."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+ "schema": "dvsktt-wikipedia-enrichment/4.1",
+ "generated_at": "2026-10-06T06:40:00+00:00",
+ "status": "not_run",
+ "rules_version": "4.1",
+ "note": "vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+ "entities": {}
+}

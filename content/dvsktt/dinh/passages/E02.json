@@ -1,0 +1,94 @@
+{
+  "id": "E02",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "th0",
+  "type": "assess",
+  "folio": "1a",
+  "folios": [],
+  "page": 58,
+  "zh": "帝才明過人，勇畧盖世，掃盡群䧺，統繼趙武。然失於預防，不保其終，惜夫。",
+  "zhPartial": false,
+  "vi": "Vua tài năng sáng suốt hơn người, dũng cảm mưu lược nhất đời, quét sạch các hùng trưởng, tiếp nối quốc thống của Triệu Vũ ⟦Đế⟧, song không biết dự phòng, không giữ được trọn đời, tiếc thay!",
+  "en": "The emperor was gifted with a brilliance beyond other men and a courage and strategy unmatched in his age. He swept away the whole crowd of strongmen and carried on the line of Triệu [Vũ Đế]. Yet he failed to take precautions and did not come to a good end. What a pity!",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "帝才明過人"
+      ],
+      "vi": [
+        "Vua tài năng sáng suốt hơn người"
+      ],
+      "en": [
+        "The emperor was gifted with a brilliance beyond other men"
+      ]
+    },
+    {
+      "zh": [
+        "勇畧盖世"
+      ],
+      "vi": [
+        "dũng cảm mưu lược nhất đời"
+      ],
+      "en": [
+        "and a courage and strategy unmatched in his age."
+      ]
+    },
+    {
+      "zh": [
+        "掃盡群䧺"
+      ],
+      "vi": [
+        "quét sạch các hùng trưởng"
+      ],
+      "en": [
+        "He swept away the whole crowd of strongmen"
+      ]
+    },
+    {
+      "zh": [
+        "統繼趙武"
+      ],
+      "vi": [
+        "tiếp nối quốc thống của Triệu Vũ"
+      ],
+      "en": [
+        "and carried on the line of Triệu [Vũ Đế]."
+      ]
+    },
+    {
+      "zh": [
+        "然失於預防"
+      ],
+      "vi": [
+        "song không biết dự phòng"
+      ],
+      "en": [
+        "Yet he failed to take precautions"
+      ]
+    },
+    {
+      "zh": [
+        "不保其終"
+      ],
+      "vi": [
+        "không giữ được trọn đời"
+      ],
+      "en": [
+        "and did not come to a good end."
+      ]
+    },
+    {
+      "zh": [
+        "惜夫"
+      ],
+      "vi": [
+        "tiếc thay"
+      ],
+      "en": [
+        "What a pity!"
+      ]
+    }
+  ]
+}

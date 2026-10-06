@@ -1,0 +1,164 @@
+{
+  "id": "E11",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "970",
+  "type": "comment",
+  "folio": "3a",
+  "folios": [
+    "3b"
+  ],
+  "page": 59,
+  "zh": "黎文休曰：天地並其覆載，日月並其照臨，故能生城萬物，發育庶類，亦猶皇后配儷宸極，故能表率宫中，化成天下。自古祗有立一人以主内治而已，未聞有五其名者。先皇無稽古學，而當時帬臣又無匡正之者，致使溺私，並立五后。下至黎李二家，亦多效而行之，由先皇始唱其亂階也。",
+  "zhPartial": false,
+  "vi": "Lê Văn Hưu nói: Trời đất cùng che chở, mặt trời mặt trăng cùng chiếu soi, mới sinh thành muôn vật, nảy nở mọi loài, cũng như hoàng hậu sánh với ngôi vua, cho nên mới có thể |3b| đứng đầu tiêu biểu cho nội cung, tác thành cho thiên hạ. Từ xưa chỉ lập ⟦hoàng hậu⟧ một người để chủ việc nội trị mà thôi, chưa từng nghe nói lập đến 5 người. Tiên Hoàng không kê cứu cổ học, mà bầy tôi đương thời lại không có ai biết giúp sửa cho đúng, để đến nỗi chìm đắm trong tình riêng, cùng lập 5 hoàng hậu. Sau đến 2 triều Lê, Lý cũng phần nhiều bắt chước làm theo, ấy là do Tiên Hoàng khởi xướng sự rối loạn thứ bậc vậy.",
+  "en": "Lê Văn Hưu comments: Heaven and Earth together cover and carry, sun and moon together shine, and so they can give birth to the myriad things and nurture all kinds. In the same way the empress is the consort of the sovereign, and so can set the example for the inner palace and transform the realm. Since antiquity there has been only one person established to preside over the inner household; I have never heard of five bearing such a title. Emperor Tiên Hoàng did not study the ancient teachings, and the ministers of his day had no one able to correct him, so that he gave way to private affection and established five empresses at once. Later the two houses of Lê and Lý often imitated him; it was Tiên Hoàng who began this disorder of rank.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "黎文休曰："
+      ],
+      "vi": [
+        "Lê Văn Hưu nói"
+      ],
+      "en": [
+        "Lê Văn Hưu comments:"
+      ]
+    },
+    {
+      "zh": [
+        "天地並其覆載，"
+      ],
+      "vi": [
+        "Trời đất cùng che chở"
+      ],
+      "en": [
+        "Heaven and Earth together cover and carry,"
+      ]
+    },
+    {
+      "zh": [
+        "日月並其照臨，"
+      ],
+      "vi": [
+        "mặt trời mặt trăng cùng chiếu soi"
+      ],
+      "en": [
+        "sun and moon together shine,"
+      ]
+    },
+    {
+      "zh": [
+        "故能生城萬物，發育庶類，"
+      ],
+      "vi": [
+        "mới sinh thành muôn vật, nảy nở mọi loài"
+      ],
+      "en": [
+        "and so they can give birth to the myriad things and nurture all kinds."
+      ]
+    },
+    {
+      "zh": [
+        "亦猶皇后配儷宸極，"
+      ],
+      "vi": [
+        "cũng như hoàng hậu sánh với ngôi vua"
+      ],
+      "en": [
+        "In the same way the empress is the consort of the sovereign,"
+      ]
+    },
+    {
+      "zh": [
+        "故能表率宫中，化成天下。"
+      ],
+      "vi": [
+        "cho nên mới có thể",
+        "đứng đầu tiêu biểu cho nội cung, tác thành cho thiên hạ"
+      ],
+      "en": [
+        "and so can set the example for the inner palace and transform the realm."
+      ]
+    },
+    {
+      "zh": [
+        "自古祗有立一人以主内治而已，"
+      ],
+      "vi": [
+        "Từ xưa chỉ lập",
+        "một người để chủ việc nội trị mà thôi"
+      ],
+      "en": [
+        "Since antiquity there has been only one person established to preside over the inner household;"
+      ]
+    },
+    {
+      "zh": [
+        "未聞有五其名者。"
+      ],
+      "vi": [
+        "chưa từng nghe nói lập đến 5 người"
+      ],
+      "en": [
+        "I have never heard of five bearing such a title."
+      ]
+    },
+    {
+      "zh": [
+        "先皇無稽古學，"
+      ],
+      "vi": [
+        "Tiên Hoàng không kê cứu cổ học"
+      ],
+      "en": [
+        "Emperor Tiên Hoàng did not study the ancient teachings,"
+      ]
+    },
+    {
+      "zh": [
+        "而當時帬臣又無匡正之者，"
+      ],
+      "vi": [
+        "mà bầy tôi đương thời lại không có ai biết giúp sửa cho đúng"
+      ],
+      "en": [
+        "and the ministers of his day had no one able to correct him,"
+      ]
+    },
+    {
+      "zh": [
+        "致使溺私，並立五后。"
+      ],
+      "vi": [
+        "để đến nỗi chìm đắm trong tình riêng, cùng lập 5 hoàng hậu"
+      ],
+      "en": [
+        "so that he gave way to private affection and established five empresses at once."
+      ]
+    },
+    {
+      "zh": [
+        "下至黎李二家，亦多效而行之，"
+      ],
+      "vi": [
+        "Sau đến 2 triều Lê, Lý cũng phần nhiều bắt chước làm theo"
+      ],
+      "en": [
+        "Later the two houses of Lê and Lý often imitated him;"
+      ]
+    },
+    {
+      "zh": [
+        "由先皇始唱其亂階也。"
+      ],
+      "vi": [
+        "ấy là do Tiên Hoàng khởi xướng sự rối loạn thứ bậc vậy"
+      ],
+      "en": [
+        "it was Tiên Hoàng who began this disorder of rank."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "E04",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "th0",
+  "type": "narr",
+  "folio": "2a",
+  "folios": [
+    "2b"
+  ],
+  "page": 58,
+  "zh": "時十二使君自相䧺長，割據土宇。吳昌熾㨿平橋，吳日慶㨿唐林，矯三制㨿峯州，阮太平㨿阮家灣，杜景碩據杜洞江，阮令公㨿西扶烈，細江則有吕佐，唐僊遊則有阮守㨗，超類則有李郎公，洄湖則有矯令公，藤州則有范防遏，布海則有陳公。王一舉平之，遂自立爲帝。擇得潭村華地，建都居之，以其地狹隘，又無設險之利，復都華閭。",
+  "zhPartial": false,
+  "vi": "Bấy giờ Mười hai sứ quân đều tự xưng hùng trưởng, cát cứ đất đai. Ngô Xương Xí chiếm Bình Kiều, Ngô Nhật Khánh chiếm Đường Lâm, Kiểu Tam Chế chiếm Phong Châu, Nguyễn Thái Bình chiếm Nguyễn Gia Loan, Đỗ Cảnh Thạc chiếm miền sông Đỗ Động, Nguyễn Lệnh Công{n1} chiếm Tây Phù Liệt, Tế Giang thì có Lữ Tá Đường, Tiên Du có Nguyễn Thủ Tiệp, Siêu Loại có Lý Lãng Công, Hồi Hồ có Kiểu Lệnh Công, Đằng Châu có Phạm Phòng Át, Bố Hải có Trần Minh Công{n2}. Vua một phen cất quân là dẹp yên, bèn tự lập làm đế. Chọn được chỗ đất đẹp ở Đàm thôn, vua muốn dựng |2b| đô ở đó, nhưng vì thế đất chật hẹp lại không có lợi về việc đặt hiểm, nên vẫn đóng đô ở Hoa Lư{n3} ⟨nay là phủ Trường Yên⟩.",
+  "en": "At that time twelve lords were each calling themselves strongmen and dividing the land among themselves. Ngô Xương Xí held Bình Kiều; Ngô Nhật Khánh held Đường Lâm; Kiều Tam Chế held Phong Châu; Nguyễn Thái Bình held Nguyễn Gia Loan; Đỗ Cảnh Thạc held the Đỗ Động river area; Nguyễn Lệnh Công held Tây Phù Liệt; at Tế Giang there was Lữ Tá Đường; at Tiên Du, Nguyễn Thủ Tiệp; at Siêu Loại, Lý Lãng Công; at Hồi Hồ, Kiều Lệnh Công; at Đằng Châu, Phạm Phòng Át; and at Bố Hải, Trần Minh Công. The emperor put them all down in a single campaign and then proclaimed himself emperor. He chose a fine site at Đàm village and wished to build his capital there, but the ground was cramped and lacked natural defenses, so he made Hoa Lư his capital again (today's Trường Yên prefecture).",
+  "notes": [
+    "Ở đoạn trước, NK5 chép là Nguyễn Hữu Công.",
+    "Tên địa phương cát cứ của các sứ quân, xem chú thích (7), tr. 209.",
+    "Động Hoa Lư: Cương mục: ở về sơn phận hai xã Uy Viễn và Uy Tế tỉnh Ninh Bình cũ; nơi đây bốn mặt đều có núi đá dựng đứng như bức vách, trong có một chỗ hơi bằng phẳng rộng rãi, người địa phương gọi là động Hoa Lư (CMTB5, 24b). Nay thuộc huyện Gia Viễn, tỉnh Hà Nam Ninh."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "時十二使君自相䧺長"
+      ],
+      "vi": [
+        "Bấy giờ Mười hai sứ quân đều tự xưng hùng trưởng"
+      ],
+      "en": [
+        "At that time twelve lords were each calling themselves strongmen"
+      ]
+    },
+    {
+      "zh": [
+        "割據土宇"
+      ],
+      "vi": [
+        "cát cứ đất đai"
+      ],
+      "en": [
+        "and dividing the land among themselves."
+      ]
+    },
+    {
+      "zh": [
+        "吳昌熾㨿平橋"
+      ],
+      "vi": [
+        "Ngô Xương Xí chiếm Bình Kiều"
+      ],
+      "en": [
+        "Ngô Xương Xí held Bình Kiều;"
+      ]
+    },
+    {
+      "zh": [
+        "吳日慶㨿唐林"
+      ],
+      "vi": [
+        "Ngô Nhật Khánh chiếm Đường Lâm"
+      ],
+      "en": [
+        "Ngô Nhật Khánh held Đường Lâm;"
+      ]
+    },
+    {
+      "zh": [
+        "矯三制㨿峯州"
+      ],
+      "vi": [
+        "Kiểu Tam Chế chiếm Phong Châu"
+      ],
+      "en": [
+        "Kiều Tam Chế held Phong Châu;"
+      ]
+    },
+    {
+      "zh": [
+        "阮太平㨿阮家灣"
+      ],
+      "vi": [
+        "Nguyễn Thái Bình chiếm Nguyễn Gia Loan"
+      ],
+      "en": [
+        "Nguyễn Thái Bình held Nguyễn Gia Loan;"
+      ]
+    },
+    {
+      "zh": [
+        "杜景碩據杜洞江"
+      ],
+      "vi": [
+        "Đỗ Cảnh Thạc chiếm miền sông Đỗ Động"
+      ],
+      "en": [
+        "Đỗ Cảnh Thạc held the Đỗ Động river area;"
+      ]
+    },
+    {
+      "zh": [
+        "阮令公㨿西扶烈"
+      ],
+      "vi": [
+        "Nguyễn Lệnh Công chiếm Tây Phù Liệt"
+      ],
+      "en": [
+        "Nguyễn Lệnh Công held Tây Phù Liệt;"
+      ]
+    },
+    {
+      "zh": [
+        "細江則有吕佐，唐"
+      ],
+      "vi": [
+        "Tế Giang thì có Lữ Tá Đường"
+      ],
+      "en": [
+        "at Tế Giang there was Lữ Tá Đường;"
+      ]
+    },
+    {
+      "zh": [
+        "僊遊則有阮守㨗"
+      ],
+      "vi": [
+        "Tiên Du có Nguyễn Thủ Tiệp"
+      ],
+      "en": [
+        "at Tiên Du, Nguyễn Thủ Tiệp;"
+      ]
+    },
+    {
+      "zh": [
+        "超類則有李郎公"
+      ],
+      "vi": [
+        "Siêu Loại có Lý Lãng Công"
+      ],
+      "en": [
+        "at Siêu Loại, Lý Lãng Công;"
+      ]
+    },
+    {
+      "zh": [
+        "洄湖則有矯令公"
+      ],
+      "vi": [
+        "Hồi Hồ có Kiểu Lệnh Công"
+      ],
+      "en": [
+        "at Hồi Hồ, Kiều Lệnh Công;"
+      ]
+    },
+    {
+      "zh": [
+        "藤州則有范防遏"
+      ],
+      "vi": [
+        "Đằng Châu có Phạm Phòng Át"
+      ],
+      "en": [
+        "at Đằng Châu, Phạm Phòng Át;"
+      ]
+    },
+    {
+      "zh": [
+        "布海則有陳公"
+      ],
+      "vi": [
+        "Bố Hải có Trần Minh Công"
+      ],
+      "en": [
+        "and at Bố Hải, Trần Minh Công."
+      ]
+    },
+    {
+      "zh": [
+        "王一舉平之，遂自立爲帝"
+      ],
+      "vi": [
+        "Vua một phen cất quân là dẹp yên, bèn tự lập làm đế"
+      ],
+      "en": [
+        "The emperor put them all down in a single campaign and then proclaimed himself emperor."
+      ]
+    },
+    {
+      "zh": [
+        "擇得潭村華地"
+      ],
+      "vi": [
+        "Chọn được chỗ đất đẹp ở Đàm thôn"
+      ],
+      "en": [
+        "He chose a fine site at Đàm village"
+      ]
+    },
+    {
+      "zh": [
+        "建都居之"
+      ],
+      "vi": [
+        "vua muốn dựng đô ở đó"
+      ],
+      "en": [
+        "and wished to build his capital there,"
+      ]
+    },
+    {
+      "zh": [
+        "以其地狹隘，又無設險之利"
+      ],
+      "vi": [
+        "nhưng vì thế đất chật hẹp lại không có lợi về việc đặt hiểm"
+      ],
+      "en": [
+        "but the ground was cramped and lacked natural defenses,"
+      ]
+    },
+    {
+      "zh": [
+        "復都華閭"
+      ],
+      "vi": [
+        "nên vẫn đóng đô ở Hoa Lư"
+      ],
+      "en": [
+        "so he made Hoa Lư his capital again (today's Trường Yên prefecture)."
+      ]
+    }
+  ]
+}

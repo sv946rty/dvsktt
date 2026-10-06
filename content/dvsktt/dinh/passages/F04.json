@@ -1,0 +1,171 @@
+{
+  "id": "F04",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "pd0",
+  "type": "comment",
+  "folio": "8a",
+  "folios": [],
+  "page": 62,
+  "zh": "史臣吳士連曰：周公以王室懿親輔幼君，不晃有流言之諧，黎桓異姓之卿，手握兵權，行周公之事，常情猶疑，况阮匐位居首相，丁佃同姓之卿乎，其起兵非稱亂也，一心左袒為丁氏也，誅桓不克而死，死得其所矣。今觀大行數匐之辭，有若自狀，匐死之時，必有一言以伸其義，史不見書，失之也。",
+  "zhPartial": false,
+  "vi": "Sử thần Ngô Sĩ Liên nói: Chu Công là người vương thất rất thân, giúp vua nhỏ tuổi còn không tránh khỏi những lời gièm pha phao truyền. Lê Hoàn là đại thần khác họ, nắm giữ binh quyền, làm công việc như Chu Công, thường tình còn ngờ vực, huống là Nguyễn Bặc ở chức thủ tướng và Đinh Điền là đại thần cùng họ hay sao? Bọn họ khởi binh không phải làm loạn, mà là một lòng phù tá nhà Đinh, vì giết Hoàn không được mà phải chết, ấy là chết đúng chỗ. Nay xem lời Đại Hành kể tội Nguyễn Bặc tựa như vạch tội mình. Khi Bặc chết, ắt phải có nói một lời để bày tỏ chính nghĩa, nhưng không thấy sử chép, thế là bỏ sót.",
+  "en": "The historian Ngô Sĩ Liên comments: The Duke of Zhou was a close kinsman of the royal house and assisted a young ruler, yet could not avoid slanderous rumors. Lê Hoàn was a minister of a different surname holding military power and acting as the Duke of Zhou had; even ordinary feeling would be suspicious, and how much more so with Nguyễn Bặc, chief minister, and Đinh Điền, a minister of the same surname! Their raising of troops was not rebellion; they wholeheartedly supported the house of Đinh. They died because they could not kill Hoàn, and they died in the right place. Now, reading Đại Hành's accusation against Bặc, it seems like an accusation of himself. When Bặc died there must have been a statement of his principle, but the histories do not record it; this is an omission.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "史臣吳士連曰："
+      ],
+      "vi": [
+        "Sử thần Ngô Sĩ Liên nói"
+      ],
+      "en": [
+        "The historian Ngô Sĩ Liên comments:"
+      ]
+    },
+    {
+      "zh": [
+        "周公以王室懿親"
+      ],
+      "vi": [
+        "Chu Công là người vương thất rất thân"
+      ],
+      "en": [
+        "The Duke of Zhou was a close kinsman of the royal house"
+      ]
+    },
+    {
+      "zh": [
+        "輔幼君，"
+      ],
+      "vi": [
+        "giúp vua nhỏ tuổi"
+      ],
+      "en": [
+        "and assisted a young ruler,"
+      ]
+    },
+    {
+      "zh": [
+        "不晃有流言之諧，"
+      ],
+      "vi": [
+        "còn không tránh khỏi những lời gièm pha phao truyền"
+      ],
+      "en": [
+        "yet could not avoid slanderous rumors."
+      ]
+    },
+    {
+      "zh": [
+        "黎桓異姓之卿，手握兵權，"
+      ],
+      "vi": [
+        "Lê Hoàn là đại thần khác họ, nắm giữ binh quyền"
+      ],
+      "en": [
+        "Lê Hoàn was a minister of a different surname holding military power"
+      ]
+    },
+    {
+      "zh": [
+        "行周公之事，常情猶疑，"
+      ],
+      "vi": [
+        "làm công việc như Chu Công, thường tình còn ngờ vực"
+      ],
+      "en": [
+        "and acting as the Duke of Zhou had; even ordinary feeling would be suspicious,"
+      ]
+    },
+    {
+      "zh": [
+        "况阮匐位居首相，丁佃同姓之卿乎，"
+      ],
+      "vi": [
+        "huống là Nguyễn Bặc ở chức thủ tướng và Đinh Điền là đại thần cùng họ hay sao"
+      ],
+      "en": [
+        "and how much more so with Nguyễn Bặc, chief minister, and Đinh Điền, a minister of the same surname!"
+      ]
+    },
+    {
+      "zh": [
+        "其起兵非稱亂也，"
+      ],
+      "vi": [
+        "Bọn họ khởi binh không phải làm loạn"
+      ],
+      "en": [
+        "Their raising of troops was not rebellion;"
+      ]
+    },
+    {
+      "zh": [
+        "一心左袒為丁氏也，"
+      ],
+      "vi": [
+        "mà là một lòng phù tá nhà Đinh"
+      ],
+      "en": [
+        "they wholeheartedly supported the house of Đinh."
+      ]
+    },
+    {
+      "zh": [
+        "誅桓不克而死，"
+      ],
+      "vi": [
+        "vì giết Hoàn không được mà phải chết"
+      ],
+      "en": [
+        "They died because they could not kill Hoàn,"
+      ]
+    },
+    {
+      "zh": [
+        "死得其所矣。"
+      ],
+      "vi": [
+        "ấy là chết đúng chỗ"
+      ],
+      "en": [
+        "and they died in the right place."
+      ]
+    },
+    {
+      "zh": [
+        "今觀大行數匐之辭，有若自狀，"
+      ],
+      "vi": [
+        "Nay xem lời Đại Hành kể tội Nguyễn Bặc tựa như vạch tội mình"
+      ],
+      "en": [
+        "Now, reading Đại Hành's accusation against Bặc, it seems like an accusation of himself."
+      ]
+    },
+    {
+      "zh": [
+        "匐死之時，必有一言以伸其義，"
+      ],
+      "vi": [
+        "Khi Bặc chết, ắt phải có nói một lời để bày tỏ chính nghĩa"
+      ],
+      "en": [
+        "When Bặc died there must have been a statement of his principle,"
+      ]
+    },
+    {
+      "zh": [
+        "史不見書，失之也。"
+      ],
+      "vi": [
+        "nhưng không thấy sử chép, thế là bỏ sót"
+      ],
+      "en": [
+        "but the histories do not record it; this is an omission."
+      ]
+    }
+  ]
+}

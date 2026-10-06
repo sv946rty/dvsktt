@@ -1,0 +1,64 @@
+{
+  "id": "F06",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "9a",
+  "folios": [
+    "9a"
+  ],
+  "page": 62,
+  "zh": "庚辰十一年〈廢帝仍太平年號，七月以後，黎大行天福元年。宋太平興國五年〉",
+  "zhPartial": false,
+  "vi": "|9a| Canh Thìn, ⟦Thái Bình⟧ năm thứ 11 ⟦980⟧, ⟨Phế Đế vẫn dùng niên hiệu Thái Bình, từ tháng 7 về sau là niên hiệu Thiên Phúc năm đầu của Lê Đại Hành; Tống Thái Bình Hưng Quốc năm thứ 5⟩.",
+  "en": "Year 11 of Canh Thìn [980] (the Deposed Emperor still used the era name Thái Bình; from the seventh month it is Thiên Phúc 1 of Lê Đại Hành; Song Taiping Xingguo 5).",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "庚辰十一年"
+      ],
+      "vi": [
+        "Canh Thìn",
+        "năm thứ 11"
+      ],
+      "en": [
+        "Year 11 of Canh Thìn [980]"
+      ]
+    },
+    {
+      "zh": [
+        "廢帝仍太平年號，"
+      ],
+      "vi": [
+        "Phế Đế vẫn dùng niên hiệu Thái Bình"
+      ],
+      "en": [
+        "(the Deposed Emperor still used the era name Thái Bình;"
+      ]
+    },
+    {
+      "zh": [
+        "七月以後，黎大行天福元年。"
+      ],
+      "vi": [
+        "từ tháng 7 về sau là niên hiệu Thiên Phúc năm đầu của Lê Đại Hành"
+      ],
+      "en": [
+        "from the seventh month it is Thiên Phúc 1 of Lê Đại Hành;"
+      ]
+    },
+    {
+      "zh": [
+        "宋太平興國五年"
+      ],
+      "vi": [
+        "Tống Thái Bình Hưng Quốc năm thứ 5"
+      ],
+      "en": [
+        "Song Taiping Xingguo 5)."
+      ]
+    }
+  ]
+}

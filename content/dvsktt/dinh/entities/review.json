@@ -1,0 +1,26 @@
+[
+ {
+  "review_id": "q0001",
+  "kind": "entity_resolution",
+  "entity_id": "place:truong-yen",
+  "reason": "Historical toponym equivalence requires authority review",
+  "names": {
+   "zh": "長安",
+   "vi": "Trường Yên"
+  }
+ },
+ {
+  "review_id": "q0002",
+  "kind": "text_variant_or_ocr",
+  "surface": "Tràn Khâm Tộ",
+  "suggested_entity": "person:tran-kham-to",
+  "reason": "Vietnamese source has Tràn; canonical reading is Trần Khâm Tộ. Preserve source surface and review edition/scan."
+ },
+ {
+  "review_id": "q0003",
+  "kind": "text_variant_or_ocr",
+  "surface": "Nam Việt Vương Liệt",
+  "suggested_entity": "person:dinh-lien",
+  "reason": "Chinese has 璉; nearby Vietnamese context subsequently says Liễn. Verify edition/scan."
+ }
+]

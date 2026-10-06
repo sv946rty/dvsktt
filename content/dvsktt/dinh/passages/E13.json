@@ -1,0 +1,64 @@
+{
+  "id": "E13",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "972",
+  "type": "annal",
+  "folio": "4a",
+  "folios": [
+    "4a"
+  ],
+  "page": 59,
+  "zh": "壬申三年〈宋開寳五年〉。遣南越王璉聘于宋。",
+  "zhPartial": false,
+  "vi": "|4a| Nhâm Thân, ⟦Thái Bình⟧ năm thứ 3 ⟦972⟧, ⟨Tống Khai Bảo năm thứ 5⟩. Sai Nam Việt Vương Liễn sang sứ thăm nhà Tống.",
+  "en": "Year 3 of Nhâm Thân [972] (Song Kaibao 5). He sent Liễn, King of Nam Việt, on a mission to the Song.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "壬申三年"
+      ],
+      "vi": [
+        "Nhâm Thân",
+        "năm thứ 3"
+      ],
+      "en": [
+        "Year 3 of Nhâm Thân [972]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳五年"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 5"
+      ],
+      "en": [
+        "(Song Kaibao 5)."
+      ]
+    },
+    {
+      "zh": [
+        "遣南越王璉"
+      ],
+      "vi": [
+        "Sai Nam Việt Vương Liễn"
+      ],
+      "en": [
+        "He sent Liễn, King of Nam Việt,"
+      ]
+    },
+    {
+      "zh": [
+        "聘于宋"
+      ],
+      "vi": [
+        "sang sứ thăm nhà Tống"
+      ],
+      "en": [
+        "on a mission to the Song."
+      ]
+    }
+  ]
+}

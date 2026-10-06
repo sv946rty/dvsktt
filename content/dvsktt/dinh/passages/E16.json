@@ -1,0 +1,50 @@
+{
+  "id": "E16",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "974",
+  "type": "annal",
+  "folio": "4a",
+  "folios": [],
+  "page": 60,
+  "zh": "皇次子璿生。",
+  "zhPartial": false,
+  "vi": "Hoàng thứ tử là Toàn sinh.",
+  "en": "The emperor's second son, Toàn, was born.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "皇次子"
+      ],
+      "vi": [
+        "Hoàng thứ tử"
+      ],
+      "en": [
+        "The emperor's second son,"
+      ]
+    },
+    {
+      "zh": [
+        "璿"
+      ],
+      "vi": [
+        "Toàn"
+      ],
+      "en": [
+        "Toàn,"
+      ]
+    },
+    {
+      "zh": [
+        "生。"
+      ],
+      "vi": [
+        "sinh"
+      ],
+      "en": [
+        "was born."
+      ]
+    }
+  ]
+}

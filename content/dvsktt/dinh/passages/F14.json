@@ -1,0 +1,288 @@
+{
+  "id": "F14",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "12a",
+  "folios": [
+    "12b"
+  ],
+  "page": 64,
+  "zh": "冬十月，帝將發兵，先遺牙校江巨望、王紹祚賫書于宋，詐為璿書，求襲父位，乞賜真命，欲以綏宋師。其辭曰：「臣父某兄某，俱荷國恩，忝分闊寄，謹保封界敢有肯違，汗馬之勞未施，朝露之悲俄至，臣堂構相壞，衰裳未除，管內軍民，將吏藩裔耆耋畫等共詣苫魄之中，俾權軍旅之事，臣懇辭數四，請逼愈堅，將待奏陳，又慮稽緩，山野獷惡之俗，洞靈狡猾之民，倘不徇其情，恐或生異變，臣謹己攝節度行軍司馬，權領州軍事，伏望假以真命，令備列藩，慰微臣盡忠之心，畢聖代延賞之典。」",
+  "zhPartial": false,
+  "vi": "Mùa đông, tháng 10, vua sắp phát binh, trước sai nha hiệu là Giang Cự Vọng, Vương Thiệu Tộ đưa thư sang nước Tống giả làm thư của ⟦Vệ Vương⟧ Toàn thỉnh cầu nối ngôi cha, xin ban cho mệnh lệnh chính thức, ý muốn hoãn binh nhà Tống ⟨thư nói: cha thần là mỗ, anh thần là mỗ, điều được đội ơn nước, cho giữ phận trông coi biên khổn, kính giữ bờ cõi, không dám trái lệnh. Chưa khó nhọc ngựa đổ mồ hôi, đã đau buồn sương tan buổi sớm{n1}. Nhà thần sắp sụp đổ, chưa bỏ áo tang thì quân dân tướng lại trong hạt, người già lão ở núi rừng cùng đến chỗ nằm rơm gối đất{n2} của thần, bảo thần tạm giữ việc quân lữ. Thần cố từ ba bốn lần, nhưng bọn họ thỉnh cầu nài ép càng khẩn thiết. Thần muốn |12b| đợi tâu bày, nhưng lại lo chậm trễ; người núi rừng hung ác, dân khe động tráo trở, nếu không chiều ý họ, sợ có khi tai biến xảy ra. Cho nên thần đã kính giữ quyền Tiết độ hành quân tư mã, tạm giữ việc quân trong châu. Cúi mong được chính thức lĩnh mệnh, đủ được dự hàng phiên bang, để yên ủi tấm lòng tận trung của kẻ tôi mọn, nêu cao thịnh điển ban khen của thánh triều⟩.",
+  "en": "Winter, tenth month: the emperor [Lê Hoàn] was about to send out troops, and first sent the staff officers Giang Cự Vọng and Vương Thiệu Tộ to the Song with a letter forged as if from Toàn [Prince of Vệ], asking to inherit his father's position and to be granted a formal commission, intending to delay the Song armies. The letter said: \"My father, so-and-so, and my brother, so-and-so, both bore the state's grace and undeservedly held a border charge, keeping the boundaries with care and daring not to disobey orders. Before the toil of the sweating horse could be applied, the sorrow of the morning dew arrived [that is, father and brother died soon after taking office]. My house is falling; before the mourning clothes were removed, the troops and people, the officials and tribal elders of the territory came together at my mourning mat and urged me to hold the army's affairs for the time being. I declined three or four times, but their requests grew ever more earnest. I wished to wait and report, but feared delay; the mountain people are fierce and the people of the grottoes treacherous, and if I did not follow their wishes I feared unrest might arise. So I have taken up the post of Acting Military Adjutant of the Jiedushi and temporarily direct the affairs of the prefecture. I humbly hope you will grant me a formal commission, so that I may join the ranks of the vassal states, to comfort the loyalty of this small servant and to exalt the grand ceremony of the sage dynasty's commendation.\"",
+  "notes": [
+    "Ý nói cha và anh ở ngôi chưa được bao lâu đã bị nạn.",
+    "Nguyên văn: \"Chiêm khối\", chỉ nơi ở trong thời gian chịu tang cha mẹ (nằm chiếu rơm (chiêm), gối đầu trên hòn đất (khối)."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "冬十月，"
+      ],
+      "vi": [
+        "Mùa đông, tháng 10"
+      ],
+      "en": [
+        "Winter, tenth month:"
+      ]
+    },
+    {
+      "zh": [
+        "帝將發兵，"
+      ],
+      "vi": [
+        "vua sắp phát binh"
+      ],
+      "en": [
+        "the emperor [Lê Hoàn] was about to send out troops,"
+      ]
+    },
+    {
+      "zh": [
+        "先遺牙校江巨望、王紹祚"
+      ],
+      "vi": [
+        "trước sai nha hiệu là Giang Cự Vọng, Vương Thiệu Tộ"
+      ],
+      "en": [
+        "and first sent the staff officers Giang Cự Vọng and Vương Thiệu Tộ"
+      ]
+    },
+    {
+      "zh": [
+        "賫書于宋，"
+      ],
+      "vi": [
+        "đưa thư sang nước Tống"
+      ],
+      "en": [
+        "to the Song with a letter"
+      ]
+    },
+    {
+      "zh": [
+        "詐為璿書，"
+      ],
+      "vi": [
+        "giả làm thư của",
+        "Toàn"
+      ],
+      "en": [
+        "forged as if from Toàn [Prince of Vệ],"
+      ]
+    },
+    {
+      "zh": [
+        "求襲父位，乞賜真命，"
+      ],
+      "vi": [
+        "thỉnh cầu nối ngôi cha, xin ban cho mệnh lệnh chính thức"
+      ],
+      "en": [
+        "asking to inherit his father's position and to be granted a formal commission,"
+      ]
+    },
+    {
+      "zh": [
+        "欲以綏宋師。"
+      ],
+      "vi": [
+        "ý muốn hoãn binh nhà Tống"
+      ],
+      "en": [
+        "intending to delay the Song armies."
+      ]
+    },
+    {
+      "zh": [
+        "其辭曰："
+      ],
+      "vi": [
+        "thư nói"
+      ],
+      "en": [
+        "The letter said:"
+      ]
+    },
+    {
+      "zh": [
+        "「臣父某兄某，"
+      ],
+      "vi": [
+        "cha thần là mỗ, anh thần là mỗ"
+      ],
+      "en": [
+        "\"My father, so-and-so, and my brother, so-and-so,"
+      ]
+    },
+    {
+      "zh": [
+        "俱荷國恩，忝分闊寄，"
+      ],
+      "vi": [
+        "điều được đội ơn nước, cho giữ phận trông coi biên khổn"
+      ],
+      "en": [
+        "both bore the state's grace and undeservedly held a border charge,"
+      ]
+    },
+    {
+      "zh": [
+        "謹保封界敢有肯違，"
+      ],
+      "vi": [
+        "kính giữ bờ cõi, không dám trái lệnh"
+      ],
+      "en": [
+        "keeping the boundaries with care and daring not to disobey orders."
+      ]
+    },
+    {
+      "zh": [
+        "汗馬之勞未施，朝露之悲俄至，"
+      ],
+      "vi": [
+        "Chưa khó nhọc ngựa đổ mồ hôi, đã đau buồn sương tan buổi sớm"
+      ],
+      "en": [
+        "Before the toil of the sweating horse could be applied, the sorrow of the morning dew arrived [that is, father and brother died soon after taking office]."
+      ]
+    },
+    {
+      "zh": [
+        "臣堂構相壞，衰裳未除，"
+      ],
+      "vi": [
+        "Nhà thần sắp sụp đổ, chưa bỏ áo tang"
+      ],
+      "en": [
+        "My house is falling; before the mourning clothes were removed,"
+      ]
+    },
+    {
+      "zh": [
+        "管內軍民，將吏藩裔耆耋畫等"
+      ],
+      "vi": [
+        "thì quân dân tướng lại trong hạt, người già lão ở núi rừng"
+      ],
+      "en": [
+        "the troops and people, the officials and tribal elders of the territory"
+      ]
+    },
+    {
+      "zh": [
+        "共詣苫魄之中，"
+      ],
+      "vi": [
+        "cùng đến chỗ nằm rơm gối đất của thần"
+      ],
+      "en": [
+        "came together at my mourning mat"
+      ]
+    },
+    {
+      "zh": [
+        "俾權軍旅之事，"
+      ],
+      "vi": [
+        "bảo thần tạm giữ việc quân lữ"
+      ],
+      "en": [
+        "and urged me to hold the army's affairs for the time being."
+      ]
+    },
+    {
+      "zh": [
+        "臣懇辭數四，請逼愈堅，"
+      ],
+      "vi": [
+        "Thần cố từ ba bốn lần, nhưng bọn họ thỉnh cầu nài ép càng khẩn thiết"
+      ],
+      "en": [
+        "I declined three or four times, but their requests grew ever more earnest."
+      ]
+    },
+    {
+      "zh": [
+        "將待奏陳，又慮稽緩，"
+      ],
+      "vi": [
+        "Thần muốn",
+        "đợi tâu bày, nhưng lại lo chậm trễ"
+      ],
+      "en": [
+        "I wished to wait and report, but feared delay;"
+      ]
+    },
+    {
+      "zh": [
+        "山野獷惡之俗，洞靈狡猾之民，"
+      ],
+      "vi": [
+        "người núi rừng hung ác, dân khe động tráo trở"
+      ],
+      "en": [
+        "the mountain people are fierce and the people of the grottoes treacherous,"
+      ]
+    },
+    {
+      "zh": [
+        "倘不徇其情，恐或生異變，"
+      ],
+      "vi": [
+        "nếu không chiều ý họ, sợ có khi tai biến xảy ra"
+      ],
+      "en": [
+        "and if I did not follow their wishes I feared unrest might arise."
+      ]
+    },
+    {
+      "zh": [
+        "臣謹己攝節度行軍司馬，權領州軍事，"
+      ],
+      "vi": [
+        "Cho nên thần đã kính giữ quyền Tiết độ hành quân tư mã, tạm giữ việc quân trong châu"
+      ],
+      "en": [
+        "So I have taken up the post of Acting Military Adjutant of the Jiedushi and temporarily direct the affairs of the prefecture."
+      ]
+    },
+    {
+      "zh": [
+        "伏望假以真命，令備列藩，"
+      ],
+      "vi": [
+        "Cúi mong được chính thức lĩnh mệnh, đủ được dự hàng phiên bang"
+      ],
+      "en": [
+        "I humbly hope you will grant me a formal commission, so that I may join the ranks of the vassal states,"
+      ]
+    },
+    {
+      "zh": [
+        "慰微臣盡忠之心，"
+      ],
+      "vi": [
+        "để yên ủi tấm lòng tận trung của kẻ tôi mọn"
+      ],
+      "en": [
+        "to comfort the loyalty of this small servant"
+      ]
+    },
+    {
+      "zh": [
+        "畢聖代延賞之典。」"
+      ],
+      "vi": [
+        "nêu cao thịnh điển ban khen của thánh triều"
+      ],
+      "en": [
+        "and to exalt the grand ceremony of the sage dynasty's commendation.\""
+      ]
+    }
+  ]
+}

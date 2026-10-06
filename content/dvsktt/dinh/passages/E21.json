@@ -1,0 +1,62 @@
+{
+  "id": "E21",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "977",
+  "type": "annal",
+  "folio": "4b",
+  "folios": [],
+  "page": 60,
+  "zh": "丁丑八年〈宋太平興國二年〉。遣使如宋賀太宗即位。",
+  "zhPartial": false,
+  "vi": "Đinh Sửu, ⟦Thái Bình⟧ năm thứ 8 ⟦977⟧, ⟨Tống Thái Bình Hưng Quốc năm thứ 2⟩. Sai sứ sang nhà Tống mừng Thái Tông lên ngôi.",
+  "en": "Year 8 of Đinh Sửu [977] (Song Taiping Xingguo 2). He sent an envoy to the Song to congratulate Taizong on his accession.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "丁丑八年"
+      ],
+      "vi": [
+        "Đinh Sửu",
+        "năm thứ 8"
+      ],
+      "en": [
+        "Year 8 of Đinh Sửu [977]"
+      ]
+    },
+    {
+      "zh": [
+        "宋太平興國二年。"
+      ],
+      "vi": [
+        "Tống Thái Bình Hưng Quốc năm thứ 2"
+      ],
+      "en": [
+        "(Song Taiping Xingguo 2)."
+      ]
+    },
+    {
+      "zh": [
+        "遣使"
+      ],
+      "vi": [
+        "Sai sứ"
+      ],
+      "en": [
+        "He sent an envoy"
+      ]
+    },
+    {
+      "zh": [
+        "如宋賀太宗即位。"
+      ],
+      "vi": [
+        "sang nhà Tống mừng Thái Tông lên ngôi"
+      ],
+      "en": [
+        "to the Song to congratulate Taizong on his accession."
+      ]
+    }
+  ]
+}

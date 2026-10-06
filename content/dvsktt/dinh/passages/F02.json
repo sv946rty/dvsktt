@@ -1,0 +1,386 @@
+{
+  "id": "F02",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "pd0",
+  "type": "narr",
+  "folio": "7a",
+  "folios": [
+    "7b"
+  ],
+  "page": 62,
+  "zh": "帝嗣位，年方六歲，黎桓攝政，行周公居攝之事，自稱副王。定國公阮匐，外甲丁佃，范盍等疑桓將不利於孺子，乃相率起兵，分水陸二道，欲向京師誅桓，不克死之。先是，佃、匐起兵，太后聞之惧，謂桓曰：「匐等稱兵唱亂，驚我國家，帝幼弱，未堪多難，公等圖之，毋貽後患。」桓曰：「臣居攝副，死生禍變，當任其責。」於是整旅與佃，匐戰于西都〈桓愛州人，都華闡，故史號愛州為西郡〉。佃，匐敗北，復以舟師出戰，桓困風縱火，焚其戰艦，斬佃于陣，執匐檻送京師，讓之曰：「先帝罹難，神人尚為憤羞，汝為臣子，乃乘其喪亂，背義興兵，臣子之職，固如是乎。」逐斬以徇。",
+  "zhPartial": false,
+  "vi": "Vua nối ngôi khi mới 6 tuổi. Lê Hoàn nhiếp chính, làm công việc như Chu Công{n1}, tự xưng là Phó Vương. Bọn Định quốc công Nguyễn Bặc, ngoại giáp Đinh Điền, Phạm Hạp ngờ Hoàn sẽ làm điều bất lợi cho vua nhỏ, bèn cùng nhau dấy binh, chia hai đường thủy bộ, muốn tiến về kinh đô giết |7b| Hoàn, nhưng không đánh nổi, bị giết. Trước đó khi Điền và Bặc cất quân, Thái hậu nghe tin, lo sợ bảo Hoàn rằng: \"Bọn Bặc dấy quân khởi loạn làm kinh động nước nhà ta. Vua còn nhỏ yếu chưa kham nổi nhiều nạn, các ông nên liệu tính đi chớ để tai họa về sau\". Hoàn nói: \"Thần ở chức Phó Vương nhiếp chính, dù sống chết biến họa thế nào, đều phải đảm đương trách nhiệm\". Rồi đó chỉnh đốn quân lữ, đánh nhau với Điền, Bặc ở Tây Đô ⟨Hoàn người Ái Châu, ⟦sau lên ngôi⟧ đóng đô ở Hoa Lư, cho nên sử gọi Ái Châu là Tây Đô⟩. Điền, Bặc thua chạy, lại đem quân thủy ra đánh. Hoàn nhân chiều gió phóng lửa đốt thuyền chiến, chém Điền tại trận, bắt được Bặc đóng củi đưa về kinh sư, kể tội rằng: \"Tiên đế mắc nạn, thần người đều căm thẹn. Ngươi là tôi con lại nhân lúc tang tóc bối rối mà dấy quân bội nghĩa. Chức phận tôi con có đâu như thế?\". Bèn chém đầu đem bêu.",
+  "en": "The emperor came to the throne at only six years old. Lê Hoàn served as regent, acting as the Duke of Zhou had in his regency, and called himself Deputy King. Nguyễn Bặc, Duke of Định Quốc, Đinh Điền, the Outer Maternal Relative, and Phạm Hạp suspected that Hoàn would do harm to the boy ruler, and together they rose in arms, advancing by two routes, water and land, intending to march on the capital and kill Hoàn. They failed and died. Before this, when Điền and Bặc raised their armies, the Empress Dowager heard of it in fear and said to Hoàn: \"Bặc and the others have taken up arms to cause disorder and have alarmed our state. The emperor is young and weak and cannot bear many troubles. Gentlemen, make a plan, and leave no calamity for later.\" Hoàn said: \"As Deputy King and regent, whatever life, death, disaster or change may come, I must take the responsibility.\" Then he mustered his troops and fought Điền and Bặc at the Western Capital (Hoàn was a man of Ái Châu, and since the capital was at Hoa Lư, the histories call Ái Châu the Western Capital). Điền and Bặc were defeated and fled, then came out again with naval forces. Hoàn, taking advantage of the wind, set fire to their warships, killed Điền on the battlefield, and captured Bặc, whom he sent in a cage to the capital and rebuked, saying: \"The late emperor met disaster, and gods and men alike feel anger and shame. You, as a subject, took advantage of the confusion of mourning to raise troops against righteousness. Is that the duty of a subject?\" Then he beheaded him and displayed the head.",
+  "notes": [
+    "Chu Công: tức Cơ Đán, em Vũ Vương, nhà Chu (Trung Quốc), có tiếng là người hiền. Thành Vương nối ngôi còn nhỏ tuổi, Chu Công làm nhiếp chính, từng bị lời dèm pha nói rằng Chu Công sẽ làm điều bất lợi cho vua nhỏ..."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "帝嗣位，年方六歲，"
+      ],
+      "vi": [
+        "Vua nối ngôi khi mới 6 tuổi"
+      ],
+      "en": [
+        "The emperor came to the throne at only six years old."
+      ]
+    },
+    {
+      "zh": [
+        "黎桓攝政，"
+      ],
+      "vi": [
+        "Lê Hoàn nhiếp chính"
+      ],
+      "en": [
+        "Lê Hoàn served as regent,"
+      ]
+    },
+    {
+      "zh": [
+        "行周公居攝之事，"
+      ],
+      "vi": [
+        "làm công việc như Chu Công"
+      ],
+      "en": [
+        "acting as the Duke of Zhou had in his regency,"
+      ]
+    },
+    {
+      "zh": [
+        "自稱副王。"
+      ],
+      "vi": [
+        "tự xưng là Phó Vương"
+      ],
+      "en": [
+        "and called himself Deputy King."
+      ]
+    },
+    {
+      "zh": [
+        "定國公阮匐，外甲丁佃，范盍等"
+      ],
+      "vi": [
+        "Bọn Định quốc công Nguyễn Bặc, ngoại giáp Đinh Điền, Phạm Hạp"
+      ],
+      "en": [
+        "Nguyễn Bặc, Duke of Định Quốc, Đinh Điền, the Outer Maternal Relative, and Phạm Hạp"
+      ]
+    },
+    {
+      "zh": [
+        "疑桓將不利於孺子，"
+      ],
+      "vi": [
+        "ngờ Hoàn sẽ làm điều bất lợi cho vua nhỏ"
+      ],
+      "en": [
+        "suspected that Hoàn would do harm to the boy ruler,"
+      ]
+    },
+    {
+      "zh": [
+        "乃相率起兵，"
+      ],
+      "vi": [
+        "bèn cùng nhau dấy binh"
+      ],
+      "en": [
+        "and together they rose in arms,"
+      ]
+    },
+    {
+      "zh": [
+        "分水陸二道，"
+      ],
+      "vi": [
+        "chia hai đường thủy bộ"
+      ],
+      "en": [
+        "advancing by two routes, water and land,"
+      ]
+    },
+    {
+      "zh": [
+        "欲向京師誅桓，"
+      ],
+      "vi": [
+        "muốn tiến về kinh đô giết",
+        "Hoàn"
+      ],
+      "en": [
+        "intending to march on the capital and kill Hoàn."
+      ]
+    },
+    {
+      "zh": [
+        "不克死之。"
+      ],
+      "vi": [
+        "nhưng không đánh nổi, bị giết"
+      ],
+      "en": [
+        "They failed and died."
+      ]
+    },
+    {
+      "zh": [
+        "先是，佃、匐起兵，"
+      ],
+      "vi": [
+        "Trước đó khi Điền và Bặc cất quân"
+      ],
+      "en": [
+        "Before this, when Điền and Bặc raised their armies,"
+      ]
+    },
+    {
+      "zh": [
+        "太后聞之惧，"
+      ],
+      "vi": [
+        "Thái hậu nghe tin, lo sợ"
+      ],
+      "en": [
+        "the Empress Dowager heard of it in fear"
+      ]
+    },
+    {
+      "zh": [
+        "謂桓曰："
+      ],
+      "vi": [
+        "bảo Hoàn rằng"
+      ],
+      "en": [
+        "and said to Hoàn:"
+      ]
+    },
+    {
+      "zh": [
+        "「匐等稱兵唱亂，驚我國家，"
+      ],
+      "vi": [
+        "Bọn Bặc dấy quân khởi loạn làm kinh động nước nhà ta"
+      ],
+      "en": [
+        "\"Bặc and the others have taken up arms to cause disorder and have alarmed our state."
+      ]
+    },
+    {
+      "zh": [
+        "帝幼弱，未堪多難，"
+      ],
+      "vi": [
+        "Vua còn nhỏ yếu chưa kham nổi nhiều nạn"
+      ],
+      "en": [
+        "The emperor is young and weak and cannot bear many troubles."
+      ]
+    },
+    {
+      "zh": [
+        "公等圖之，毋貽後患。」"
+      ],
+      "vi": [
+        "các ông nên liệu tính đi chớ để tai họa về sau"
+      ],
+      "en": [
+        "Gentlemen, make a plan, and leave no calamity for later.\""
+      ]
+    },
+    {
+      "zh": [
+        "桓曰："
+      ],
+      "vi": [
+        "Hoàn nói"
+      ],
+      "en": [
+        "Hoàn said:"
+      ]
+    },
+    {
+      "zh": [
+        "「臣居攝副，"
+      ],
+      "vi": [
+        "Thần ở chức Phó Vương nhiếp chính"
+      ],
+      "en": [
+        "\"As Deputy King and regent,"
+      ]
+    },
+    {
+      "zh": [
+        "死生禍變，當任其責。」"
+      ],
+      "vi": [
+        "dù sống chết biến họa thế nào, đều phải đảm đương trách nhiệm"
+      ],
+      "en": [
+        "whatever life, death, disaster or change may come, I must take the responsibility.\""
+      ]
+    },
+    {
+      "zh": [
+        "於是整旅"
+      ],
+      "vi": [
+        "Rồi đó chỉnh đốn quân lữ"
+      ],
+      "en": [
+        "Then he mustered his troops"
+      ]
+    },
+    {
+      "zh": [
+        "與佃，匐戰于西都"
+      ],
+      "vi": [
+        "đánh nhau với Điền, Bặc ở Tây Đô"
+      ],
+      "en": [
+        "and fought Điền and Bặc at the Western Capital"
+      ]
+    },
+    {
+      "zh": [
+        "桓愛州人，都華闡，故史號愛州為西郡。"
+      ],
+      "vi": [
+        "Hoàn người Ái Châu",
+        "đóng đô ở Hoa Lư, cho nên sử gọi Ái Châu là Tây Đô"
+      ],
+      "en": [
+        "(Hoàn was a man of Ái Châu, and since the capital was at Hoa Lư, the histories call Ái Châu the Western Capital)."
+      ]
+    },
+    {
+      "zh": [
+        "佃，匐敗北，"
+      ],
+      "vi": [
+        "Điền, Bặc thua chạy"
+      ],
+      "en": [
+        "Điền and Bặc were defeated and fled,"
+      ]
+    },
+    {
+      "zh": [
+        "復以舟師出戰，"
+      ],
+      "vi": [
+        "lại đem quân thủy ra đánh"
+      ],
+      "en": [
+        "then came out again with naval forces."
+      ]
+    },
+    {
+      "zh": [
+        "桓困風縱火，焚其戰艦，"
+      ],
+      "vi": [
+        "Hoàn nhân chiều gió phóng lửa đốt thuyền chiến"
+      ],
+      "en": [
+        "Hoàn, taking advantage of the wind, set fire to their warships,"
+      ]
+    },
+    {
+      "zh": [
+        "斬佃于陣，"
+      ],
+      "vi": [
+        "chém Điền tại trận"
+      ],
+      "en": [
+        "killed Điền on the battlefield,"
+      ]
+    },
+    {
+      "zh": [
+        "執匐檻送京師，"
+      ],
+      "vi": [
+        "bắt được Bặc đóng củi đưa về kinh sư"
+      ],
+      "en": [
+        "and captured Bặc, whom he sent in a cage to the capital"
+      ]
+    },
+    {
+      "zh": [
+        "讓之曰："
+      ],
+      "vi": [
+        "kể tội rằng"
+      ],
+      "en": [
+        "and rebuked, saying:"
+      ]
+    },
+    {
+      "zh": [
+        "「先帝罹難，神人尚為憤羞，"
+      ],
+      "vi": [
+        "Tiên đế mắc nạn, thần người đều căm thẹn"
+      ],
+      "en": [
+        "\"The late emperor met disaster, and gods and men alike feel anger and shame."
+      ]
+    },
+    {
+      "zh": [
+        "汝為臣子，乃乘其喪亂，"
+      ],
+      "vi": [
+        "Ngươi là tôi con lại nhân lúc tang tóc bối rối"
+      ],
+      "en": [
+        "You, as a subject, took advantage of the confusion of mourning"
+      ]
+    },
+    {
+      "zh": [
+        "背義興兵，"
+      ],
+      "vi": [
+        "mà dấy quân bội nghĩa"
+      ],
+      "en": [
+        "to raise troops against righteousness."
+      ]
+    },
+    {
+      "zh": [
+        "臣子之職，固如是乎。」"
+      ],
+      "vi": [
+        "Chức phận tôi con có đâu như thế"
+      ],
+      "en": [
+        "Is that the duty of a subject?\""
+      ]
+    },
+    {
+      "zh": [
+        "逐斬以徇。"
+      ],
+      "vi": [
+        "Bèn chém đầu đem bêu"
+      ],
+      "en": [
+        "Then he beheaded him and displayed the head."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "F10",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "10a",
+  "folios": [],
+  "page": 63,
+  "zh": "太后見眾心悅服，命以龍袞加桓身，請即帝位，桓於是即皇帝位，改元天福元年，降封帝仍為衞王。",
+  "zhPartial": false,
+  "vi": "Thái hậu thấy mọi người vui lòng quy phục bèn sai lấy áo long cổn{n1} khoác lên người Lê Hoàn, mời lên ngôi Hoàng đế. Từ đó Hoàn lên ngôi Hoàng đế, đổi niên hiệu là Thiên Phúc năm đầu ⟦980⟧, giáng phong vua làm Vệ Vương.",
+  "en": "The Empress Dowager, seeing that everyone was gladly submitting, ordered the dragon robe placed on Hoàn's shoulders and invited him to take the throne. Hoàn then took the throne as emperor, changed the era name to Thiên Phúc 1 [980], and demoted the former emperor to Prince of Vệ.",
+  "notes": [
+    "Áo long cổn: áo của vua thêu hình rồng cuộn."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "太后見眾心悅服，"
+      ],
+      "vi": [
+        "Thái hậu thấy mọi người vui lòng quy phục"
+      ],
+      "en": [
+        "The Empress Dowager, seeing that everyone was gladly submitting,"
+      ]
+    },
+    {
+      "zh": [
+        "命以龍袞加桓身，"
+      ],
+      "vi": [
+        "bèn sai lấy áo long cổn khoác lên người Lê Hoàn"
+      ],
+      "en": [
+        "ordered the dragon robe placed on Hoàn's shoulders"
+      ]
+    },
+    {
+      "zh": [
+        "請即帝位，"
+      ],
+      "vi": [
+        "mời lên ngôi Hoàng đế"
+      ],
+      "en": [
+        "and invited him to take the throne."
+      ]
+    },
+    {
+      "zh": [
+        "桓於是即皇帝位，"
+      ],
+      "vi": [
+        "Từ đó Hoàn lên ngôi Hoàng đế"
+      ],
+      "en": [
+        "Hoàn then took the throne as emperor,"
+      ]
+    },
+    {
+      "zh": [
+        "改元天福元年，"
+      ],
+      "vi": [
+        "đổi niên hiệu là Thiên Phúc năm đầu"
+      ],
+      "en": [
+        "changed the era name to Thiên Phúc 1 [980],"
+      ]
+    },
+    {
+      "zh": [
+        "降封帝仍為衞王。"
+      ],
+      "vi": [
+        "giáng phong vua làm Vệ Vương"
+      ],
+      "en": [
+        "and demoted the former emperor to Prince of Vệ."
+      ]
+    }
+  ]
+}

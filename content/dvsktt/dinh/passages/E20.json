@@ -1,0 +1,39 @@
+{
+  "id": "E20",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "976",
+  "type": "annal",
+  "folio": "4b",
+  "folios": [],
+  "page": 60,
+  "zh": "冬十月，宋太祖崩。",
+  "zhPartial": false,
+  "vi": "Mùa đông, tháng 10, Tống Thái Tổ băng.",
+  "en": "Winter, tenth month: the Song Emperor Taizu died.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "冬十月，"
+      ],
+      "vi": [
+        "Mùa đông, tháng 10"
+      ],
+      "en": [
+        "Winter, tenth month:"
+      ]
+    },
+    {
+      "zh": [
+        "宋太祖崩。"
+      ],
+      "vi": [
+        "Tống Thái Tổ băng"
+      ],
+      "en": [
+        "the Song Emperor Taizu died."
+      ]
+    }
+  ]
+}

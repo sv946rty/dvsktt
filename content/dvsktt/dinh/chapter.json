@@ -1,0 +1,249 @@
+{
+  "id": "dinh",
+  "slug": "ky-nha-dinh",
+  "work": "dvsktt",
+  "section": "ban-ky-toan-thu",
+  "volume": 1,
+  "title": {
+    "zh": "丁紀",
+    "vi": "Kỷ nhà Đinh",
+    "en": "Đinh dynasty annals"
+  },
+  "span": {
+    "from": 968,
+    "to": 980,
+    "years": 13
+  },
+  "sources": {
+    "zh": "Wikisource transcription of the woodblock edition",
+    "vi": "Vietnamese translation, extracted from PDF (private: copyright permission not obtained)",
+    "en": "AI-assisted draft translated from the Chinese, not yet edited"
+  },
+  "reigns": [
+    {
+      "id": "th",
+      "zh": "先皇帝",
+      "vi": "Tiên Hoàng Đế",
+      "sub": "Ở ngôi 12 năm [968–979]",
+      "en": "Emperor Tiên Hoàng",
+      "enSub": "Reigned 12 years [968–979]"
+    },
+    {
+      "id": "pd",
+      "zh": "廢帝",
+      "vi": "Phế Đế",
+      "sub": "Ở ngôi 8 tháng",
+      "en": "Phế Đế (the Deposed Emperor)",
+      "enSub": "Reigned 8 months"
+    }
+  ],
+  "years": [
+    {
+      "id": "th0",
+      "label": "Mở đầu",
+      "reign": "th",
+      "title": "Mở đầu",
+      "sub": "Phần dẫn trước mục năm đầu tiên",
+      "enLabel": "Intro",
+      "enSub": "Before the first dated year"
+    },
+    {
+      "id": "968",
+      "label": "Mậu Thìn",
+      "reign": "th",
+      "gz": "戊辰",
+      "jul": 968,
+      "title": "Mậu Thìn",
+      "sub": "Năm thứ 1 · Tống Khai Bảo 1",
+      "enLabel": "Mậu Thìn",
+      "enSub": "Year 1 · Song Kaibao 1"
+    },
+    {
+      "id": "969",
+      "label": "Kỷ Tỵ",
+      "reign": "th",
+      "gz": "己巳",
+      "jul": 969,
+      "title": "Kỷ Tỵ",
+      "sub": "Năm thứ 2 · Tống Khai Bảo 2 · có tháng 5 nhuận",
+      "enLabel": "Kỷ Tỵ",
+      "enSub": "Year 2 · Song Kaibao 2 · intercalary 5th month"
+    },
+    {
+      "id": "970",
+      "label": "Canh Ngọ",
+      "reign": "th",
+      "gz": "庚午",
+      "jul": 970,
+      "title": "Canh Ngọ",
+      "sub": "Thái Bình 1 · Tống Khai Bảo 3",
+      "enLabel": "Canh Ngọ",
+      "enSub": "Thái Bình 1 · Song Kaibao 3"
+    },
+    {
+      "id": "971",
+      "label": "Tân Mùi",
+      "reign": "th",
+      "gz": "辛未",
+      "jul": 971,
+      "title": "Tân Mùi",
+      "sub": "Thái Bình 2 · Tống Khai Bảo 4",
+      "enLabel": "Tân Mùi",
+      "enSub": "Thái Bình 2 · Song Kaibao 4"
+    },
+    {
+      "id": "972",
+      "label": "Nhâm Thân",
+      "reign": "th",
+      "gz": "壬申",
+      "jul": 972,
+      "title": "Nhâm Thân",
+      "sub": "Thái Bình 3 · Tống Khai Bảo 5",
+      "enLabel": "Nhâm Thân",
+      "enSub": "Thái Bình 3 · Song Kaibao 5"
+    },
+    {
+      "id": "973",
+      "label": "Quý Dậu",
+      "reign": "th",
+      "gz": "癸酉",
+      "jul": 973,
+      "title": "Quý Dậu",
+      "sub": "Thái Bình 4 · Tống Khai Bảo 6",
+      "enLabel": "Quý Dậu",
+      "enSub": "Thái Bình 4 · Song Kaibao 6"
+    },
+    {
+      "id": "974",
+      "label": "Giáp Tuất",
+      "reign": "th",
+      "gz": "甲戌",
+      "jul": 974,
+      "title": "Giáp Tuất",
+      "sub": "Thái Bình 5 · Tống Khai Bảo 7",
+      "enLabel": "Giáp Tuất",
+      "enSub": "Thái Bình 5 · Song Kaibao 7"
+    },
+    {
+      "id": "975",
+      "label": "Ất Hợi",
+      "reign": "th",
+      "gz": "乙亥",
+      "jul": 975,
+      "title": "Ất Hợi",
+      "sub": "Thái Bình 6 · Tống Khai Bảo 8",
+      "enLabel": "Ất Hợi",
+      "enSub": "Thái Bình 6 · Song Kaibao 8"
+    },
+    {
+      "id": "976",
+      "label": "Bính Tý",
+      "reign": "th",
+      "gz": "丙子",
+      "jul": 976,
+      "title": "Bính Tý",
+      "sub": "Thái Bình 7 · Tống Khai Bảo 9; từ tháng 10: Thái Bình Hưng Quốc 1",
+      "enLabel": "Bính Tý",
+      "enSub": "Thái Bình 7 · Song Kaibao 9; from the 10th month: Taiping Xingguo 1"
+    },
+    {
+      "id": "977",
+      "label": "Đinh Sửu",
+      "reign": "th",
+      "gz": "丁丑",
+      "jul": 977,
+      "title": "Đinh Sửu",
+      "sub": "Thái Bình 8 · Tống Thái Bình Hưng Quốc 2",
+      "enLabel": "Đinh Sửu",
+      "enSub": "Thái Bình 8 · Song Taiping Xingguo 2"
+    },
+    {
+      "id": "978",
+      "label": "Mậu Dần",
+      "reign": "th",
+      "gz": "戊寅",
+      "jul": 978,
+      "title": "Mậu Dần",
+      "sub": "Thái Bình 9 · Tống Thái Bình Hưng Quốc 3",
+      "enLabel": "Mậu Dần",
+      "enSub": "Thái Bình 9 · Song Taiping Xingguo 3"
+    },
+    {
+      "id": "979",
+      "label": "Kỷ Mão",
+      "reign": "th",
+      "gz": "己卯",
+      "jul": 979,
+      "title": "Kỷ Mão",
+      "sub": "Thái Bình 10 · Tống Thái Bình Hưng Quốc 4",
+      "enLabel": "Kỷ Mão",
+      "enSub": "Thái Bình 10 · Song Taiping Xingguo 4"
+    },
+    {
+      "id": "pd0",
+      "label": "Phế Đế",
+      "reign": "pd",
+      "title": "Phế Đế",
+      "sub": "Phần mở đầu",
+      "enLabel": "Phế Đế",
+      "enSub": "Introduction"
+    },
+    {
+      "id": "980",
+      "label": "Canh Thìn",
+      "reign": "pd",
+      "gz": "庚辰",
+      "jul": 980,
+      "title": "Canh Thìn",
+      "sub": "Thái Bình 11; từ tháng 7: Thiên Phúc 1 (Lê Đại Hành) · Tống Thái Bình Hưng Quốc 5",
+      "enLabel": "Canh Thìn",
+      "enSub": "Thái Bình 11; from the 7th month: Thiên Phúc 1 (Lê Đại Hành) · Song Taiping Xingguo 5"
+    }
+  ],
+  "passages": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10",
+    "E11",
+    "E12",
+    "E13",
+    "E14",
+    "E15",
+    "E16",
+    "E17",
+    "E18",
+    "E19",
+    "E20",
+    "E21",
+    "E22",
+    "E23",
+    "E24",
+    "E25",
+    "E26",
+    "E27",
+    "E28",
+    "F01",
+    "F02",
+    "F03",
+    "F04",
+    "F05",
+    "F06",
+    "F07",
+    "F08",
+    "F09",
+    "F10",
+    "F11",
+    "F12",
+    "F13",
+    "F14",
+    "F15",
+    "F16"
+  ]
+}

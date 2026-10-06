@@ -1,0 +1,1329 @@
+[
+  {
+    "id": "person:dinh-bo-linh",
+    "type": "person",
+    "names": {
+      "zh": "丁部領",
+      "vi": "Đinh Bộ Lĩnh"
+    },
+    "aliases": {
+      "zh": [
+        "部領",
+        "先皇帝"
+      ],
+      "vi": [
+        "Bộ Lĩnh",
+        "Tiên Hoàng",
+        "Tiên Hoàng Đế"
+      ]
+    }
+  },
+  {
+    "id": "person:dinh-cong-tru",
+    "type": "person",
+    "names": {
+      "zh": "丁公著",
+      "vi": "Đinh Công Trứ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:duong-dinh-nghe",
+    "type": "person",
+    "names": {
+      "zh": "楊廷藝",
+      "vi": "Dương Đình Nghệ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Đình Nghệ"
+      ]
+    }
+  },
+  {
+    "id": "person:ngo-xuong-xi",
+    "type": "person",
+    "names": {
+      "zh": "吳昌熾",
+      "vi": "Ngô Xương Xí"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:ngo-nhat-khanh",
+    "type": "person",
+    "names": {
+      "zh": "吳日慶",
+      "vi": "Ngô Nhật Khánh"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:kieu-tam-che",
+    "type": "person",
+    "names": {
+      "zh": "矯三制",
+      "vi": "Kiểu Tam Chế"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:nguyen-thai-binh",
+    "type": "person",
+    "names": {
+      "zh": "阮太平",
+      "vi": "Nguyễn Thái Bình"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:do-canh-thac",
+    "type": "person",
+    "names": {
+      "zh": "杜景碩",
+      "vi": "Đỗ Cảnh Thạc"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:nguyen-lenh-cong",
+    "type": "person",
+    "names": {
+      "zh": "阮令公",
+      "vi": "Nguyễn Lệnh Công"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Nguyễn Hữu Công"
+      ]
+    }
+  },
+  {
+    "id": "person:lu-ta-duong",
+    "type": "person",
+    "names": {
+      "zh": "吕佐",
+      "vi": "Lữ Tá Đường"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:nguyen-thu-tiep",
+    "type": "person",
+    "names": {
+      "zh": "阮守㨗",
+      "vi": "Nguyễn Thủ Tiệp"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:ly-lang-cong",
+    "type": "person",
+    "names": {
+      "zh": "李郎公",
+      "vi": "Lý Lãng Công"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Lý Lãng Công"
+      ]
+    }
+  },
+  {
+    "id": "person:kieu-lenh-cong",
+    "type": "person",
+    "names": {
+      "zh": "矯令公",
+      "vi": "Kiểu Lệnh Công"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:pham-phong-at",
+    "type": "person",
+    "names": {
+      "zh": "范防遏",
+      "vi": "Phạm Phòng Át"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:tran-minh-cong",
+    "type": "person",
+    "names": {
+      "zh": "陳公",
+      "vi": "Trần Minh Công"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:le-van-huu",
+    "type": "person",
+    "names": {
+      "zh": "黎文休",
+      "vi": "Lê Văn Hưu"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:dinh-lien",
+    "type": "person",
+    "names": {
+      "zh": "丁璉",
+      "vi": "Đinh Liễn"
+    },
+    "aliases": {
+      "zh": [
+        "璉"
+      ],
+      "vi": [
+        "Liễn",
+        "Nam Việt Vương Liễn"
+      ]
+    },
+    "variants": [
+      {
+        "lang": "vi",
+        "surface": "Nam Việt Vương Liệt",
+        "kind": "suspected_textual_error",
+        "status": "review",
+        "evidence": "Chinese parallel has 璉; surrounding Vietnamese uses Liễn."
+      }
+    ]
+  },
+  {
+    "id": "person:ly-nam-de",
+    "type": "person",
+    "names": {
+      "zh": "李南帝",
+      "vi": "Lý Nam Đế"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Lý Nam Đế"
+      ]
+    }
+  },
+  {
+    "id": "person:phan-my",
+    "type": "person",
+    "names": {
+      "zh": "潘美",
+      "vi": "Phan Mỹ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:luu-xuong",
+    "type": "person",
+    "names": {
+      "zh": "劉鋹",
+      "vi": "Lưu Xưởng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:nguyen-bac",
+    "type": "person",
+    "names": {
+      "zh": "阮匐",
+      "vi": "Nguyễn Bặc"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:luu-co",
+    "type": "person",
+    "names": {
+      "zh": "劉基",
+      "vi": "Lưu Cơ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Lưu cơ"
+      ]
+    }
+  },
+  {
+    "id": "person:le-hoan",
+    "type": "person",
+    "names": {
+      "zh": "黎桓",
+      "vi": "Lê Hoàn"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:ngo-chan-luu",
+    "type": "person",
+    "names": {
+      "zh": "吳真流",
+      "vi": "Ngô Chân Lưu"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:truong-ma-ni",
+    "type": "person",
+    "names": {
+      "zh": "張麻尼",
+      "vi": "Trương Ma Ni"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:dang-huyen-quang",
+    "type": "person",
+    "names": {
+      "zh": "鄧玄光",
+      "vi": "Đặng Huyền Quang"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:tran-thang",
+    "type": "person",
+    "names": {
+      "zh": "陳升",
+      "vi": "Trần Thăng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Trần Thăng Minh"
+      ]
+    }
+  },
+  {
+    "id": "person:trinh-tu",
+    "type": "person",
+    "names": {
+      "zh": "鄭琇",
+      "vi": "Trịnh Tú"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:cao-bao-tu",
+    "type": "person",
+    "names": {
+      "zh": "高保緒",
+      "vi": "Cao Bảo Tự"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:vuong-ngan-phu",
+    "type": "person",
+    "names": {
+      "zh": "王彦符",
+      "vi": "Vương Ngạn Phù"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:tran-nguyen-thai",
+    "type": "person",
+    "names": {
+      "zh": "陳元泰",
+      "vi": "Trần Nguyên Thái"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:dinh-hang-lang",
+    "type": "person",
+    "names": {
+      "zh": "項郎",
+      "vi": "Hạng Lang"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:do-thich",
+    "type": "person",
+    "names": {
+      "zh": "杜釋",
+      "vi": "Đỗ Thích"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:dinh-toan",
+    "type": "person",
+    "names": {
+      "zh": "丁璿",
+      "vi": "Đinh Toàn"
+    },
+    "aliases": {
+      "zh": [
+        "璿"
+      ],
+      "vi": [
+        "Vệ Vương Toàn"
+      ]
+    }
+  },
+  {
+    "id": "person:dinh-dien",
+    "type": "person",
+    "names": {
+      "zh": "丁佃",
+      "vi": "Đinh Điền"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:duong-thi",
+    "type": "person",
+    "names": {
+      "zh": "楊氏",
+      "vi": "Dương Thị"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:ngo-si-lien",
+    "type": "person",
+    "names": {
+      "zh": "吳士連",
+      "vi": "Ngô Sĩ Liên"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:pham-hap",
+    "type": "person",
+    "names": {
+      "zh": "范盍",
+      "vi": "Phạm Hạp"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:pham-cu-lang",
+    "type": "person",
+    "names": {
+      "zh": "范巨倆",
+      "vi": "Phạm Cự Lạng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:hau-nhan-bao",
+    "type": "person",
+    "names": {
+      "zh": "侯仁寶",
+      "vi": "Hầu Nhân Bảo"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:lu-da-ton",
+    "type": "person",
+    "names": {
+      "zh": "盧多遜",
+      "vi": "Lư Đa Tốn"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:ton-toan-hung",
+    "type": "person",
+    "names": {
+      "zh": "孫全興",
+      "vi": "Tôn Toàn Hưng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:hao-thu-tuan",
+    "type": "person",
+    "names": {
+      "zh": "郝守俊",
+      "vi": "Hác Thủ Tuấn"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:tran-kham-to",
+    "type": "person",
+    "names": {
+      "zh": "陳欽祚",
+      "vi": "Trần Khâm Tộ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "variants": [
+      {
+        "lang": "vi",
+        "surface": "Tràn Khâm Tộ",
+        "kind": "suspected_textual_error",
+        "status": "review",
+        "evidence": "Vietnamese source surface; canonical Vietnamese name retained as Trần Khâm Tộ."
+      }
+    ]
+  },
+  {
+    "id": "person:thoi-luong",
+    "type": "person",
+    "names": {
+      "zh": "崔亮",
+      "vi": "Thôi Lượng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:luu-trung",
+    "type": "person",
+    "names": {
+      "zh": "劉澄",
+      "vi": "Lưu Trừng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:gia-thuc",
+    "type": "person",
+    "names": {
+      "zh": "賈湜",
+      "vi": "Giả Thực"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "person:vuong-toan",
+    "type": "person",
+    "names": {
+      "zh": "王僎",
+      "vi": "Vương Soạn"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "place:hoa-lu",
+    "type": "place",
+    "names": {
+      "zh": "華閭",
+      "vi": "Hoa Lư"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "cave/capital"
+  },
+  {
+    "id": "place:dai-hoang",
+    "type": "place",
+    "names": {
+      "zh": "大黄",
+      "vi": "Đại Hoàng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "prefecture"
+  },
+  {
+    "id": "place:hoan-chau",
+    "type": "place",
+    "names": {
+      "zh": "驩州",
+      "vi": "châu Hoan"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "prefecture"
+  },
+  {
+    "id": "place:dao-ao",
+    "type": "place",
+    "names": {
+      "zh": "陶澳冊",
+      "vi": "sách Đào Áo"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "settlement"
+  },
+  {
+    "id": "place:bong",
+    "type": "place",
+    "names": {
+      "zh": "芃冊",
+      "vi": "sách Bông"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "settlement"
+  },
+  {
+    "id": "place:dam-gia-nuong-loan",
+    "type": "place",
+    "names": {
+      "zh": "譚家娘灣",
+      "vi": "Đàm Gia Nương Loan"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "river-bend"
+  },
+  {
+    "id": "place:binh-kieu",
+    "type": "place",
+    "names": {
+      "zh": "平橋",
+      "vi": "Bình Kiều"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:duong-lam",
+    "type": "place",
+    "names": {
+      "zh": "唐林",
+      "vi": "Đường Lâm"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:phong-chau",
+    "type": "place",
+    "names": {
+      "zh": "峯州",
+      "vi": "Phong Châu"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "prefecture"
+  },
+  {
+    "id": "place:nguyen-gia-loan",
+    "type": "place",
+    "names": {
+      "zh": "阮家灣",
+      "vi": "Nguyễn Gia Loan"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:do-dong-giang",
+    "type": "place",
+    "names": {
+      "zh": "杜洞江",
+      "vi": "Đỗ Động"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "river/place"
+  },
+  {
+    "id": "place:tay-phu-liet",
+    "type": "place",
+    "names": {
+      "zh": "西扶烈",
+      "vi": "Tây Phù Liệt"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:te-giang",
+    "type": "place",
+    "names": {
+      "zh": "細江",
+      "vi": "Tế Giang"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:tien-du",
+    "type": "place",
+    "names": {
+      "zh": "僊遊",
+      "vi": "Tiên Du"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:sieu-loai",
+    "type": "place",
+    "names": {
+      "zh": "超類",
+      "vi": "Siêu Loại"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:hoi-ho",
+    "type": "place",
+    "names": {
+      "zh": "洄湖",
+      "vi": "Hồi Hồ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:dang-chau",
+    "type": "place",
+    "names": {
+      "zh": "藤州",
+      "vi": "Đằng Châu"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "prefecture"
+  },
+  {
+    "id": "place:bo-hai",
+    "type": "place",
+    "names": {
+      "zh": "布海",
+      "vi": "Bố Hải"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:dam-thon",
+    "type": "place",
+    "names": {
+      "zh": "潭村",
+      "vi": "Đàm thôn"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "village"
+  },
+  {
+    "id": "place:linh-nam",
+    "type": "place",
+    "names": {
+      "zh": "嶺南",
+      "vi": "Lĩnh Nam"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "region"
+  },
+  {
+    "id": "place:giao-chi",
+    "type": "place",
+    "names": {
+      "zh": "交趾",
+      "vi": "Giao Chỉ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "region"
+  },
+  {
+    "id": "place:dong-quan",
+    "type": "place",
+    "names": {
+      "zh": "桐關",
+      "vi": "Đồng Quan"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place"
+  },
+  {
+    "id": "place:giao-thuy",
+    "type": "place",
+    "names": {
+      "zh": "膠水",
+      "vi": "Giao Thủy"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "river/place"
+  },
+  {
+    "id": "place:truong-yen",
+    "type": "place",
+    "names": {
+      "zh": "長安",
+      "vi": "Trường Yên"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    },
+    "subtype": "place",
+    "review_required": true
+  },
+  {
+    "id": "office:thu-su",
+    "type": "office",
+    "names": {
+      "zh": "刺史",
+      "vi": "Thứ sử"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:nha-tuong",
+    "type": "office",
+    "names": {
+      "zh": "牙將",
+      "vi": "nha tướng"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:van-thang-vuong",
+    "type": "title",
+    "names": {
+      "zh": "萬勝王",
+      "vi": "Vạn Thắng Vương"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:hoang-de",
+    "type": "title",
+    "names": {
+      "zh": "皇帝",
+      "vi": "Hoàng đế"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:nam-viet-vuong",
+    "type": "title",
+    "names": {
+      "zh": "南越王",
+      "vi": "Nam Việt Vương"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:dinh-quoc-cong",
+    "type": "title",
+    "names": {
+      "zh": "定國公",
+      "vi": "Định quốc công"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:do-ho-phu-si-su",
+    "type": "office",
+    "names": {
+      "zh": "都護府士師",
+      "vi": "Đô hộ phủ sĩ sư"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:thap-dao-tuong-quan",
+    "type": "office",
+    "names": {
+      "zh": "十道將軍",
+      "vi": "Thập đạo tướng quân"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "thập đạo tướng quân"
+      ]
+    }
+  },
+  {
+    "id": "office:tang-thong",
+    "type": "office",
+    "names": {
+      "zh": "僧綂",
+      "vi": "Tăng thống"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:khuong-viet-dai-su",
+    "type": "title",
+    "names": {
+      "zh": "匡越大師",
+      "vi": "Khuông Việt đại sư"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:tang-luc",
+    "type": "office",
+    "names": {
+      "zh": "僧錄",
+      "vi": "Tăng lục"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:sung-chan-uy-nghi",
+    "type": "office",
+    "names": {
+      "zh": "崇真威儀",
+      "vi": "Sùng chân uy nghi"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:giao-chi-quan-vuong",
+    "type": "title",
+    "names": {
+      "zh": "交趾郡王",
+      "vi": "Giao Chỉ Quận Vương"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:kiem-hieu-thai-su",
+    "type": "office",
+    "names": {
+      "zh": "檢校太師",
+      "vi": "Kiểm hiệu thái sư"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:tinh-hai-quan-tiet-do-su",
+    "type": "office",
+    "names": {
+      "zh": "靜海軍節度使",
+      "vi": "Tĩnh Hải quân tiết độ sứ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "Tỉnh Hải quân tiết độ sứ"
+      ]
+    }
+  },
+  {
+    "id": "office:an-nam-do-ho",
+    "type": "office",
+    "names": {
+      "zh": "安南都護",
+      "vi": "An Nam đô hộ"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:khai-phu-nghi-dong-tam-ty",
+    "type": "office",
+    "names": {
+      "zh": "開府儀同三司",
+      "vi": "Khai phủ nghi đồng tam ty"
+    },
+    "aliases": {
+      "zh": [
+        "開府儀"
+      ],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:hoang-thai-tu",
+    "type": "title",
+    "names": {
+      "zh": "皇太子",
+      "vi": "Hoàng thái tử"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": [
+        "hoàng thái tử"
+      ]
+    }
+  },
+  {
+    "id": "title:ve-vuong",
+    "type": "title",
+    "names": {
+      "zh": "衛王",
+      "vi": "Vệ Vương"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:chi-hau-noi-nhan",
+    "type": "office",
+    "names": {
+      "zh": "秪候内人",
+      "vi": "Chi hậu nội nhân"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "office:ngoai-giap",
+    "type": "office",
+    "names": {
+      "zh": "外甲",
+      "vi": "Ngoại giáp"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:hoang-thai-hau",
+    "type": "title",
+    "names": {
+      "zh": "皇太后",
+      "vi": "Hoàng thái hậu"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "title:pho-vuong",
+    "type": "title",
+    "names": {
+      "zh": "副王",
+      "vi": "Phó Vương"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "polity:dai-co-viet",
+    "type": "polity",
+    "names": {
+      "zh": "大瞿越",
+      "vi": "Đại Cồ Việt"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "polity:song",
+    "type": "polity",
+    "names": {
+      "zh": "宋",
+      "vi": "nhà Tống"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "polity:nam-han",
+    "type": "polity",
+    "names": {
+      "zh": "南漢",
+      "vi": "Nam Hán"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "polity:cham-pa",
+    "type": "polity",
+    "names": {
+      "zh": "占城",
+      "vi": "Chiêm Thành"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "reign_era:thai-binh",
+    "type": "reign_era",
+    "names": {
+      "zh": "太平",
+      "vi": "Thái Bình"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "reign_era:khai-bao",
+    "type": "reign_era",
+    "names": {
+      "zh": "開寳",
+      "vi": "Khai Bảo"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "reign_era:thien-duc",
+    "type": "reign_era",
+    "names": {
+      "zh": "天德",
+      "vi": "Thiên Đức"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "reign_era:thai-binh-hung-quoc",
+    "type": "reign_era",
+    "names": {
+      "zh": "太平興國",
+      "vi": "Thái Bình Hưng Quốc"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  },
+  {
+    "id": "reign_era:thien-phuc",
+    "type": "reign_era",
+    "names": {
+      "zh": "天福",
+      "vi": "Thiên Phúc"
+    },
+    "aliases": {
+      "zh": [],
+      "vi": []
+    }
+  }
+]

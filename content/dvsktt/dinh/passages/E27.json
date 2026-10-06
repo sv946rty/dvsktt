@@ -1,0 +1,231 @@
+{
+  "id": "E27",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "979",
+  "type": "annal",
+  "folio": "6a",
+  "folios": [
+    "6b"
+  ],
+  "page": 61,
+  "zh": "又於太平五年得讖文曰：「杜弑弑丁丁，黎家出聖明，兢頭多宏兒，道路絶人行。十二稱大王，十恶無一善，十八子登僊，計都二十天。」人以爲天數自定云。時定國公阮匐，外甲丁佃，與十道將軍黎桓奉衛王璿即皇帝位，尊帝曰先皇帝，尊親生母楊氏爲皇太后。奉先皇帝柩塟長⚑焉山陵。",
+  "zhPartial": false,
+  "vi": "Lại vào năm Thái Bình thứ 5 ⟦974⟧, có lời sấm ngữ: \"Đỗ Thích thí Đinh Đinh, Lê gia xuất thánh minh, cạnh đầu đa hoành nhi{n1}, đạo lộ tuyệt nhân hành. Thập nhị xưng đại vương, thập ác vô nhất thiện |6b|, thập bát tử đăng tiên, kế đô{n2} nhị thập thiên\" ⟨Đỗ Thích giết hai Đinh, nhà Lê nỗi thánh minh, tranh nhau nhiều hoành nhi, đường sá người vắng tanh. Mười hai xưng đại vương, toàn ác không một thiện, mười tám con lên tiên, sao kế đô hai chục ngày⟩{n3}. Người ta cho là số trời đã định như thế. Khi ấy Định quốc công Nguyễn Bặc, Ngoại giáp Đinh Điền, cùng thập đạo tướng quân Lê Hoàn rước Vệ Vương Toàn lên ngôi Hoàng đế, tôn gọi vua là Tiên Hoàng Đế, tôn mẹ đẻ ⟦vua mới⟧ là Dương Thị làm Hoàng thái hậu. Rước linh cữu Tiên Hoàng Đế về táng ở sơn lăng Trường Yên{n4}.",
+  "en": "Also, in year 5 of Thái Bình [974], a prophetic verse was obtained: \"Đỗ Thích slays the two Đinh; the house of Lê brings forth a sage; the 'hoành nhi' contend; the roads are empty of travelers. Twelve call themselves great kings; of ten evils, not one good; the Eighteen Sons rise as an immortal; the star Kế Đô, twenty days.\" People took it to mean that Heaven had fixed the outcome. At that time Nguyễn Bặc, Duke of Định Quốc, Đinh Điền, the Outer Maternal Relative, and Lê Hoàn, General of the Ten Circuits, escorted Toàn, Prince of Vệ, to ascend the throne. They honored the late emperor as Tiên Hoàng Đế, and honored his birth mother, née Dương, as Empress Dowager. They escorted the coffin of Emperor Tiên Hoàng and buried it at the mountain tomb of Trường Yên.",
+  "notes": [
+    "Ở đây Toàn thư chép là hoành nhi mm mm, tức một loại nô tỳ, còn Đại Việt sử lược (q.1, 17b) lại chép là hoành tử mm mm nghĩa là chết phi lý, chết oan uổng.",
+    "Kế đô: là tên Trung Quốc phiên âm tên ngôi sao Kethu trong lịch cổ Ấn Độ. Thiên văn cổ Ấn Độ cho rằng hệ mặt trời có 9 sao (Trung Quốc dịch là Cửu diệu), ngoài mặt trời, mặt trăng và 5 sao Thủy (Bhuda), Kim (Sukra), Hỏa (Angaraka), Mộc (Brhaspati), Thổ (Sanaiscara hay Sani), còn có 2 sao nửa là Kethu và Rahu (Trung Quốc phiên âm là La hầu), hai sao này thường che mặt trời, mặt trăng, làm thành nhật thực và nguyệt thực. Ngày nay ta biết không phải như vậy và không có hai ngôi sao đó. Lịch pháp cổ Ấn Độ (người Trung Quốc gọi là Phạn lịch đã truyền vào Trung Quốc cùng với Phật Giáo). Trong kinh Phật (chẳng hạn Đại Nhật kinh), thường gặp tên sao Kế đô này. Một số học giả thời Tống cũng đã bàn về sao này (xem Mộng khe bút đàm của Thâm Quát, chương tượng số). Người làm bài sấm trên - nhiều khả năng là nhà sư - đưa thêm tên ngôi sao này vào cho thêm phần bí hiểm, đồng thời chữ đô, có thể ám chỉ việc đóng đô, hay làm vua, của nhà Lý.",
+    "Bài thơ sấm này hẳn là do người đời sau làm ra, vì trong đó không những đã biết việc Đỗ Thích giết hai cha con vua Đinh, Lê Hoàn lên ngôi, mà còn nói trước việc nhà Lý làm vua (gộp 3 chữ thập, bát, tự thành chữ Lý).",
+    "Trường Yên: Ở đây là tên xã, chứ không phải tên phủ. Xã Trường Yên, gồm Trường Yên Thượng và Trường Yên Hạ, là vùng thành Hoa Lư. Lăng vua Đinh ở trên núi Mã Yên (núi Yên Ngựa) thuộc xã Trường Yên tỉnh Ninh Bình."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "又於太平五年"
+      ],
+      "vi": [
+        "Lại vào năm Thái Bình thứ 5"
+      ],
+      "en": [
+        "Also, in year 5 of Thái Bình [974],"
+      ]
+    },
+    {
+      "zh": [
+        "得讖文曰："
+      ],
+      "vi": [
+        "có lời sấm ngữ"
+      ],
+      "en": [
+        "a prophetic verse was obtained:"
+      ]
+    },
+    {
+      "zh": [
+        "「杜弑弑丁丁，"
+      ],
+      "vi": [
+        "Đỗ Thích thí Đinh Đinh",
+        "Đỗ Thích giết hai Đinh"
+      ],
+      "en": [
+        "\"Đỗ Thích slays the two Đinh;"
+      ]
+    },
+    {
+      "zh": [
+        "黎家出聖明，"
+      ],
+      "vi": [
+        "Lê gia xuất thánh minh",
+        "nhà Lê nỗi thánh minh"
+      ],
+      "en": [
+        "the house of Lê brings forth a sage;"
+      ]
+    },
+    {
+      "zh": [
+        "兢頭多宏兒，"
+      ],
+      "vi": [
+        "cạnh đầu đa hoành nhi",
+        "tranh nhau nhiều hoành nhi"
+      ],
+      "en": [
+        "the 'hoành nhi' contend;"
+      ]
+    },
+    {
+      "zh": [
+        "道路絶人行。"
+      ],
+      "vi": [
+        "đạo lộ tuyệt nhân hành",
+        "đường sá người vắng tanh"
+      ],
+      "en": [
+        "the roads are empty of travelers."
+      ]
+    },
+    {
+      "zh": [
+        "十二稱大王，"
+      ],
+      "vi": [
+        "Thập nhị xưng đại vương",
+        "Mười hai xưng đại vương"
+      ],
+      "en": [
+        "Twelve call themselves great kings;"
+      ]
+    },
+    {
+      "zh": [
+        "十恶無一善，"
+      ],
+      "vi": [
+        "thập ác vô nhất thiện",
+        "toàn ác không một thiện"
+      ],
+      "en": [
+        "of ten evils, not one good;"
+      ]
+    },
+    {
+      "zh": [
+        "十八子登僊，"
+      ],
+      "vi": [
+        "thập bát tử đăng tiên",
+        "mười tám con lên tiên"
+      ],
+      "en": [
+        "the Eighteen Sons rise as an immortal;"
+      ]
+    },
+    {
+      "zh": [
+        "計都二十天。」"
+      ],
+      "vi": [
+        "kế đô nhị thập thiên",
+        "sao kế đô hai chục ngày"
+      ],
+      "en": [
+        "the star Kế Đô, twenty days.\""
+      ]
+    },
+    {
+      "zh": [
+        "人以爲天數自定云。"
+      ],
+      "vi": [
+        "Người ta cho là số trời đã định như thế"
+      ],
+      "en": [
+        "People took it to mean that Heaven had fixed the outcome."
+      ]
+    },
+    {
+      "zh": [
+        "時定國公阮匐，外甲丁佃，"
+      ],
+      "vi": [
+        "Khi ấy Định quốc công Nguyễn Bặc, Ngoại giáp Đinh Điền"
+      ],
+      "en": [
+        "At that time Nguyễn Bặc, Duke of Định Quốc, Đinh Điền, the Outer Maternal Relative,"
+      ]
+    },
+    {
+      "zh": [
+        "與十道將軍黎桓"
+      ],
+      "vi": [
+        "cùng thập đạo tướng quân Lê Hoàn"
+      ],
+      "en": [
+        "and Lê Hoàn, General of the Ten Circuits,"
+      ]
+    },
+    {
+      "zh": [
+        "奉衛王璿即皇帝位，"
+      ],
+      "vi": [
+        "rước Vệ Vương Toàn lên ngôi Hoàng đế"
+      ],
+      "en": [
+        "escorted Toàn, Prince of Vệ, to ascend the throne."
+      ]
+    },
+    {
+      "zh": [
+        "尊帝曰先皇帝，"
+      ],
+      "vi": [
+        "tôn gọi vua là Tiên Hoàng Đế"
+      ],
+      "en": [
+        "They honored the late emperor as Tiên Hoàng Đế,"
+      ]
+    },
+    {
+      "zh": [
+        "尊親生母楊氏爲皇太后。"
+      ],
+      "vi": [
+        "tôn mẹ đẻ",
+        "là Dương Thị làm Hoàng thái hậu"
+      ],
+      "en": [
+        "and honored his birth mother, née Dương, as Empress Dowager."
+      ]
+    },
+    {
+      "zh": [
+        "奉先皇帝柩"
+      ],
+      "vi": [
+        "Rước linh cữu Tiên Hoàng Đế"
+      ],
+      "en": [
+        "They escorted the coffin of Emperor Tiên Hoàng"
+      ]
+    },
+    {
+      "zh": [
+        "塟長焉山陵。"
+      ],
+      "vi": [
+        "về táng ở sơn lăng Trường Yên"
+      ],
+      "en": [
+        "and buried it at the mountain tomb of Trường Yên."
+      ]
+    }
+  ]
+}

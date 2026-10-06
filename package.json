@@ -1,0 +1,18 @@
+{
+  "name": "dvsktt-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w @dvsktt/web",
+    "build": "npm run build -w @dvsktt/web",
+    "start": "npm run start -w @dvsktt/web",
+    "validate": "npm run validate -w @dvsktt/core",
+    "test": "npm run test -w @dvsktt/core",
+    "lint": "npm run lint -w @dvsktt/web",
+    "typecheck": "npm run typecheck -w @dvsktt/web",
+    "test:e2e": "npm run test:e2e -w @dvsktt/web --"
+  }
+}

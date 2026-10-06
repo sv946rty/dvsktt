@@ -1,0 +1,130 @@
+{
+  "id": "E09",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "970",
+  "type": "annal",
+  "folio": "3a",
+  "folios": [],
+  "page": 59,
+  "zh": "庚午太平元年〈宋開寳三年〉春正月，建元〈舊云我越年號始此。因李南帝建元天德〉。遣使如宋結好。時宋命大將潘美平嶺南〈劉鋹也〉，故有是命。",
+  "zhPartial": false,
+  "vi": "Canh Ngọ, Thái Bình năm thứ 1 ⟦970⟧, ⟨Tống Khai Bảo năm thứ 3⟩. Mùa xuân, tháng giêng, đặt niên hiệu. ⟨Sử cũ nói rằng nước Việt ta có niên hiệu bắt đầu từ đây. Nhưng Lý Nam Đế ⟦trước đó⟧ đã đặt niên hiệu là Thiên Đức ⟦544-548⟧⟩. Sai sứ sang nhà Tống giao hảo. Bấy giờ nhà Tống sai Đại tướng Phan Mỹ dẹp yên Lĩnh Nam ⟨chỉ Lưu Xưởng{n1}⟩, cho nên mới có mệnh ấy.",
+  "en": "Year 1 of Thái Bình, Canh Ngọ [970] (Song Kaibao 3). Spring, first month: the era name was established. (The old histories say that our Việt's era names began here; but Emperor Lý Nam Đế had earlier adopted the era name Thiên Đức [544–548].) He sent an envoy to the Song to establish friendly relations. At that time the Song had ordered the general Pan Mei to pacify Lingnan (that is, Liu Chang), and so this mission came about.",
+  "notes": [
+    "Lưu Xưởng: vua cuối cùng của Nam Hán (958-970), đầu hàng tướng nhà Tống là Phan Mỹ."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "庚午太平元年"
+      ],
+      "vi": [
+        "Canh Ngọ, Thái Bình năm thứ 1"
+      ],
+      "en": [
+        "Year 1 of Thái Bình, Canh Ngọ [970]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳三年"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 3"
+      ],
+      "en": [
+        "(Song Kaibao 3)."
+      ]
+    },
+    {
+      "zh": [
+        "春正月，"
+      ],
+      "vi": [
+        "Mùa xuân, tháng giêng"
+      ],
+      "en": [
+        "Spring, first month:"
+      ]
+    },
+    {
+      "zh": [
+        "建元"
+      ],
+      "vi": [
+        "đặt niên hiệu"
+      ],
+      "en": [
+        "the era name was established."
+      ]
+    },
+    {
+      "zh": [
+        "舊云我越年號始此。"
+      ],
+      "vi": [
+        "Sử cũ nói rằng nước Việt ta có niên hiệu bắt đầu từ đây"
+      ],
+      "en": [
+        "(The old histories say that our Việt's era names began here;"
+      ]
+    },
+    {
+      "zh": [
+        "因李南帝建元天德。"
+      ],
+      "vi": [
+        "Nhưng Lý Nam Đế",
+        "đã đặt niên hiệu là Thiên Đức"
+      ],
+      "en": [
+        "but Emperor Lý Nam Đế had earlier adopted the era name Thiên Đức [544–548].)"
+      ]
+    },
+    {
+      "zh": [
+        "遣使如宋結好。"
+      ],
+      "vi": [
+        "Sai sứ sang nhà Tống giao hảo"
+      ],
+      "en": [
+        "He sent an envoy to the Song to establish friendly relations."
+      ]
+    },
+    {
+      "zh": [
+        "時宋命大將潘美平嶺南"
+      ],
+      "vi": [
+        "Bấy giờ nhà Tống sai Đại tướng Phan Mỹ dẹp yên Lĩnh Nam"
+      ],
+      "en": [
+        "At that time the Song had ordered the general Pan Mei to pacify Lingnan"
+      ]
+    },
+    {
+      "zh": [
+        "劉鋹也，"
+      ],
+      "vi": [
+        "chỉ Lưu Xưởng"
+      ],
+      "en": [
+        "(that is, Liu Chang),"
+      ]
+    },
+    {
+      "zh": [
+        "故有是命。"
+      ],
+      "vi": [
+        "cho nên mới có mệnh ấy"
+      ],
+      "en": [
+        "and so this mission came about."
+      ]
+    }
+  ]
+}

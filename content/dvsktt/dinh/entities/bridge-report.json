@@ -1,0 +1,553 @@
+{
+ "summary": {
+  "canonical_entities": 104,
+  "pipeline_mentions": 519,
+  "placed_before_overlap_resolution": 515,
+  "interactive_mentions": 483,
+  "interactive_by_lang": {
+   "vi": 251,
+   "zh": 232
+  },
+  "interactive_in_footnotes": 34,
+  "interactive_review_required": 9,
+  "unmapped": 4,
+  "unmapped_by_reason": {
+   "context_not_found_in_reader": 4
+  },
+  "suppressed_overlaps": 32,
+  "suppressed_by_kind": {
+   "nested_in_longer_mention_of_other_entity": 24,
+   "nested_in_same_entity_mention": 8
+  },
+  "methods": {
+   "sequence_alignment": 449,
+   "context_anchor_right": 10,
+   "context_anchor": 19,
+   "context_anchor_left": 5
+  },
+  "segment_local_offsets_missing": 14,
+  "variant_occurrences_not_interactive": 0,
+  "entities_with_reader_occurrences": 103
+ },
+ "unmapped": [
+  {
+   "mention_id": "m00001",
+   "entityId": "person:dinh-bo-linh",
+   "lang": "zh",
+   "surface": "先皇帝",
+   "source_start": 3,
+   "source_end": 6,
+   "pair_id": "dinh_001",
+   "reason": "context_not_found_in_reader",
+   "source_context": "丁紀 先皇帝 维基百科條目：丁先皇 姓丁，諱部領，大黄華閭洞"
+  },
+  {
+   "mention_id": "m00297",
+   "entityId": "title:hoang-de",
+   "lang": "zh",
+   "surface": "皇帝",
+   "source_start": 4,
+   "source_end": 6,
+   "pair_id": "dinh_001",
+   "reason": "context_not_found_in_reader",
+   "source_context": "丁紀 先皇帝 维基百科條目：丁先皇 姓丁，諱部領，大黄華閭洞"
+  },
+  {
+   "mention_id": "m00005",
+   "entityId": "person:dinh-bo-linh",
+   "lang": "vi",
+   "surface": "Tiên Hoàng Đế",
+   "source_start": 12,
+   "source_end": 25,
+   "pair_id": "dinh_001",
+   "reason": "context_not_found_in_reader",
+   "source_context": "Kỷ nhà Đinh Tiên Hoàng Đế Họ Đinh, tên húy là Bộ "
+  },
+  {
+   "mention_id": "m00008",
+   "entityId": "person:dinh-bo-linh",
+   "lang": "vi",
+   "surface": "Tiên Hoàng",
+   "source_start": 12,
+   "source_end": 22,
+   "pair_id": "dinh_001",
+   "reason": "context_not_found_in_reader",
+   "source_context": "Kỷ nhà Đinh Tiên Hoàng Đế Họ Đinh, tên húy là "
+  }
+ ],
+ "suppressed_overlaps": [
+  {
+   "mention_id": "m00301",
+   "entityId": "title:hoang-de",
+   "surface": "皇帝",
+   "entryId": "E27",
+   "lang": "zh",
+   "kept_mention_id": "m00002",
+   "kept_entityId": "person:dinh-bo-linh",
+   "kept_text": "先皇帝",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00302",
+   "entityId": "title:hoang-de",
+   "surface": "皇帝",
+   "entryId": "E27",
+   "lang": "zh",
+   "kept_mention_id": "m00003",
+   "kept_entityId": "person:dinh-bo-linh",
+   "kept_text": "先皇帝",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00451",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "E04",
+   "lang": "zh",
+   "kept_mention_id": "m00037",
+   "kept_entityId": "person:nguyen-thai-binh",
+   "kept_text": "阮太平",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00269",
+   "entityId": "place:giao-chi",
+   "surface": "交趾",
+   "entryId": "E14",
+   "lang": "zh",
+   "kept_mention_id": "m00352",
+   "kept_entityId": "title:giao-chi-quan-vuong",
+   "kept_text": "交趾郡王",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00270",
+   "entityId": "place:giao-chi",
+   "surface": "交趾",
+   "entryId": "E18",
+   "lang": "zh",
+   "kept_mention_id": "m00353",
+   "kept_entityId": "title:giao-chi-quan-vuong",
+   "kept_text": "交趾郡王",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00456",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "E24",
+   "lang": "zh",
+   "kept_mention_id": "m00505",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "太平興國",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00453",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "E19",
+   "lang": "zh",
+   "kept_mention_id": "m00502",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "太平興國",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00455",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "E22",
+   "lang": "zh",
+   "kept_mention_id": "m00504",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "太平興國",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00454",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "E21",
+   "lang": "zh",
+   "kept_mention_id": "m00503",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "太平興國",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00459",
+   "entityId": "reign_era:thai-binh",
+   "surface": "太平",
+   "entryId": "F06",
+   "lang": "zh",
+   "kept_mention_id": "m00506",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "太平興國",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00012",
+   "entityId": "person:dinh-bo-linh",
+   "surface": "Tiên Hoàng",
+   "entryId": "E27",
+   "lang": "vi",
+   "kept_mention_id": "m00006",
+   "kept_entityId": "person:dinh-bo-linh",
+   "kept_text": "Tiên Hoàng Đế",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00013",
+   "entityId": "person:dinh-bo-linh",
+   "surface": "Tiên Hoàng",
+   "entryId": "E27",
+   "lang": "vi",
+   "kept_mention_id": "m00007",
+   "kept_entityId": "person:dinh-bo-linh",
+   "kept_text": "Tiên Hoàng Đế",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00374",
+   "entityId": "title:ve-vuong",
+   "surface": "Vệ Vương",
+   "entryId": "E27",
+   "lang": "vi",
+   "kept_mention_id": "m00169",
+   "kept_entityId": "person:dinh-toan",
+   "kept_text": "Vệ Vương Toàn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00324",
+   "entityId": "title:nam-viet-vuong",
+   "surface": "Nam Việt Vương",
+   "entryId": "F05",
+   "lang": "vi",
+   "kept_mention_id": "m00077",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00089",
+   "entityId": "person:dinh-lien",
+   "surface": "Liễn",
+   "entryId": "F05",
+   "lang": "vi",
+   "kept_mention_id": "m00077",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00027",
+   "entityId": "person:duong-dinh-nghe",
+   "surface": "Đình Nghệ",
+   "entryId": "E03",
+   "lang": "vi",
+   "kept_mention_id": "m00026",
+   "kept_entityId": "person:duong-dinh-nghe",
+   "kept_text": "Dương Đình Nghệ",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00462",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "E04",
+   "lang": "vi",
+   "kept_mention_id": "m00038",
+   "kept_entityId": "person:nguyen-thai-binh",
+   "kept_text": "Nguyễn Thái Bình",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00318",
+   "entityId": "title:nam-viet-vuong",
+   "surface": "Nam Việt Vương",
+   "entryId": "E14",
+   "lang": "vi",
+   "kept_mention_id": "m00073",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00271",
+   "entityId": "place:giao-chi",
+   "surface": "Giao Chỉ",
+   "entryId": "E14",
+   "lang": "vi",
+   "kept_mention_id": "m00354",
+   "kept_entityId": "title:giao-chi-quan-vuong",
+   "kept_text": "Giao Chỉ Quận Vương",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00080",
+   "entityId": "person:dinh-lien",
+   "surface": "Liễn",
+   "entryId": "E14",
+   "lang": "vi",
+   "kept_mention_id": "m00073",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00319",
+   "entityId": "title:nam-viet-vuong",
+   "surface": "Nam Việt Vương",
+   "entryId": "E18",
+   "lang": "vi",
+   "kept_mention_id": "m00074",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00272",
+   "entityId": "place:giao-chi",
+   "surface": "Giao\nChỉ",
+   "entryId": "E18",
+   "lang": "vi",
+   "kept_mention_id": "m00355",
+   "kept_entityId": "title:giao-chi-quan-vuong",
+   "kept_text": "Giao Chỉ Quận Vương",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00082",
+   "entityId": "person:dinh-lien",
+   "surface": "Liễn",
+   "entryId": "E18",
+   "lang": "vi",
+   "kept_mention_id": "m00074",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00322",
+   "entityId": "title:nam-viet-vuong",
+   "surface": "Nam Việt\nVương",
+   "entryId": "E25",
+   "lang": "vi",
+   "kept_mention_id": "m00075",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00086",
+   "entityId": "person:dinh-lien",
+   "surface": "Liễn",
+   "entryId": "E25",
+   "lang": "vi",
+   "kept_mention_id": "m00075",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00323",
+   "entityId": "title:nam-viet-vuong",
+   "surface": "Nam Việt Vương",
+   "entryId": "E26",
+   "lang": "vi",
+   "kept_mention_id": "m00076",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00088",
+   "entityId": "person:dinh-lien",
+   "surface": "Liễn",
+   "entryId": "E26",
+   "lang": "vi",
+   "kept_mention_id": "m00076",
+   "kept_entityId": "person:dinh-lien",
+   "kept_text": "Nam Việt Vương Liễn",
+   "kind": "nested_in_same_entity_mention"
+  },
+  {
+   "mention_id": "m00476",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "E24",
+   "lang": "vi",
+   "kept_mention_id": "m00510",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "Thái Bình Hưng Quốc",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00470",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "E19",
+   "lang": "vi",
+   "kept_mention_id": "m00507",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "Thái Bình Hưng Quốc",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00474",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "E22",
+   "lang": "vi",
+   "kept_mention_id": "m00509",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "Thái Bình Hưng Quốc",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00472",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "E21",
+   "lang": "vi",
+   "kept_mention_id": "m00508",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "Thái Bình Hưng Quốc",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  },
+  {
+   "mention_id": "m00480",
+   "entityId": "reign_era:thai-binh",
+   "surface": "Thái Bình",
+   "entryId": "F06",
+   "lang": "vi",
+   "kept_mention_id": "m00511",
+   "kept_entityId": "reign_era:thai-binh-hung-quoc",
+   "kept_text": "Thái Bình Hưng Quốc",
+   "kind": "nested_in_longer_mention_of_other_entity"
+  }
+ ],
+ "variant_occurrences": [],
+ "variant_source_vs_reader": [
+  {
+   "entityId": "person:dinh-lien",
+   "variant": "Nam Việt Vương Liệt",
+   "kind": "suspected_textual_error",
+   "status": "review",
+   "in_pipeline_source": 1,
+   "in_reader_text": 0,
+   "note": "The Reader edition does not contain this form; no mention in the pipeline points at the corresponding Reader passage, so it is not interactive."
+  },
+  {
+   "entityId": "person:tran-kham-to",
+   "variant": "Tràn Khâm Tộ",
+   "kind": "suspected_textual_error",
+   "status": "review",
+   "in_pipeline_source": 1,
+   "in_reader_text": 0,
+   "note": "The Reader edition does not contain this form; no mention in the pipeline points at the corresponding Reader passage, so it is not interactive."
+  }
+ ],
+ "outside_segments": [
+  {
+   "mentionId": "m00281",
+   "entityId": "place:truong-yen",
+   "entryId": "E04",
+   "lang": "vi",
+   "text": "Trường Yên"
+  },
+  {
+   "mentionId": "m00464",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E12",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00134",
+   "entityId": "person:tran-thang",
+   "entryId": "E12",
+   "lang": "zh",
+   "text": "陳升"
+  },
+  {
+   "mentionId": "m00135",
+   "entityId": "person:tran-thang",
+   "entryId": "E12",
+   "lang": "zh",
+   "text": "陳升"
+  },
+  {
+   "mentionId": "m00465",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E13",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00466",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E14",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00467",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E15",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00468",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E17",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00469",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E19",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00471",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E21",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00473",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E22",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00475",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "E24",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00478",
+   "entityId": "reign_era:thai-binh",
+   "entryId": "F06",
+   "lang": "vi",
+   "text": "Thái Bình"
+  },
+  {
+   "mentionId": "m00377",
+   "entityId": "title:ve-vuong",
+   "entryId": "F14",
+   "lang": "vi",
+   "text": "Vệ Vương"
+  }
+ ]
+}

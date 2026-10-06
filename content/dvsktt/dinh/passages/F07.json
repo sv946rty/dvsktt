@@ -1,0 +1,277 @@
+{
+  "id": "F07",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "9a",
+  "folios": [
+    "9b"
+  ],
+  "page": 63,
+  "zh": "⚑乙夏六月，宋知邕州太常博士侯仁寶上言於宋帝曰：「安南郡王及其子琏皆被弒。其國垂亡，可因此時，以偏師取之，舍今不圖，恐失機會，請詣闕面陳可取之狀。」令驰驛召之。盧多遜曰：「下安南內擾，此天亡之秋，朝廷出其不意，用兵襲擊，所謂疾雷不及掩耳。若先召仁寶，其謀必泄。彼因知之，負山阻海為備，勝負之勢，未可知也。不如投仁寶以飛輓之任，因合經度其事，選將發荊湖士卒三萬人，長驅而往，勢出萬全，摧枯拉朽，必無亡矢遺鏃之患。」宋帝以為然。",
+  "zhPartial": false,
+  "vi": "Mùa hạ, tháng 6, Tri Ung Châu{n1} của nhà Tống là Thái thường bác sĩ Hầu Nhân Bảo dâng thư tâu với vua Tống rằng: \" An Nam Quận Vương cùng với con là Liễn đều bị giết, nước ấy sắp mất, có thể nhân lúc này đem một cánh quân sang đánh lấy. Nếu bỏ lúc này không mưu tính, sợ lỡ mất cơ hội. Xin cho đến cửa khuyết để tâu bày trực tiếp tình trạng có thể đánh lấy được \". Vua Tống sai chạy trạm đến gọi Nhân Bảo. Lư Đa Tốn nói: \" An Nam bên trong rối loạn, đó là lúc trời làm mất, triều đình nên bất ngờ đem quân sang đánh úp, như người ta nói: \" sét đánh không kịp bịt tai\". Nếu trước gọi Nhân Bảo về, mưu ấy ắt bị lộ, kẻ kia nhờ đó biết được, sẽ dựa núi ngăn mà phòng bị, cái thế thắng thua chưa biết thế nào. Chi bằng giao cho Nhân Bảo trách nhiệm ngầm đem quân sang, theo lệnh mà lo liệu việc ấy, chọn tướng đem 3 vạn quân Kinh Hồ{n2} ruổi dài mà |9b| tràn sang, tạo ra cái thế vạn toàn như xô bẻ cành khô gỗ mục, không phải lo tốn một mũi tên\". Vua Tống cho là phải.",
+  "en": "Summer, sixth month: Hou Renbao, Erudite of the Court of Imperial Sacrifices and Prefect of Yongzhou for the Song, submitted a memorial to the Song emperor: \"The Prince of An Nam and his son Liễn have both been murdered, and that country is about to fall. We can take advantage of this moment to send a detachment and seize it. If we abandon the present and make no plan, I fear we shall lose the opportunity. I request to come to the palace and present in person the circumstances by which it may be taken.\" The emperor sent a courier to summon him. Lu Duoxun said: \"An Nam is in internal disorder; this is a moment when Heaven is destroying it. The court should strike unexpectedly, as the saying goes, 'thunder too swift to cover the ears.' If Renbao is summoned back first, the plan will surely leak; the enemy, learning of it, would rely on mountains and sea to prepare, and the outcome would be uncertain. It would be better to entrust Renbao with the supply duties and quietly dispatch troops, handling matters as ordered; select generals and send 30,000 troops from Jinghu to press on at full speed, so that the situation is entirely secure, like snapping dry branches and rotten wood, without the loss of a single arrow.\" The Song emperor thought this right.",
+  "notes": [
+    "Ung Châu: nay là huyện Nam Ninh, tỉnh Quảng Tây, Trung Quốc.",
+    "Kinh Hồ: tên lộ thời Tống, gồm đất tỉnh Hồ Nam và tỉnh Hồ Bắc, Trung Quốc ngày nay."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "乙夏六月，"
+      ],
+      "vi": [
+        "Mùa hạ, tháng 6"
+      ],
+      "en": [
+        "Summer, sixth month:"
+      ]
+    },
+    {
+      "zh": [
+        "宋知邕州太常博士侯仁寶"
+      ],
+      "vi": [
+        "Tri Ung Châu của nhà Tống là Thái thường bác sĩ Hầu Nhân Bảo"
+      ],
+      "en": [
+        "Hou Renbao, Erudite of the Court of Imperial Sacrifices and Prefect of Yongzhou for the Song,"
+      ]
+    },
+    {
+      "zh": [
+        "上言於宋帝曰："
+      ],
+      "vi": [
+        "dâng thư tâu với vua Tống rằng"
+      ],
+      "en": [
+        "submitted a memorial to the Song emperor:"
+      ]
+    },
+    {
+      "zh": [
+        "「安南郡王及其子琏皆被弒。"
+      ],
+      "vi": [
+        "An Nam Quận Vương cùng với con là Liễn đều bị giết"
+      ],
+      "en": [
+        "\"The Prince of An Nam and his son Liễn have both been murdered,"
+      ]
+    },
+    {
+      "zh": [
+        "其國垂亡，"
+      ],
+      "vi": [
+        "nước ấy sắp mất"
+      ],
+      "en": [
+        "and that country is about to fall."
+      ]
+    },
+    {
+      "zh": [
+        "可因此時，以偏師取之，"
+      ],
+      "vi": [
+        "có thể nhân lúc này đem một cánh quân sang đánh lấy"
+      ],
+      "en": [
+        "We can take advantage of this moment to send a detachment and seize it."
+      ]
+    },
+    {
+      "zh": [
+        "舍今不圖，恐失機會，"
+      ],
+      "vi": [
+        "Nếu bỏ lúc này không mưu tính, sợ lỡ mất cơ hội"
+      ],
+      "en": [
+        "If we abandon the present and make no plan, I fear we shall lose the opportunity."
+      ]
+    },
+    {
+      "zh": [
+        "請詣闕面陳可取之狀。」"
+      ],
+      "vi": [
+        "Xin cho đến cửa khuyết để tâu bày trực tiếp tình trạng có thể đánh lấy được"
+      ],
+      "en": [
+        "I request to come to the palace and present in person the circumstances by which it may be taken.\""
+      ]
+    },
+    {
+      "zh": [
+        "令驰驛召之。"
+      ],
+      "vi": [
+        "Vua Tống sai chạy trạm đến gọi Nhân Bảo"
+      ],
+      "en": [
+        "The emperor sent a courier to summon him."
+      ]
+    },
+    {
+      "zh": [
+        "盧多遜曰："
+      ],
+      "vi": [
+        "Lư Đa Tốn nói"
+      ],
+      "en": [
+        "Lu Duoxun said:"
+      ]
+    },
+    {
+      "zh": [
+        "「下安南內擾，此天亡之秋，"
+      ],
+      "vi": [
+        "An Nam bên trong rối loạn, đó là lúc trời làm mất"
+      ],
+      "en": [
+        "\"An Nam is in internal disorder; this is a moment when Heaven is destroying it."
+      ]
+    },
+    {
+      "zh": [
+        "朝廷出其不意，用兵襲擊，"
+      ],
+      "vi": [
+        "triều đình nên bất ngờ đem quân sang đánh úp"
+      ],
+      "en": [
+        "The court should strike unexpectedly,"
+      ]
+    },
+    {
+      "zh": [
+        "所謂疾雷不及掩耳。"
+      ],
+      "vi": [
+        "như người ta nói",
+        "sét đánh không kịp bịt tai"
+      ],
+      "en": [
+        "as the saying goes, 'thunder too swift to cover the ears.'"
+      ]
+    },
+    {
+      "zh": [
+        "若先召仁寶，其謀必泄。"
+      ],
+      "vi": [
+        "Nếu trước gọi Nhân Bảo về, mưu ấy ắt bị lộ"
+      ],
+      "en": [
+        "If Renbao is summoned back first, the plan will surely leak;"
+      ]
+    },
+    {
+      "zh": [
+        "彼因知之，負山阻海為備，"
+      ],
+      "vi": [
+        "kẻ kia nhờ đó biết được, sẽ dựa núi ngăn mà phòng bị"
+      ],
+      "en": [
+        "the enemy, learning of it, would rely on mountains and sea to prepare,"
+      ]
+    },
+    {
+      "zh": [
+        "勝負之勢，未可知也。"
+      ],
+      "vi": [
+        "cái thế thắng thua chưa biết thế nào"
+      ],
+      "en": [
+        "and the outcome would be uncertain."
+      ]
+    },
+    {
+      "zh": [
+        "不如投仁寶以飛輓之任，"
+      ],
+      "vi": [
+        "Chi bằng giao cho Nhân Bảo trách nhiệm ngầm đem quân sang"
+      ],
+      "en": [
+        "It would be better to entrust Renbao with the supply duties and quietly dispatch troops,"
+      ]
+    },
+    {
+      "zh": [
+        "因合經度其事，"
+      ],
+      "vi": [
+        "theo lệnh mà lo liệu việc ấy"
+      ],
+      "en": [
+        "handling matters as ordered;"
+      ]
+    },
+    {
+      "zh": [
+        "選將發荊湖士卒三萬人，"
+      ],
+      "vi": [
+        "chọn tướng đem 3 vạn quân Kinh Hồ"
+      ],
+      "en": [
+        "select generals and send 30,000 troops from Jinghu"
+      ]
+    },
+    {
+      "zh": [
+        "長驅而往，"
+      ],
+      "vi": [
+        "ruổi dài mà",
+        "tràn sang"
+      ],
+      "en": [
+        "to press on at full speed,"
+      ]
+    },
+    {
+      "zh": [
+        "勢出萬全，摧枯拉朽，"
+      ],
+      "vi": [
+        "tạo ra cái thế vạn toàn như xô bẻ cành khô gỗ mục"
+      ],
+      "en": [
+        "so that the situation is entirely secure, like snapping dry branches and rotten wood,"
+      ]
+    },
+    {
+      "zh": [
+        "必無亡矢遺鏃之患。」"
+      ],
+      "vi": [
+        "không phải lo tốn một mũi tên"
+      ],
+      "en": [
+        "without the loss of a single arrow.\""
+      ]
+    },
+    {
+      "zh": [
+        "宋帝以為然。"
+      ],
+      "vi": [
+        "Vua Tống cho là phải"
+      ],
+      "en": [
+        "The Song emperor thought this right."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "id": "E14",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "973",
+  "type": "annal",
+  "folio": "4a",
+  "folios": [],
+  "page": 60,
+  "zh": "癸酉四年〈宋開寳六年〉。南越王璉使還。宋遣使封帝爲交趾郡王，璉檢校太師、靜海軍節度使、安南都護。〈制詞畧曰：世爲右族，能保遐方，志慕華風，常思内附。九州混一，五嶺廓清，遂達梯航，乃輸聀貢。嘉令子稱藩之意，賜乃父裂土之封，秩以維師，疇之井賦。用褒耆德，豈限彛章。〉",
+  "zhPartial": false,
+  "vi": "Quý Dậu, ⟦Thái Bình⟧ năm thứ 4 ⟦973⟧, ⟨Tống Khai Bảo năm thứ 6⟩. Nam Việt Vương Liễn đi sứ về. Nhà Tống sai sứ sang phong cho vua làm Giao Chỉ Quận Vương, Liễn làm Kiểm hiệu thái sư Tỉnh Hải quân tiết độ sứ An Nam đô hộ. ⟨Lời chế đại lược nói: \"⟦Họ Đinh⟧ đời làm vọng tộc, gìn giữ được phương xa, chí hâm mộ phong hoá Trung Hoa, thường nghĩ đến việc nội phụ. Nay chín châu hợp một, miền Ngũ Lĩnh sạch quang{n1}, bèn trèo non vượt biển đến dâng đồ cống. Khen người làm con biết giữ lễ phiên thần, vậy ban cho cha ngươi theo lối cắt đất phong tước, xếp phẩm trật cho vào hạng được cầm quân, được hưởng mức \"tỉnh phú\"{n2}. Như thế là để khen thưởng đức tốt của người già, há chỉ hạn chế trong điển chương thường lệ đâu?\"⟩.",
+  "en": "Year 4 of Quý Dậu [973] (Song Kaibao 6). Liễn, King of Nam Việt, returned from his mission. The Song sent an envoy to enfeoff the emperor as Prince of Giao Chỉ Commandery, and Liễn as Acting Grand Preceptor, Military Governor of the Tĩnh Hải Army and Protector-General of An Nam. (The edict said in outline: \"Your house has been a distinguished family for generations and has kept the distant region secure; you admire Chinese customs and have long thought of submission. Now the nine provinces are united and the Five Ranges cleared; you have crossed mountains and seas to bring tribute. We commend the son's deference as a vassal, and so grant his father a fief of divided land, ranking him among those allowed to command troops and to enjoy the 'well-field' levy. In this way we honor the virtue of the elder; how could it be bound by ordinary regulations?\")",
+  "notes": [
+    "Chỉ việc nhà Tống đã diệt Hán, lấy được miền Nam Trung Quốc.",
+    "Nguyên văn: \"Trù chi tỉnh phú\". Theo Tống sử, Thực Hoá chí thì \"tỉnh phú\" ( chữ tỉnh trong từ tỉnh điên) là chế độ quy định các điạ phương đóng góp 1/5 binh mã cho chính quyền trung ương."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "癸酉四年"
+      ],
+      "vi": [
+        "Quý Dậu",
+        "năm thứ 4"
+      ],
+      "en": [
+        "Year 4 of Quý Dậu [973]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳六年。"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 6"
+      ],
+      "en": [
+        "(Song Kaibao 6)."
+      ]
+    },
+    {
+      "zh": [
+        "南越王璉使還。"
+      ],
+      "vi": [
+        "Nam Việt Vương Liễn đi sứ về"
+      ],
+      "en": [
+        "Liễn, King of Nam Việt, returned from his mission."
+      ]
+    },
+    {
+      "zh": [
+        "宋遣使封帝爲交趾郡王，"
+      ],
+      "vi": [
+        "Nhà Tống sai sứ sang phong cho vua làm Giao Chỉ Quận Vương"
+      ],
+      "en": [
+        "The Song sent an envoy to enfeoff the emperor as Prince of Giao Chỉ Commandery,"
+      ]
+    },
+    {
+      "zh": [
+        "璉檢校太師、靜海軍節度使、安南都護。"
+      ],
+      "vi": [
+        "Liễn làm Kiểm hiệu thái sư Tỉnh Hải quân tiết độ sứ An Nam đô hộ"
+      ],
+      "en": [
+        "and Liễn as Acting Grand Preceptor, Military Governor of the Tĩnh Hải Army and Protector-General of An Nam."
+      ]
+    },
+    {
+      "zh": [
+        "制詞畧曰："
+      ],
+      "vi": [
+        "Lời chế đại lược nói"
+      ],
+      "en": [
+        "(The edict said in outline:"
+      ]
+    },
+    {
+      "zh": [
+        "世爲右族，能保遐方，"
+      ],
+      "vi": [
+        "đời làm vọng tộc, gìn giữ được phương xa"
+      ],
+      "en": [
+        "\"Your house has been a distinguished family for generations and has kept the distant region secure;"
+      ]
+    },
+    {
+      "zh": [
+        "志慕華風，常思内附。"
+      ],
+      "vi": [
+        "chí hâm mộ phong hoá Trung Hoa, thường nghĩ đến việc nội phụ"
+      ],
+      "en": [
+        "you admire Chinese customs and have long thought of submission."
+      ]
+    },
+    {
+      "zh": [
+        "九州混一，五嶺廓清，"
+      ],
+      "vi": [
+        "Nay chín châu hợp một, miền Ngũ Lĩnh sạch quang"
+      ],
+      "en": [
+        "Now the nine provinces are united and the Five Ranges cleared;"
+      ]
+    },
+    {
+      "zh": [
+        "遂達梯航，乃輸聀貢。"
+      ],
+      "vi": [
+        "bèn trèo non vượt biển đến dâng đồ cống"
+      ],
+      "en": [
+        "you have crossed mountains and seas to bring tribute."
+      ]
+    },
+    {
+      "zh": [
+        "嘉令子稱藩之意，"
+      ],
+      "vi": [
+        "Khen người làm con biết giữ lễ phiên thần"
+      ],
+      "en": [
+        "We commend the son's deference as a vassal,"
+      ]
+    },
+    {
+      "zh": [
+        "賜乃父裂土之封，"
+      ],
+      "vi": [
+        "vậy ban cho cha ngươi theo lối cắt đất phong tước"
+      ],
+      "en": [
+        "and so grant his father a fief of divided land,"
+      ]
+    },
+    {
+      "zh": [
+        "秩以維師，疇之井賦。"
+      ],
+      "vi": [
+        "xếp phẩm trật cho vào hạng được cầm quân, được hưởng mức \"tỉnh phú\""
+      ],
+      "en": [
+        "ranking him among those allowed to command troops and to enjoy the 'well-field' levy."
+      ]
+    },
+    {
+      "zh": [
+        "用褒耆德，"
+      ],
+      "vi": [
+        "Như thế là để khen thưởng đức tốt của người già"
+      ],
+      "en": [
+        "In this way we honor the virtue of the elder;"
+      ]
+    },
+    {
+      "zh": [
+        "豈限彛章。"
+      ],
+      "vi": [
+        "há chỉ hạn chế trong điển chương thường lệ đâu"
+      ],
+      "en": [
+        "how could it be bound by ordinary regulations?\")"
+      ]
+    }
+  ]
+}

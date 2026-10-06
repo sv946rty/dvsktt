@@ -1,0 +1,83 @@
+{
+  "id": "E10",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "970",
+  "type": "annal",
+  "folio": "3a",
+  "folios": [],
+  "page": 59,
+  "zh": "立五皇后〈一曰⚑舟嘉，二曰貞明，三曰矯國，四曰瞿國，五曰歌翁〉。",
+  "zhPartial": false,
+  "vi": "Lập 5 hoàng hậu ⟨một là Đan Gia, hai là Trinh Minh, ba là Kiểu Quốc, bốn là Cồ Quốc, năm là Ca Ông⟩.",
+  "en": "He established five empresses (the first, Đan Gia; the second, Trinh Minh; the third, Kiểu Quốc; the fourth, Cồ Quốc; the fifth, Ca Ông).",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "立五皇后"
+      ],
+      "vi": [
+        "Lập 5 hoàng hậu"
+      ],
+      "en": [
+        "He established five empresses"
+      ]
+    },
+    {
+      "zh": [
+        "一曰舟嘉，"
+      ],
+      "vi": [
+        "một là Đan Gia"
+      ],
+      "en": [
+        "(the first, Đan Gia;"
+      ]
+    },
+    {
+      "zh": [
+        "二曰貞明，"
+      ],
+      "vi": [
+        "hai là Trinh Minh"
+      ],
+      "en": [
+        "the second, Trinh Minh;"
+      ]
+    },
+    {
+      "zh": [
+        "三曰矯國，"
+      ],
+      "vi": [
+        "ba là Kiểu Quốc"
+      ],
+      "en": [
+        "the third, Kiểu Quốc;"
+      ]
+    },
+    {
+      "zh": [
+        "四曰瞿國，"
+      ],
+      "vi": [
+        "bốn là Cồ Quốc"
+      ],
+      "en": [
+        "the fourth, Cồ Quốc;"
+      ]
+    },
+    {
+      "zh": [
+        "五曰歌翁。"
+      ],
+      "vi": [
+        "năm là Ca Ông"
+      ],
+      "en": [
+        "the fifth, Ca Ông)."
+      ]
+    }
+  ]
+}

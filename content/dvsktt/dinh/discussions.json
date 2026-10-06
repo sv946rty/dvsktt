@@ -1,0 +1,91 @@
+[
+  {
+    "id": "t4",
+    "entry": "E12",
+    "title": "Bản Hán có thêm câu về công chúa Minh Châu, bản dịch không có",
+    "kind": "Bản dịch",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 2,
+    "quote": "以明珠公主嫁陳升，封升駙馬都尉〈陳升明公弟〉。",
+    "body": "Sau đoạn \"Đặng Huyền Quang được trao chức Sùng chân uy nghi\", bản Hán Wikisource còn một câu: gả công chúa Minh Châu cho Trần Thăng, phong Phò mã đô úy (Trần Thăng là em của Minh Công). Bản dịch trong PDF không có câu này. Cần xem bản dịch bỏ sót hay bản Hán chép thêm.",
+    "replies": [],
+    "demo": true
+  },
+  {
+    "id": "t5",
+    "entry": "E10",
+    "title": "Bản Hán chép 舟嘉, bản dịch là Đan Gia (丹嘉?)",
+    "kind": "Bản Hán",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 2,
+    "quote": "一曰舟嘉",
+    "body": "Bản dịch ghi Đan Gia, tương ứng 丹嘉. Wikisource chép 舟嘉 (chữ 舟 giống 丹). Có thể là lỗi nhập liệu, cần đối chiếu bản scan.",
+    "replies": [],
+    "demo": true
+  },
+  {
+    "id": "t6",
+    "entry": "E27",
+    "title": "塟長焉山陵: 焉 hay 安?",
+    "kind": "Bản Hán",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 1,
+    "quote": "奉先皇帝柩塟長焉山陵",
+    "body": "Đoạn đầu (E01) chép 塟長安山陵 (Trường Yên), nhưng ở đây là 長焉. Bản dịch đều ghi Trường Yên, nên 焉 có thể là chép nhầm của 安.",
+    "replies": [],
+    "demo": true
+  },
+  {
+    "id": "t1",
+    "entry": "E03",
+    "title": "Chữ 也 trong 牧牛于也: có thể là 野 (đồng)?",
+    "kind": "Bản Hán",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 5,
+    "quote": "與群童牧牛于也",
+    "body": "Bản dịch ghi \"chăn trâu ngoài đồng\" nhưng chữ Hán ở đây là 也, không có nghĩa \"đồng\". Có thể nguyên bản là 野 hoặc có chữ bị chép nhầm. Cần xem ảnh chụp bản gốc để xác nhận.",
+    "replies": [
+      {
+        "author": "Người đọc (ví dụ)",
+        "ago": 3,
+        "body": "Trong bản khắc Chính Hòa, chỗ này tôi nhớ có dạng \"于野\". Bạn nào có ảnh bản gốc thì dán vào đây nhé."
+      },
+      {
+        "author": "Biên tập viên (ví dụ)",
+        "ago": 1,
+        "body": "Cảm ơn. Chúng tôi sẽ đối chiếu với bản scan trước khi sửa. Tạm giữ nguyên chữ 也 và đánh dấu nghi vấn."
+      }
+    ],
+    "demo": true
+  },
+  {
+    "id": "t2",
+    "entry": "E03",
+    "title": "皇龍 hay 黃龍 (rồng vàng)?",
+    "kind": "Bản Hán",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 4,
+    "quote": "見二皇龍擁之",
+    "body": "Bản dịch là \"hai con rồng vàng\", nên chữ Hán có thể là 黃龍. Bản Wikisource ghi 皇龍. Cần kiểm tra lại.",
+    "replies": [],
+    "demo": true
+  },
+  {
+    "id": "t3",
+    "entry": "E04",
+    "title": "Dấu phẩy trong \"細江則有吕佐，唐僊遊…\" có thể bị đặt sai",
+    "kind": "Bản Hán",
+    "status": "Đang thảo luận",
+    "author": "Đối chiếu tự động",
+    "ago": 2,
+    "quote": "細江則有吕佐，唐僊遊則有阮守㨗",
+    "body": "Bản dịch là \"Tế Giang thì có Lữ Tá Đường, Tiên Du có Nguyễn Thủ Tiệp\". Như vậy 唐 thuộc tên Lữ Tá Đường (吕佐唐), dấu phẩy nên đứng sau 唐 chứ không phải sau 佐.",
+    "replies": [],
+    "demo": true
+  }
+]

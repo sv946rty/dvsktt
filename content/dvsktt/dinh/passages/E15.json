@@ -1,0 +1,163 @@
+{
+  "id": "E15",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "974",
+  "type": "annal",
+  "folio": "4a",
+  "folios": [],
+  "page": 60,
+  "zh": "甲戌五年〈宋開寳七年〉春二月，定十道軍，一道十軍，一軍十旅，一旅十卒，一卒十伍，一伍十人，各戴四方平頂帽〈其帽以皮爲之，平頂四邊，夾縫上狹下寬，其制至今朝起義猶存，後代因之。〉。",
+  "zhPartial": false,
+  "vi": "Giáp Tuất, ⟦Thái Bình⟧ năm thứ 5 ⟦974⟧, ⟨Tống Khai Bảo năm thứ 7⟩. Mùa xuân, tháng hai, quy định về quân mười đạo: mỗi đạo có 10 quân, 1 quân 10 lữ, 1 lữ 10 tốt, 1 tốt 10 ngũ, 1 ngũ 10 người, đầu đội mũ bình đính{n1} vuông bốn góc ⟨loại mũ này làm bằng da, chóp phẳng, bố bên khâu liền, trên hẹp dưới rộng, quy chế này đến đời bản triều khởi nghĩa vẫn còn dùng, đời sau vẫn theo thế⟩.",
+  "en": "Year 5 of Giáp Tuất [974] (Song Kaibao 7). Spring, second month: the army of the ten circuits was organized. Each circuit had ten armies; each army ten brigades (lữ); each brigade ten companies (tốt); each company ten squads (ngũ); each squad ten men. Each man wore a four-cornered flat-topped cap (the cap was made of leather, flat on top, with the four sides sewn together, narrow above and wide below; this pattern was still in use at the time of our present dynasty's uprising, and later generations followed it).",
+  "notes": [
+    "Bình đính: phẳng đầu."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "甲戌五年"
+      ],
+      "vi": [
+        "Giáp Tuất",
+        "năm thứ 5"
+      ],
+      "en": [
+        "Year 5 of Giáp Tuất [974]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳七年"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 7"
+      ],
+      "en": [
+        "(Song Kaibao 7)."
+      ]
+    },
+    {
+      "zh": [
+        "春二月，"
+      ],
+      "vi": [
+        "Mùa xuân, tháng hai"
+      ],
+      "en": [
+        "Spring, second month:"
+      ]
+    },
+    {
+      "zh": [
+        "定十道軍，"
+      ],
+      "vi": [
+        "quy định về quân mười đạo"
+      ],
+      "en": [
+        "the army of the ten circuits was organized."
+      ]
+    },
+    {
+      "zh": [
+        "一道十軍，"
+      ],
+      "vi": [
+        "mỗi đạo có 10 quân"
+      ],
+      "en": [
+        "Each circuit had ten armies;"
+      ]
+    },
+    {
+      "zh": [
+        "一軍十旅，"
+      ],
+      "vi": [
+        "1 quân 10 lữ"
+      ],
+      "en": [
+        "each army ten brigades (lữ);"
+      ]
+    },
+    {
+      "zh": [
+        "一旅十卒，"
+      ],
+      "vi": [
+        "1 lữ 10 tốt"
+      ],
+      "en": [
+        "each brigade ten companies (tốt);"
+      ]
+    },
+    {
+      "zh": [
+        "一卒十伍，"
+      ],
+      "vi": [
+        "1 tốt 10 ngũ"
+      ],
+      "en": [
+        "each company ten squads (ngũ);"
+      ]
+    },
+    {
+      "zh": [
+        "一伍十人，"
+      ],
+      "vi": [
+        "1 ngũ 10 người"
+      ],
+      "en": [
+        "each squad ten men."
+      ]
+    },
+    {
+      "zh": [
+        "各戴四方平頂帽"
+      ],
+      "vi": [
+        "đầu đội mũ bình đính vuông bốn góc"
+      ],
+      "en": [
+        "Each man wore a four-cornered flat-topped cap"
+      ]
+    },
+    {
+      "zh": [
+        "其帽以皮爲之，"
+      ],
+      "vi": [
+        "loại mũ này làm bằng da"
+      ],
+      "en": [
+        "(the cap was made of leather,"
+      ]
+    },
+    {
+      "zh": [
+        "平頂四邊，夾縫上狹下寬，"
+      ],
+      "vi": [
+        "chóp phẳng, bố bên khâu liền, trên hẹp dưới rộng"
+      ],
+      "en": [
+        "flat on top, with the four sides sewn together, narrow above and wide below;"
+      ]
+    },
+    {
+      "zh": [
+        "其制至今朝起義猶存，後代因之。。"
+      ],
+      "vi": [
+        "quy chế này đến đời bản triều khởi nghĩa vẫn còn dùng, đời sau vẫn theo thế"
+      ],
+      "en": [
+        "this pattern was still in use at the time of our present dynasty's uprising, and later generations followed it)."
+      ]
+    }
+  ]
+}

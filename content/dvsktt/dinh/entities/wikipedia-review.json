@@ -1,0 +1,843 @@
+{
+ "schema": "dvsktt-wikipedia-review/4.1",
+ "generated_at": "2026-10-06T06:40:00+00:00",
+ "status": "not_run",
+ "entries": [
+  {
+   "entityId": "person:cao-bao-tu",
+   "type": "person",
+   "names": {
+    "zh": "高保緒",
+    "vi": "Cao Bảo Tự"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dang-huyen-quang",
+   "type": "person",
+   "names": {
+    "zh": "鄧玄光",
+    "vi": "Đặng Huyền Quang"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-bo-linh",
+   "type": "person",
+   "names": {
+    "zh": "丁部領",
+    "vi": "Đinh Bộ Lĩnh"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-cong-tru",
+   "type": "person",
+   "names": {
+    "zh": "丁公著",
+    "vi": "Đinh Công Trứ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-dien",
+   "type": "person",
+   "names": {
+    "zh": "丁佃",
+    "vi": "Đinh Điền"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-hang-lang",
+   "type": "person",
+   "names": {
+    "zh": "項郎",
+    "vi": "Hạng Lang"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-lien",
+   "type": "person",
+   "names": {
+    "zh": "丁璉",
+    "vi": "Đinh Liễn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:dinh-toan",
+   "type": "person",
+   "names": {
+    "zh": "丁璿",
+    "vi": "Đinh Toàn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:do-canh-thac",
+   "type": "person",
+   "names": {
+    "zh": "杜景碩",
+    "vi": "Đỗ Cảnh Thạc"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:do-thich",
+   "type": "person",
+   "names": {
+    "zh": "杜釋",
+    "vi": "Đỗ Thích"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:duong-dinh-nghe",
+   "type": "person",
+   "names": {
+    "zh": "楊廷藝",
+    "vi": "Dương Đình Nghệ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:duong-thi",
+   "type": "person",
+   "names": {
+    "zh": "楊氏",
+    "vi": "Dương Thị"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:gia-thuc",
+   "type": "person",
+   "names": {
+    "zh": "賈湜",
+    "vi": "Giả Thực"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:hao-thu-tuan",
+   "type": "person",
+   "names": {
+    "zh": "郝守俊",
+    "vi": "Hác Thủ Tuấn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:hau-nhan-bao",
+   "type": "person",
+   "names": {
+    "zh": "侯仁寶",
+    "vi": "Hầu Nhân Bảo"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:kieu-lenh-cong",
+   "type": "person",
+   "names": {
+    "zh": "矯令公",
+    "vi": "Kiểu Lệnh Công"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:kieu-tam-che",
+   "type": "person",
+   "names": {
+    "zh": "矯三制",
+    "vi": "Kiểu Tam Chế"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:le-hoan",
+   "type": "person",
+   "names": {
+    "zh": "黎桓",
+    "vi": "Lê Hoàn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:le-van-huu",
+   "type": "person",
+   "names": {
+    "zh": "黎文休",
+    "vi": "Lê Văn Hưu"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:lu-da-ton",
+   "type": "person",
+   "names": {
+    "zh": "盧多遜",
+    "vi": "Lư Đa Tốn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:lu-ta-duong",
+   "type": "person",
+   "names": {
+    "zh": "吕佐",
+    "vi": "Lữ Tá Đường"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:luu-co",
+   "type": "person",
+   "names": {
+    "zh": "劉基",
+    "vi": "Lưu Cơ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:luu-trung",
+   "type": "person",
+   "names": {
+    "zh": "劉澄",
+    "vi": "Lưu Trừng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:luu-xuong",
+   "type": "person",
+   "names": {
+    "zh": "劉鋹",
+    "vi": "Lưu Xưởng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ly-lang-cong",
+   "type": "person",
+   "names": {
+    "zh": "李郎公",
+    "vi": "Lý Lãng Công"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ly-nam-de",
+   "type": "person",
+   "names": {
+    "zh": "李南帝",
+    "vi": "Lý Nam Đế"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ngo-chan-luu",
+   "type": "person",
+   "names": {
+    "zh": "吳真流",
+    "vi": "Ngô Chân Lưu"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ngo-nhat-khanh",
+   "type": "person",
+   "names": {
+    "zh": "吳日慶",
+    "vi": "Ngô Nhật Khánh"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ngo-si-lien",
+   "type": "person",
+   "names": {
+    "zh": "吳士連",
+    "vi": "Ngô Sĩ Liên"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ngo-xuong-xi",
+   "type": "person",
+   "names": {
+    "zh": "吳昌熾",
+    "vi": "Ngô Xương Xí"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:nguyen-bac",
+   "type": "person",
+   "names": {
+    "zh": "阮匐",
+    "vi": "Nguyễn Bặc"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:nguyen-lenh-cong",
+   "type": "person",
+   "names": {
+    "zh": "阮令公",
+    "vi": "Nguyễn Lệnh Công"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:nguyen-thai-binh",
+   "type": "person",
+   "names": {
+    "zh": "阮太平",
+    "vi": "Nguyễn Thái Bình"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:nguyen-thu-tiep",
+   "type": "person",
+   "names": {
+    "zh": "阮守㨗",
+    "vi": "Nguyễn Thủ Tiệp"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:pham-cu-lang",
+   "type": "person",
+   "names": {
+    "zh": "范巨倆",
+    "vi": "Phạm Cự Lạng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:pham-hap",
+   "type": "person",
+   "names": {
+    "zh": "范盍",
+    "vi": "Phạm Hạp"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:pham-phong-at",
+   "type": "person",
+   "names": {
+    "zh": "范防遏",
+    "vi": "Phạm Phòng Át"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:phan-my",
+   "type": "person",
+   "names": {
+    "zh": "潘美",
+    "vi": "Phan Mỹ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:thoi-luong",
+   "type": "person",
+   "names": {
+    "zh": "崔亮",
+    "vi": "Thôi Lượng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:ton-toan-hung",
+   "type": "person",
+   "names": {
+    "zh": "孫全興",
+    "vi": "Tôn Toàn Hưng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:tran-kham-to",
+   "type": "person",
+   "names": {
+    "zh": "陳欽祚",
+    "vi": "Trần Khâm Tộ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:tran-minh-cong",
+   "type": "person",
+   "names": {
+    "zh": "陳公",
+    "vi": "Trần Minh Công"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:tran-nguyen-thai",
+   "type": "person",
+   "names": {
+    "zh": "陳元泰",
+    "vi": "Trần Nguyên Thái"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:tran-thang",
+   "type": "person",
+   "names": {
+    "zh": "陳升",
+    "vi": "Trần Thăng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:trinh-tu",
+   "type": "person",
+   "names": {
+    "zh": "鄭琇",
+    "vi": "Trịnh Tú"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:truong-ma-ni",
+   "type": "person",
+   "names": {
+    "zh": "張麻尼",
+    "vi": "Trương Ma Ni"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:vuong-ngan-phu",
+   "type": "person",
+   "names": {
+    "zh": "王彦符",
+    "vi": "Vương Ngạn Phù"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "person:vuong-toan",
+   "type": "person",
+   "names": {
+    "zh": "王僎",
+    "vi": "Vương Soạn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:binh-kieu",
+   "type": "place",
+   "names": {
+    "zh": "平橋",
+    "vi": "Bình Kiều"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:bo-hai",
+   "type": "place",
+   "names": {
+    "zh": "布海",
+    "vi": "Bố Hải"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:bong",
+   "type": "place",
+   "names": {
+    "zh": "芃冊",
+    "vi": "sách Bông"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dai-hoang",
+   "type": "place",
+   "names": {
+    "zh": "大黄",
+    "vi": "Đại Hoàng"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dam-gia-nuong-loan",
+   "type": "place",
+   "names": {
+    "zh": "譚家娘灣",
+    "vi": "Đàm Gia Nương Loan"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dam-thon",
+   "type": "place",
+   "names": {
+    "zh": "潭村",
+    "vi": "Đàm thôn"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dang-chau",
+   "type": "place",
+   "names": {
+    "zh": "藤州",
+    "vi": "Đằng Châu"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dao-ao",
+   "type": "place",
+   "names": {
+    "zh": "陶澳冊",
+    "vi": "sách Đào Áo"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:do-dong-giang",
+   "type": "place",
+   "names": {
+    "zh": "杜洞江",
+    "vi": "Đỗ Động"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:dong-quan",
+   "type": "place",
+   "names": {
+    "zh": "桐關",
+    "vi": "Đồng Quan"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:duong-lam",
+   "type": "place",
+   "names": {
+    "zh": "唐林",
+    "vi": "Đường Lâm"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:giao-chi",
+   "type": "place",
+   "names": {
+    "zh": "交趾",
+    "vi": "Giao Chỉ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:giao-thuy",
+   "type": "place",
+   "names": {
+    "zh": "膠水",
+    "vi": "Giao Thủy"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:hoa-lu",
+   "type": "place",
+   "names": {
+    "zh": "華閭",
+    "vi": "Hoa Lư"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:hoan-chau",
+   "type": "place",
+   "names": {
+    "zh": "驩州",
+    "vi": "châu Hoan"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:hoi-ho",
+   "type": "place",
+   "names": {
+    "zh": "洄湖",
+    "vi": "Hồi Hồ"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:linh-nam",
+   "type": "place",
+   "names": {
+    "zh": "嶺南",
+    "vi": "Lĩnh Nam"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:nguyen-gia-loan",
+   "type": "place",
+   "names": {
+    "zh": "阮家灣",
+    "vi": "Nguyễn Gia Loan"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:phong-chau",
+   "type": "place",
+   "names": {
+    "zh": "峯州",
+    "vi": "Phong Châu"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:sieu-loai",
+   "type": "place",
+   "names": {
+    "zh": "超類",
+    "vi": "Siêu Loại"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:tay-phu-liet",
+   "type": "place",
+   "names": {
+    "zh": "西扶烈",
+    "vi": "Tây Phù Liệt"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:te-giang",
+   "type": "place",
+   "names": {
+    "zh": "細江",
+    "vi": "Tế Giang"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:tien-du",
+   "type": "place",
+   "names": {
+    "zh": "僊遊",
+    "vi": "Tiên Du"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "place:truong-yen",
+   "type": "place",
+   "names": {
+    "zh": "長安",
+    "vi": "Trường Yên"
+   },
+   "decision": "not_evaluated",
+   "reason": "review_required in the V4 entity database; would never be auto-enriched. Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "polity:cham-pa",
+   "type": "polity",
+   "names": {
+    "zh": "占城",
+    "vi": "Chiêm Thành"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "polity:dai-co-viet",
+   "type": "polity",
+   "names": {
+    "zh": "大瞿越",
+    "vi": "Đại Cồ Việt"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "polity:nam-han",
+   "type": "polity",
+   "names": {
+    "zh": "南漢",
+    "vi": "Nam Hán"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  },
+  {
+   "entityId": "polity:song",
+   "type": "polity",
+   "names": {
+    "zh": "宋",
+    "vi": "nhà Tống"
+   },
+   "decision": "not_evaluated",
+   "reason": "Enrichment not run: vi.wikipedia.org and www.wikidata.org are blocked by the network policy of the environment where this build was made (proxy 403). Run python3 tools/enrich_wikipedia.py on a machine with internet access, then sh tools/build_all.sh.",
+   "candidates": []
+  }
+ ]
+}

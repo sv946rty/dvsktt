@@ -1,0 +1,40 @@
+{
+  "id": "F11",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "10a",
+  "folios": [],
+  "page": 63,
+  "zh": "追封帝父為長興王，母鄧氏為皇太后。",
+  "zhPartial": false,
+  "vi": "Truy phong cha của vua ⟦Hoàn⟧ làm Trường Hưng Vương, mẹ họ Đặng làm Hoàng thái hậu.",
+  "en": "He posthumously enfeoffed his father as King of Trường Hưng, and his mother, née Đặng, as Empress Dowager.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "追封帝父為長興王，"
+      ],
+      "vi": [
+        "Truy phong cha của vua",
+        "làm Trường Hưng Vương"
+      ],
+      "en": [
+        "He posthumously enfeoffed his father as King of Trường Hưng,"
+      ]
+    },
+    {
+      "zh": [
+        "母鄧氏為皇太后。"
+      ],
+      "vi": [
+        "mẹ họ Đặng làm Hoàng thái hậu"
+      ],
+      "en": [
+        "and his mother, née Đặng, as Empress Dowager."
+      ]
+    }
+  ]
+}

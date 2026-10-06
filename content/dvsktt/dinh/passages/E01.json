@@ -1,0 +1,131 @@
+{
+  "id": "E01",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "th0",
+  "type": "summary",
+  "folio": "1a",
+  "folios": [
+    "1a"
+  ],
+  "page": 58,
+  "zh": "姓丁，諱部領，大黄華閭洞人，驩州刺史丁公著之子也。削平使君，自立爲帝，在位十二年，爲内人杜釋所弑而崩，壽五十六，塟長安山陵。",
+  "zhPartial": false,
+  "vi": "|1a| Họ Đinh, tên húy là Bộ Lĩnh, người động Hoa Lư, châu Đại Hoàng{n1} con của Thứ sử châu Hoan Đinh Công Trứ, dẹp yên các sứ quân, tự lập làm đế, ở ngôi 12 năm ⟦968-979⟧, bị nội nhân là Đỗ Thích giết, thọ 56 tuổi ⟦924-979⟧, tán ở sơn lăng Trường Yên.",
+  "en": "His surname was Đinh and his personal name Bộ Lĩnh. He was a native of Hoa Lư Grotto in Đại Hoàng Prefecture, and the son of Đinh Công Trứ, Prefect of Hoan Prefecture. He swept away the regional lords (sứ quân) and proclaimed himself emperor. He reigned twelve years [968–979], was murdered by the palace attendant Đỗ Thích, and died at the age of fifty-six [924–979]. He was buried at the mountain tomb of Trường Yên.",
+  "notes": [
+    "Đại Hoàng: tên châu, nay là đất huyện Hoa Lư, tỉnh Ninh Bình."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "姓丁"
+      ],
+      "vi": [
+        "Họ Đinh"
+      ],
+      "en": [
+        "His surname was Đinh"
+      ]
+    },
+    {
+      "zh": [
+        "諱部領"
+      ],
+      "vi": [
+        "tên húy là Bộ Lĩnh"
+      ],
+      "en": [
+        "and his personal name Bộ Lĩnh."
+      ]
+    },
+    {
+      "zh": [
+        "大黄華閭洞人"
+      ],
+      "vi": [
+        "người động Hoa Lư, châu Đại Hoàng"
+      ],
+      "en": [
+        "He was a native of Hoa Lư Grotto in Đại Hoàng Prefecture,"
+      ]
+    },
+    {
+      "zh": [
+        "驩州刺史丁公著之子也"
+      ],
+      "vi": [
+        "con của Thứ sử châu Hoan Đinh Công Trứ"
+      ],
+      "en": [
+        "and the son of Đinh Công Trứ, Prefect of Hoan Prefecture."
+      ]
+    },
+    {
+      "zh": [
+        "削平使君"
+      ],
+      "vi": [
+        "dẹp yên các sứ quân"
+      ],
+      "en": [
+        "He swept away the regional lords (sứ quân)"
+      ]
+    },
+    {
+      "zh": [
+        "自立爲帝"
+      ],
+      "vi": [
+        "tự lập làm đế"
+      ],
+      "en": [
+        "and proclaimed himself emperor."
+      ]
+    },
+    {
+      "zh": [
+        "在位十二年"
+      ],
+      "vi": [
+        "ở ngôi 12 năm"
+      ],
+      "en": [
+        "He reigned twelve years [968–979],"
+      ]
+    },
+    {
+      "zh": [
+        "爲内人杜釋所弑而崩"
+      ],
+      "vi": [
+        "bị nội nhân là Đỗ Thích giết"
+      ],
+      "en": [
+        "was murdered by the palace attendant Đỗ Thích,"
+      ]
+    },
+    {
+      "zh": [
+        "壽五十六"
+      ],
+      "vi": [
+        "thọ 56 tuổi"
+      ],
+      "en": [
+        "and died at the age of fifty-six [924–979]."
+      ]
+    },
+    {
+      "zh": [
+        "塟長安山陵"
+      ],
+      "vi": [
+        "tán ở sơn lăng Trường Yên"
+      ],
+      "en": [
+        "He was buried at the mountain tomb of Trường Yên."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+ "imported_at": "2026-10-06T05:56:46+00:00",
+ "pipeline": "toanthu-entity-pipeline-v4",
+ "chapter": "dinh",
+ "files": {
+  "entities.json": {
+   "from": "entities/entities.json",
+   "sha256": "3fdca523ab95bcec1df661d13ca1cf13ff0dc8ebb3b5be0ff20332c2006db6c5"
+  },
+  "mentions.json": {
+   "from": "output/mentions.jsonl",
+   "sha256": "6061679f3b0eec15cf50eb698b4b3cf4af9bd0c7ff1b4b6fda81fc823f0671f9"
+  },
+  "relations.json": {
+   "from": "output/relations.jsonl",
+   "sha256": "0eab799cebeeacb6e01eb8151cad24cae1acff5207665defb15c505cac7b0d4f"
+  },
+  "review.json": {
+   "from": "output/review.jsonl",
+   "sha256": "8488e8693bad2d0e90ca6e6302e62154d635b66ffab629449c9335f91b6e8c3e"
+  },
+  "source/chinese.txt": {
+   "from": "source/chinese.txt",
+   "sha256": "d5a0ff1f0eec6c828f39df37d3f26a85a67187986437c545855605e6f95af77d"
+  },
+  "source/vietnamese.txt": {
+   "from": "source/vietnamese.txt",
+   "sha256": "a151696f87afbfeb1bdd1eac9903437d36786d2034faba5a0dcb42d37963ce6e"
+  },
+  "pipeline-stats.json": {
+   "from": "output/stats.json",
+   "sha256": "dadbfa42f5ae5a24e6d51419bc452d7cdeee3fb247e1d2c410af867eda9406f2"
+  },
+  "schema-v1.json": {
+   "from": "schema-v1.json",
+   "sha256": "3e8f0e15d12845fc93281dab8f8861e61ecaae9d7a5f4d3481f62c592fc663d2"
+  }
+ }
+}

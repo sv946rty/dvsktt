@@ -1,0 +1,239 @@
+{
+  "id": "E25",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "979",
+  "type": "comment",
+  "folio": "5a",
+  "folios": [
+    "5b"
+  ],
+  "page": 60,
+  "zh": "史臣吳士連曰：繼世以嫡，萬世常經，拂是經者，未有不致亂也。間因世亂，立太子則先有功，其或嫡長過惡廢之，然後立次。此處變而得其宜也。古人皆已行之矣。南越王璉長且有功，未聞過矣。先皇乃愛少子，而忘其嫡，謂足以伸鍾愛之情，不知適以害之也。而璉之忍心至殺其弟，天倫滅矣。其禍至於殞身，以及其父，豈不烈矣哉。不然杜釋大恶，何由而萌以符讖語也。",
+  "zhPartial": false,
+  "vi": "Sử thần Ngô Sĩ Liên nói: Nối ngôi dùng con đích là đạo thường muôn đời, bỏ đạo ấy, chưa từng không gây loạn. Cũng có khi nhân thời loạn mà lập Thái tử, thì trước hết chọn người có công, |5b| hoặc con đích trưởng quá ác phải bỏ thì sau mới lập con thứ. Thế là xử việc lúc biến mà vẫn được đúng đắn, người xưa vẫn từng làm. Nam Việt Vương Liễn là con trưởng, lại có công, chưa thấy lầm lỗi gì. Tiên hoàng yêu con thứ mà quên con trưởng, cho như thế mới đủ tỏ tình yêu quý, không biết như thế là làm hại con. Liễn lại nhẫn tâm, đến nỗi giết em, thiên đạo nhân luân mất hết, chuốc họa chết thiệt thân, còn liên lụy cả cha nữa, há chẳng rùng rợn lắm thay! Không thế thì tội đại ác của Đỗ Thích do đâu nảy ra để hợp với lời sấm ư?",
+  "en": "The historian Ngô Sĩ Liên comments: Succession through the principal line is the constant rule for ten thousand generations, and those who violate it never fail to bring disorder. Sometimes, in times of upheaval, the heir is first chosen from those with merit; or, if the eldest legitimate son has grave faults and is set aside, a younger son is then established. This is handling a crisis properly, and the ancients all did so. Liễn, King of Nam Việt, was the eldest and had merit, and no fault of his was ever heard. Emperor Tiên Hoàng loved his younger son and forgot the eldest, thinking this enough to express his affection, and did not realize that it harmed him. And Liễn was so cruel as to kill his own brother: the bonds of Heaven and of human relations were destroyed. The disaster reached his own person and extended to his father. Was it not dreadful? Otherwise, how would the great evil of Đỗ Thích have arisen, to fit the prophecy?",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "史臣吳士連曰："
+      ],
+      "vi": [
+        "Sử thần Ngô Sĩ Liên nói"
+      ],
+      "en": [
+        "The historian Ngô Sĩ Liên comments:"
+      ]
+    },
+    {
+      "zh": [
+        "繼世以嫡，萬世常經，"
+      ],
+      "vi": [
+        "Nối ngôi dùng con đích là đạo thường muôn đời"
+      ],
+      "en": [
+        "Succession through the principal line is the constant rule for ten thousand generations,"
+      ]
+    },
+    {
+      "zh": [
+        "拂是經者，未有不致亂也。"
+      ],
+      "vi": [
+        "bỏ đạo ấy, chưa từng không gây loạn"
+      ],
+      "en": [
+        "and those who violate it never fail to bring disorder."
+      ]
+    },
+    {
+      "zh": [
+        "間因世亂，立太子"
+      ],
+      "vi": [
+        "Cũng có khi nhân thời loạn mà lập Thái tử"
+      ],
+      "en": [
+        "Sometimes, in times of upheaval,"
+      ]
+    },
+    {
+      "zh": [
+        "則先有功，"
+      ],
+      "vi": [
+        "thì trước hết chọn người có công"
+      ],
+      "en": [
+        "the heir is first chosen from those with merit;"
+      ]
+    },
+    {
+      "zh": [
+        "其或嫡長過惡廢之，然後立次。"
+      ],
+      "vi": [
+        "hoặc con đích trưởng quá ác phải bỏ thì sau mới lập con thứ"
+      ],
+      "en": [
+        "or, if the eldest legitimate son has grave faults and is set aside, a younger son is then established."
+      ]
+    },
+    {
+      "zh": [
+        "此處變而得其宜也。"
+      ],
+      "vi": [
+        "Thế là xử việc lúc biến mà vẫn được đúng đắn"
+      ],
+      "en": [
+        "This is handling a crisis properly,"
+      ]
+    },
+    {
+      "zh": [
+        "古人皆已行之矣。"
+      ],
+      "vi": [
+        "người xưa vẫn từng làm"
+      ],
+      "en": [
+        "and the ancients all did so."
+      ]
+    },
+    {
+      "zh": [
+        "南越王璉長且有功，"
+      ],
+      "vi": [
+        "Nam Việt Vương Liễn là con trưởng, lại có công"
+      ],
+      "en": [
+        "Liễn, King of Nam Việt, was the eldest and had merit,"
+      ]
+    },
+    {
+      "zh": [
+        "未聞過矣。"
+      ],
+      "vi": [
+        "chưa thấy lầm lỗi gì"
+      ],
+      "en": [
+        "and no fault of his was ever heard."
+      ]
+    },
+    {
+      "zh": [
+        "先皇乃愛少子，而忘其嫡，"
+      ],
+      "vi": [
+        "Tiên hoàng yêu con thứ mà quên con trưởng"
+      ],
+      "en": [
+        "Emperor Tiên Hoàng loved his younger son and forgot the eldest,"
+      ]
+    },
+    {
+      "zh": [
+        "謂足以伸鍾愛之情，"
+      ],
+      "vi": [
+        "cho như thế mới đủ tỏ tình yêu quý"
+      ],
+      "en": [
+        "thinking this enough to express his affection,"
+      ]
+    },
+    {
+      "zh": [
+        "不知適以害之也。"
+      ],
+      "vi": [
+        "không biết như thế là làm hại con"
+      ],
+      "en": [
+        "and did not realize that it harmed him."
+      ]
+    },
+    {
+      "zh": [
+        "而璉之忍心至殺其弟，"
+      ],
+      "vi": [
+        "Liễn lại nhẫn tâm, đến nỗi giết em"
+      ],
+      "en": [
+        "And Liễn was so cruel as to kill his own brother:"
+      ]
+    },
+    {
+      "zh": [
+        "天倫滅矣。"
+      ],
+      "vi": [
+        "thiên đạo nhân luân mất hết"
+      ],
+      "en": [
+        "the bonds of Heaven and of human relations were destroyed."
+      ]
+    },
+    {
+      "zh": [
+        "其禍至於殞身，以及其父，"
+      ],
+      "vi": [
+        "chuốc họa chết thiệt thân, còn liên lụy cả cha nữa"
+      ],
+      "en": [
+        "The disaster reached his own person and extended to his father."
+      ]
+    },
+    {
+      "zh": [
+        "豈不烈矣哉。"
+      ],
+      "vi": [
+        "há chẳng rùng rợn lắm thay"
+      ],
+      "en": [
+        "Was it not dreadful?"
+      ]
+    },
+    {
+      "zh": [
+        "不然杜釋大恶，"
+      ],
+      "vi": [
+        "Không thế thì tội đại ác của Đỗ Thích"
+      ],
+      "en": [
+        "Otherwise, how would the great evil of Đỗ Thích"
+      ]
+    },
+    {
+      "zh": [
+        "何由而萌"
+      ],
+      "vi": [
+        "do đâu nảy ra"
+      ],
+      "en": [
+        "have arisen,"
+      ]
+    },
+    {
+      "zh": [
+        "以符讖語也。"
+      ],
+      "vi": [
+        "để hợp với lời sấm ư"
+      ],
+      "en": [
+        "to fit the prophecy?"
+      ]
+    }
+  ]
+}

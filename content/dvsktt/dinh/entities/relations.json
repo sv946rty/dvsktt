@@ -1,0 +1,288 @@
+[
+ {
+  "relation_id": "r0001",
+  "subject": "person:dinh-bo-linh",
+  "predicate": "child_of",
+  "object": "person:dinh-cong-tru",
+  "evidence": {
+   "zh": "丁公著之子也",
+   "vi": "con của Thứ sử châu Hoan Đinh Công Trứ"
+  },
+  "confidence": 1
+ },
+ {
+  "relation_id": "r0002",
+  "subject": "person:dinh-cong-tru",
+  "predicate": "held_office",
+  "object": "office:thu-su",
+  "evidence": {
+   "zh": "驩州刺史丁公著",
+   "vi": "Thứ sử châu Hoan Đinh Công Trứ"
+  },
+  "confidence": 1
+ },
+ {
+  "relation_id": "r0003",
+  "subject": "office:thu-su",
+  "predicate": "jurisdiction",
+  "object": "place:hoan-chau",
+  "evidence": {
+   "zh": "驩州刺史",
+   "vi": "Thứ sử châu Hoan"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0004",
+  "subject": "person:ngo-xuong-xi",
+  "predicate": "controlled_place",
+  "object": "place:binh-kieu",
+  "evidence": {
+   "zh": "吳昌熾㨿平橋",
+   "vi": "Ngô Xương Xí chiếm Bình Kiều"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0005",
+  "subject": "person:ngo-nhat-khanh",
+  "predicate": "controlled_place",
+  "object": "place:duong-lam",
+  "evidence": {
+   "zh": "吳日慶㨿唐林",
+   "vi": "Ngô Nhật Khánh chiếm Đường Lâm"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0006",
+  "subject": "person:kieu-tam-che",
+  "predicate": "controlled_place",
+  "object": "place:phong-chau",
+  "evidence": {
+   "zh": "矯三制㨿峯州",
+   "vi": "Kiểu Tam Chế chiếm Phong Châu"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0007",
+  "subject": "person:nguyen-thai-binh",
+  "predicate": "controlled_place",
+  "object": "place:nguyen-gia-loan",
+  "evidence": {
+   "zh": "阮太平㨿阮家灣",
+   "vi": "Nguyễn Thái Bình chiếm Nguyễn Gia Loan"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0008",
+  "subject": "person:do-canh-thac",
+  "predicate": "controlled_place",
+  "object": "place:do-dong-giang",
+  "evidence": {
+   "zh": "杜景碩據杜洞江",
+   "vi": "Đỗ Cảnh Thạc chiếm miền sông Đỗ Động"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0009",
+  "subject": "person:nguyen-lenh-cong",
+  "predicate": "controlled_place",
+  "object": "place:tay-phu-liet",
+  "evidence": {
+   "zh": "阮令公㨿西扶烈",
+   "vi": "Nguyễn Lệnh Công chiếm Tây Phù Liệt"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0010",
+  "subject": "person:lu-ta-duong",
+  "predicate": "controlled_place",
+  "object": "place:te-giang",
+  "evidence": {
+   "zh": "細江則有吕佐",
+   "vi": "Tế Giang thì có Lữ Tá Đường"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0011",
+  "subject": "person:nguyen-thu-tiep",
+  "predicate": "controlled_place",
+  "object": "place:tien-du",
+  "evidence": {
+   "zh": "僊遊則有阮守㨗",
+   "vi": "Tiên Du có Nguyễn Thủ Tiệp"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0012",
+  "subject": "person:ly-lang-cong",
+  "predicate": "controlled_place",
+  "object": "place:sieu-loai",
+  "evidence": {
+   "zh": "超類則有李郎公",
+   "vi": "Siêu Loại có Lý Lãng Công"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0013",
+  "subject": "person:kieu-lenh-cong",
+  "predicate": "controlled_place",
+  "object": "place:hoi-ho",
+  "evidence": {
+   "zh": "洄湖則有矯令公",
+   "vi": "Hồi Hồ có Kiểu Lệnh Công"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0014",
+  "subject": "person:pham-phong-at",
+  "predicate": "controlled_place",
+  "object": "place:dang-chau",
+  "evidence": {
+   "zh": "藤州則有范防遏",
+   "vi": "Đằng Châu có Phạm Phòng Át"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0015",
+  "subject": "person:tran-minh-cong",
+  "predicate": "controlled_place",
+  "object": "place:bo-hai",
+  "evidence": {
+   "zh": "布海則有陳公",
+   "vi": "Bố Hải có Trần Minh Công"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0016",
+  "subject": "person:nguyen-bac",
+  "predicate": "held_title",
+  "object": "title:dinh-quoc-cong",
+  "evidence": {
+   "zh": "阮匐爲定國公",
+   "vi": "Nguyễn Bặc làm Định quốc công"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0017",
+  "subject": "person:luu-co",
+  "predicate": "held_office",
+  "object": "office:do-ho-phu-si-su",
+  "evidence": {
+   "zh": "劉基爲都護府士師",
+   "vi": "Lưu Cơ làm Đô hộ phủ sĩ sư"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0018",
+  "subject": "person:le-hoan",
+  "predicate": "held_office",
+  "object": "office:thap-dao-tuong-quan",
+  "evidence": {
+   "zh": "黎桓爲十道將軍",
+   "vi": "Lê Hoàn làm Thập đạo tướng quân"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0019",
+  "subject": "person:ngo-chan-luu",
+  "predicate": "held_office",
+  "object": "office:tang-thong",
+  "evidence": {
+   "zh": "僧綂吳真流",
+   "vi": "Tăng thống Ngô Chân Lưu"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0020",
+  "subject": "person:truong-ma-ni",
+  "predicate": "held_office",
+  "object": "office:tang-luc",
+  "evidence": {
+   "zh": "張麻尼爲僧錄",
+   "vi": "Trương Ma Ni làm Tăng lục"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0021",
+  "subject": "person:dang-huyen-quang",
+  "predicate": "held_office",
+  "object": "office:sung-chan-uy-nghi",
+  "evidence": {
+   "zh": "鄧玄光授崇真威儀",
+   "vi": "Đặng Huyền Quang được trao chức Sùng chân uy nghi"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0022",
+  "subject": "person:do-thich",
+  "predicate": "killed",
+  "object": "person:dinh-bo-linh",
+  "evidence": {
+   "zh": "杜釋弑帝",
+   "vi": "Đỗ Thích giết vua"
+  },
+  "confidence": 1
+ },
+ {
+  "relation_id": "r0023",
+  "subject": "person:do-thich",
+  "predicate": "killed",
+  "object": "person:dinh-lien",
+  "evidence": {
+   "zh": "害及南越王璉",
+   "vi": "giết luôn cả Nam Việt Vương Liễn"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0024",
+  "subject": "person:dinh-lien",
+  "predicate": "killed",
+  "object": "person:dinh-hang-lang",
+  "evidence": {
+   "zh": "璉殺皇太子項郎",
+   "vi": "Liễn giết hoàng thái tử Hạng Lang"
+  },
+  "confidence": 1
+ },
+ {
+  "relation_id": "r0025",
+  "subject": "person:dinh-bo-linh",
+  "predicate": "founded_polity",
+  "object": "polity:dai-co-viet",
+  "evidence": {
+   "zh": "建國號大瞿越",
+   "vi": "đặt quốc hiệu là Đại Cồ Việt"
+  },
+  "confidence": 0.99
+ },
+ {
+  "relation_id": "r0026",
+  "subject": "person:dinh-bo-linh",
+  "predicate": "capital_at",
+  "object": "place:hoa-lu",
+  "evidence": {
+   "zh": "復都華閭",
+   "vi": "vẫn đóng đô ở Hoa Lư"
+  },
+  "confidence": 0.99
+ }
+]

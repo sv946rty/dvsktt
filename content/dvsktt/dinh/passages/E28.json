@@ -1,0 +1,207 @@
+{
+  "id": "E28",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "979",
+  "type": "comment",
+  "folio": "6b",
+  "folios": [
+    "7a"
+  ],
+  "page": 61,
+  "zh": "史臣吳士連曰：帝王之興，未有不本於天者也。然聖人不恃其命之在天，而尤盡其事之在我。事既濟矣，尤思患而豫防之。禮樂刑政之脩，所以防人心也。重門擊柝之設，所以待暴客也。盖以人欲無盡，世故無涯，不得不豫之為防，其為後屢遠矣。貽厥孫謀，亦於是乎在，故先皇之不善終，由人事之未盡，非天命之不祐也。惟其不善終，使圖之說勝，後世不能無惑焉。",
+  "zhPartial": false,
+  "vi": "Sử thần Ngô Sĩ Liên nói: Đế vương dấy nghiệp không ai không nhờ ở trời. Nhưng thánh nhân không cậy có mệnh trời mà làm hết phận sự của mình. Việc đã thành, lại càng lo nghĩ đề phòng. Sửa sang lễ nhạc hình án chính sự là để phòng giữ lòng người. Đặt nhiều lần cửa, đánh hiệu canh là đề phòng kẻ hung bạo. Bởi vì |7a| lòng dục không cùng, việc đời không bến, không thể không đề phòng trước. Đó là nghĩ xa cho đời sau, mưu tính cho con cháu cũng chính là ở đó. Cho nên Tiên Hoàng không được trọn đời là do chưa làm hết việc người, không phải mệnh trời không giúp. Cũng vì vua không giữ được trọn đời khiến cho cái thuyết sấm đồ đắc thắng, đời sau không thể không bị mê hoặc vì điều đó.",
+  "en": "The historian Ngô Sĩ Liên comments: The rise of emperors and kings always rests on Heaven. But the sage does not rely on Heaven's mandate; he does all the more his own part. Once an undertaking has succeeded, he thinks all the more of calamity and guards against it. Cultivating rites, music, punishments and government is how one guards the human heart; setting up many gates and sounding the night watch is how one prepares for violent intruders. Because human desires are endless and worldly affairs have no shore, one cannot but take precautions in advance. This is thinking far ahead for later generations and planning for one's descendants. So that Tiên Hoàng did not come to a good end was due to human effort left unfinished, not to Heaven's failure to help. And because he did not live out his life, the doctrine of prophecies and charts triumphed, and later generations cannot help being misled by it.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "史臣吳士連曰："
+      ],
+      "vi": [
+        "Sử thần Ngô Sĩ Liên nói"
+      ],
+      "en": [
+        "The historian Ngô Sĩ Liên comments:"
+      ]
+    },
+    {
+      "zh": [
+        "帝王之興，未有不本於天者也。"
+      ],
+      "vi": [
+        "Đế vương dấy nghiệp không ai không nhờ ở trời"
+      ],
+      "en": [
+        "The rise of emperors and kings always rests on Heaven."
+      ]
+    },
+    {
+      "zh": [
+        "然聖人不恃其命之在天，"
+      ],
+      "vi": [
+        "Nhưng thánh nhân không cậy có mệnh trời"
+      ],
+      "en": [
+        "But the sage does not rely on Heaven's mandate;"
+      ]
+    },
+    {
+      "zh": [
+        "而尤盡其事之在我。"
+      ],
+      "vi": [
+        "mà làm hết phận sự của mình"
+      ],
+      "en": [
+        "he does all the more his own part."
+      ]
+    },
+    {
+      "zh": [
+        "事既濟矣，尤思患而豫防之。"
+      ],
+      "vi": [
+        "Việc đã thành, lại càng lo nghĩ đề phòng"
+      ],
+      "en": [
+        "Once an undertaking has succeeded, he thinks all the more of calamity and guards against it."
+      ]
+    },
+    {
+      "zh": [
+        "禮樂刑政之脩，所以防人心也。"
+      ],
+      "vi": [
+        "Sửa sang lễ nhạc hình án chính sự là để phòng giữ lòng người"
+      ],
+      "en": [
+        "Cultivating rites, music, punishments and government is how one guards the human heart;"
+      ]
+    },
+    {
+      "zh": [
+        "重門擊柝之設，所以待暴客也。"
+      ],
+      "vi": [
+        "Đặt nhiều lần cửa, đánh hiệu canh là đề phòng kẻ hung bạo"
+      ],
+      "en": [
+        "setting up many gates and sounding the night watch is how one prepares for violent intruders."
+      ]
+    },
+    {
+      "zh": [
+        "盖以人欲無盡，世故無涯，"
+      ],
+      "vi": [
+        "Bởi vì",
+        "lòng dục không cùng, việc đời không bến"
+      ],
+      "en": [
+        "Because human desires are endless and worldly affairs have no shore,"
+      ]
+    },
+    {
+      "zh": [
+        "不得不豫之為防，"
+      ],
+      "vi": [
+        "không thể không đề phòng trước"
+      ],
+      "en": [
+        "one cannot but take precautions in advance."
+      ]
+    },
+    {
+      "zh": [
+        "其為後屢遠矣。"
+      ],
+      "vi": [
+        "Đó là nghĩ xa cho đời sau"
+      ],
+      "en": [
+        "This is thinking far ahead for later generations"
+      ]
+    },
+    {
+      "zh": [
+        "貽厥孫謀，亦於是乎在，"
+      ],
+      "vi": [
+        "mưu tính cho con cháu cũng chính là ở đó"
+      ],
+      "en": [
+        "and planning for one's descendants."
+      ]
+    },
+    {
+      "zh": [
+        "故先皇之不善終，"
+      ],
+      "vi": [
+        "Cho nên Tiên Hoàng không được trọn đời"
+      ],
+      "en": [
+        "So that Tiên Hoàng did not come to a good end"
+      ]
+    },
+    {
+      "zh": [
+        "由人事之未盡，"
+      ],
+      "vi": [
+        "là do chưa làm hết việc người"
+      ],
+      "en": [
+        "was due to human effort left unfinished,"
+      ]
+    },
+    {
+      "zh": [
+        "非天命之不祐也。"
+      ],
+      "vi": [
+        "không phải mệnh trời không giúp"
+      ],
+      "en": [
+        "not to Heaven's failure to help."
+      ]
+    },
+    {
+      "zh": [
+        "惟其不善終，"
+      ],
+      "vi": [
+        "Cũng vì vua không giữ được trọn đời"
+      ],
+      "en": [
+        "And because he did not live out his life,"
+      ]
+    },
+    {
+      "zh": [
+        "使圖之說勝，"
+      ],
+      "vi": [
+        "khiến cho cái thuyết sấm đồ đắc thắng"
+      ],
+      "en": [
+        "the doctrine of prophecies and charts triumphed,"
+      ]
+    },
+    {
+      "zh": [
+        "後世不能無惑焉。"
+      ],
+      "vi": [
+        "đời sau không thể không bị mê hoặc vì điều đó"
+      ],
+      "en": [
+        "and later generations cannot help being misled by it."
+      ]
+    }
+  ]
+}

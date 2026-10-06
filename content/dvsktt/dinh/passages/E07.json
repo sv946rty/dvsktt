@@ -1,0 +1,163 @@
+{
+  "id": "E07",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "968",
+  "type": "comment",
+  "folio": "2b",
+  "folios": [
+    "3a"
+  ],
+  "page": 59,
+  "zh": "黎文休曰：先皇以過人之才明，盖世之勇畧，當我越無主，羣䧺割㨿之時，一舉而十二使君盡服。其開國建都，改稱皇帝，置百官，設六軍，制度畧備，殆天意而我越復生聖哲，以接趙王之綂也歟。",
+  "zhPartial": false,
+  "vi": "Lê Văn Hưu nói: Tiên Hoàng nhờ có tài năng sáng suốt hơn người, dũng cảm mưu lược nhất đời, đương lúc nước Việt ta không có chủ, các hùng trưởng cát cứ, một phen cất quân mà mười hai sứ quân phục hết. Vua mở nước dựng đô, đổi xưng hoàng đế, đặt trăm quan, lập sáu |3a| quân, chế độ gần đầy đủ, có lẽ ý trời vì nước Việt ta mà lại sinh bậc thánh triết để tiếp nối quốc thống của Triệu Vương chăng?",
+  "en": "Lê Văn Hưu comments: Emperor Tiên Hoàng, with his exceptional brilliance and unmatched courage and strategy, arose at a time when our Việt had no ruler and the strongmen held their territories; in a single campaign he brought all twelve lords to submission. He founded the state and set up the capital, changed his title to emperor, appointed the hundred officials and established the six armies, and the institutions were nearly complete. Perhaps it was Heaven's will that our Việt should again bring forth a sage to continue the lineage of King Triệu.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "黎文休曰"
+      ],
+      "vi": [
+        "Lê Văn Hưu nói"
+      ],
+      "en": [
+        "Lê Văn Hưu comments:"
+      ]
+    },
+    {
+      "zh": [
+        "先皇以過人之才明"
+      ],
+      "vi": [
+        "Tiên Hoàng nhờ có tài năng sáng suốt hơn người"
+      ],
+      "en": [
+        "Emperor Tiên Hoàng, with his exceptional brilliance"
+      ]
+    },
+    {
+      "zh": [
+        "盖世之勇畧"
+      ],
+      "vi": [
+        "dũng cảm mưu lược nhất đời"
+      ],
+      "en": [
+        "and unmatched courage and strategy,"
+      ]
+    },
+    {
+      "zh": [
+        "當我越無主"
+      ],
+      "vi": [
+        "đương lúc nước Việt ta không có chủ"
+      ],
+      "en": [
+        "arose at a time when our Việt had no ruler"
+      ]
+    },
+    {
+      "zh": [
+        "羣䧺割㨿之時"
+      ],
+      "vi": [
+        "các hùng trưởng cát cứ"
+      ],
+      "en": [
+        "and the strongmen held their territories;"
+      ]
+    },
+    {
+      "zh": [
+        "一舉而十二使君盡服"
+      ],
+      "vi": [
+        "một phen cất quân mà mười hai sứ quân phục hết"
+      ],
+      "en": [
+        "in a single campaign he brought all twelve lords to submission."
+      ]
+    },
+    {
+      "zh": [
+        "其開國建都"
+      ],
+      "vi": [
+        "Vua mở nước dựng đô"
+      ],
+      "en": [
+        "He founded the state and set up the capital,"
+      ]
+    },
+    {
+      "zh": [
+        "改稱皇帝"
+      ],
+      "vi": [
+        "đổi xưng hoàng đế"
+      ],
+      "en": [
+        "changed his title to emperor,"
+      ]
+    },
+    {
+      "zh": [
+        "置百官"
+      ],
+      "vi": [
+        "đặt trăm quan"
+      ],
+      "en": [
+        "appointed the hundred officials"
+      ]
+    },
+    {
+      "zh": [
+        "設六軍"
+      ],
+      "vi": [
+        "lập sáu",
+        "quân"
+      ],
+      "en": [
+        "and established the six armies,"
+      ]
+    },
+    {
+      "zh": [
+        "制度畧備"
+      ],
+      "vi": [
+        "chế độ gần đầy đủ"
+      ],
+      "en": [
+        "and the institutions were nearly complete."
+      ]
+    },
+    {
+      "zh": [
+        "殆天意而我越復生聖哲"
+      ],
+      "vi": [
+        "có lẽ ý trời vì nước Việt ta mà lại sinh bậc thánh triết"
+      ],
+      "en": [
+        "Perhaps it was Heaven's will that our Việt should again bring forth a sage"
+      ]
+    },
+    {
+      "zh": [
+        "以接趙王之綂也歟"
+      ],
+      "vi": [
+        "để tiếp nối quốc thống của Triệu Vương chăng"
+      ],
+      "en": [
+        "to continue the lineage of King Triệu."
+      ]
+    }
+  ]
+}

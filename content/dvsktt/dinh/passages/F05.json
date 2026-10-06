@@ -1,0 +1,352 @@
+{
+  "id": "F05",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "pd0",
+  "type": "narr",
+  "folio": "8a",
+  "folios": [
+    "8b"
+  ],
+  "page": 62,
+  "zh": "駙馬吳日慶引占城舟師千餘艘入寇，欲攻華閭城，經大鵶，小康二海口，踰一宿，會暴風起，舟皆覆沒，日慶及占人溺死，惟其王舟僅得還國。日慶吳先主權之後，初稱安王，與十二使君各據其地，先皇平之，以其母為后，妹為南越王琏夫人，猶恐生變，又以公主妻之，欲窒其怨望之心，而日慶外即言笑自若，內懷不平，遂挈其妻奔占城，抵南界海口。引佩刀斫妻臉，數之曰：「汝父欺脅我母子，我豈以汝而忘汝父之惡哉，汝還歸，我他適，以求能敦我者。」言訖趁往。至是，聞先皇崩，引占人寇。",
+  "zhPartial": false,
+  "vi": "Phò mã Ngô Nhật Khánh dẫn thuyền quân Chiêm Thành hơn nghìn chiếc vào cướp, muốn đánh thành Hoa |8b| Lư, theo hai cửa biển Đại Ác và Tiểu Khang, qua một đêm, gặp gió bão nổi lên, thuyền đều lật đắm, Nhật Khánh cùng bọn người Chiêm đều chết đuối, chỉ có thuyền của vua Chiêm thoát trở về nước. Nhật Khánh là con cháu của Ngô Tiên chúa Quyền, trước xưng là An Vương, cùng 12 sứ quân mỗi người chiếm giữ một vùng. Tiên Hoàng dẹp yên, lấy mẹ Khánh làm hoàng hậu, lấy em gái Khánh làm vợ Nam Việt Vương Liễn, còn lo sinh biến, lại đem công chúa gã cho Khánh, ý muốn dập hết lòng oán vọng của hắn. Nhật Khánh bề ngoài cười nói như không, nhưng trong lòng vẫn bất bình, bèn đem cả vợ chạy sang Chiêm Thành, đến cửa biển Nam Giới{n1} rút đao ngắn xẻo má vợ kể tội rằng: \"Cha mày lừa dối ức hiếp mẹ con ta, lẽ nào ta vì mày mà quên tội ác của cha mày hay sao? Cho mày trở về, ta đi đằng khác tìm kẻ có thể cứu ta\". Nói xong bèn đi. Đến đây nghe tin Tiên Hoàng băng, Khánh dẫn người Chiêm vào cướp.",
+  "en": "The imperial son-in-law Ngô Nhật Khánh led over a thousand Champa ships to raid, intending to attack Hoa Lư. Passing the two sea mouths of Đại Ác and Tiểu Khang, after a night a gale arose and the ships all capsized; Nhật Khánh and the Cham drowned, and only the Cham king's ship barely made it home. Nhật Khánh was a descendant of Ngô Tiên Chúa Quyền; he had at first called himself Prince of An and, like the twelve lords, held a territory of his own. Tiên Hoàng pacified them, took Khánh's mother as an empress and his sister as wife of Liễn, King of Nam Việt, and, still fearing a revolt, also married a princess to Khánh, hoping to quench his resentment. Nhật Khánh outwardly smiled as if nothing were wrong but inwardly was discontented, and he took his wife and fled to Champa. At the Nam Giới sea mouth he drew a short knife and slashed his wife's cheek, accusing her: \"Your father deceived and bullied my mother and me. How could I forget your father's wickedness because of you? Go back; I will go elsewhere, to seek someone who can help me.\" Having spoken, he left. Now, hearing that Tiên Hoàng had died, he led the Cham to raid.",
+  "notes": [
+    "Nam Giới: tên cửa biển ở phiá Nam, gần Chiêm Thành, còn có tên là Cửa Sót, nay thuộc huyện Thạch Hà, tỉnh Hà Tĩnh."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "駙馬吳日慶"
+      ],
+      "vi": [
+        "Phò mã Ngô Nhật Khánh"
+      ],
+      "en": [
+        "The imperial son-in-law Ngô Nhật Khánh"
+      ]
+    },
+    {
+      "zh": [
+        "引占城舟師千餘艘入寇，"
+      ],
+      "vi": [
+        "dẫn thuyền quân Chiêm Thành hơn nghìn chiếc vào cướp"
+      ],
+      "en": [
+        "led over a thousand Champa ships to raid,"
+      ]
+    },
+    {
+      "zh": [
+        "欲攻華閭城，"
+      ],
+      "vi": [
+        "muốn đánh thành Hoa",
+        "Lư"
+      ],
+      "en": [
+        "intending to attack Hoa Lư."
+      ]
+    },
+    {
+      "zh": [
+        "經大鵶，小康二海口，"
+      ],
+      "vi": [
+        "theo hai cửa biển Đại Ác và Tiểu Khang"
+      ],
+      "en": [
+        "Passing the two sea mouths of Đại Ác and Tiểu Khang,"
+      ]
+    },
+    {
+      "zh": [
+        "踰一宿，"
+      ],
+      "vi": [
+        "qua một đêm"
+      ],
+      "en": [
+        "after a night"
+      ]
+    },
+    {
+      "zh": [
+        "會暴風起，"
+      ],
+      "vi": [
+        "gặp gió bão nổi lên"
+      ],
+      "en": [
+        "a gale arose"
+      ]
+    },
+    {
+      "zh": [
+        "舟皆覆沒，"
+      ],
+      "vi": [
+        "thuyền đều lật đắm"
+      ],
+      "en": [
+        "and the ships all capsized;"
+      ]
+    },
+    {
+      "zh": [
+        "日慶及占人溺死，"
+      ],
+      "vi": [
+        "Nhật Khánh cùng bọn người Chiêm đều chết đuối"
+      ],
+      "en": [
+        "Nhật Khánh and the Cham drowned,"
+      ]
+    },
+    {
+      "zh": [
+        "惟其王舟僅得還國。"
+      ],
+      "vi": [
+        "chỉ có thuyền của vua Chiêm thoát trở về nước"
+      ],
+      "en": [
+        "and only the Cham king's ship barely made it home."
+      ]
+    },
+    {
+      "zh": [
+        "日慶吳先主權之後，初稱安王，"
+      ],
+      "vi": [
+        "Nhật Khánh là con cháu của Ngô Tiên chúa Quyền, trước xưng là An Vương"
+      ],
+      "en": [
+        "Nhật Khánh was a descendant of Ngô Tiên Chúa Quyền; he had at first called himself Prince of An"
+      ]
+    },
+    {
+      "zh": [
+        "與十二使君各據其地，"
+      ],
+      "vi": [
+        "cùng 12 sứ quân mỗi người chiếm giữ một vùng"
+      ],
+      "en": [
+        "and, like the twelve lords, held a territory of his own."
+      ]
+    },
+    {
+      "zh": [
+        "先皇平之，"
+      ],
+      "vi": [
+        "Tiên Hoàng dẹp yên"
+      ],
+      "en": [
+        "Tiên Hoàng pacified them,"
+      ]
+    },
+    {
+      "zh": [
+        "以其母為后，"
+      ],
+      "vi": [
+        "lấy mẹ Khánh làm hoàng hậu"
+      ],
+      "en": [
+        "took Khánh's mother as an empress"
+      ]
+    },
+    {
+      "zh": [
+        "妹為南越王琏夫人，"
+      ],
+      "vi": [
+        "lấy em gái Khánh làm vợ Nam Việt Vương Liễn"
+      ],
+      "en": [
+        "and his sister as wife of Liễn, King of Nam Việt,"
+      ]
+    },
+    {
+      "zh": [
+        "猶恐生變，"
+      ],
+      "vi": [
+        "còn lo sinh biến"
+      ],
+      "en": [
+        "and, still fearing a revolt,"
+      ]
+    },
+    {
+      "zh": [
+        "又以公主妻之，"
+      ],
+      "vi": [
+        "lại đem công chúa gã cho Khánh"
+      ],
+      "en": [
+        "also married a princess to Khánh,"
+      ]
+    },
+    {
+      "zh": [
+        "欲窒其怨望之心，"
+      ],
+      "vi": [
+        "ý muốn dập hết lòng oán vọng của hắn"
+      ],
+      "en": [
+        "hoping to quench his resentment."
+      ]
+    },
+    {
+      "zh": [
+        "而日慶外即言笑自若，"
+      ],
+      "vi": [
+        "Nhật Khánh bề ngoài cười nói như không"
+      ],
+      "en": [
+        "Nhật Khánh outwardly smiled as if nothing were wrong"
+      ]
+    },
+    {
+      "zh": [
+        "內懷不平，"
+      ],
+      "vi": [
+        "nhưng trong lòng vẫn bất bình"
+      ],
+      "en": [
+        "but inwardly was discontented,"
+      ]
+    },
+    {
+      "zh": [
+        "遂挈其妻奔占城，"
+      ],
+      "vi": [
+        "bèn đem cả vợ chạy sang Chiêm Thành"
+      ],
+      "en": [
+        "and he took his wife and fled to Champa."
+      ]
+    },
+    {
+      "zh": [
+        "抵南界海口。"
+      ],
+      "vi": [
+        "đến cửa biển Nam Giới"
+      ],
+      "en": [
+        "At the Nam Giới sea mouth"
+      ]
+    },
+    {
+      "zh": [
+        "引佩刀斫妻臉，"
+      ],
+      "vi": [
+        "rút đao ngắn xẻo má vợ"
+      ],
+      "en": [
+        "he drew a short knife and slashed his wife's cheek,"
+      ]
+    },
+    {
+      "zh": [
+        "數之曰："
+      ],
+      "vi": [
+        "kể tội rằng"
+      ],
+      "en": [
+        "accusing her:"
+      ]
+    },
+    {
+      "zh": [
+        "「汝父欺脅我母子，"
+      ],
+      "vi": [
+        "Cha mày lừa dối ức hiếp mẹ con ta"
+      ],
+      "en": [
+        "\"Your father deceived and bullied my mother and me."
+      ]
+    },
+    {
+      "zh": [
+        "我豈以汝而忘汝父之惡哉，"
+      ],
+      "vi": [
+        "lẽ nào ta vì mày mà quên tội ác của cha mày hay sao"
+      ],
+      "en": [
+        "How could I forget your father's wickedness because of you?"
+      ]
+    },
+    {
+      "zh": [
+        "汝還歸，我他適，"
+      ],
+      "vi": [
+        "Cho mày trở về, ta đi đằng khác"
+      ],
+      "en": [
+        "Go back; I will go elsewhere,"
+      ]
+    },
+    {
+      "zh": [
+        "以求能敦我者。」"
+      ],
+      "vi": [
+        "tìm kẻ có thể cứu ta"
+      ],
+      "en": [
+        "to seek someone who can help me.\""
+      ]
+    },
+    {
+      "zh": [
+        "言訖趁往。"
+      ],
+      "vi": [
+        "Nói xong bèn đi"
+      ],
+      "en": [
+        "Having spoken, he left."
+      ]
+    },
+    {
+      "zh": [
+        "至是，聞先皇崩，"
+      ],
+      "vi": [
+        "Đến đây nghe tin Tiên Hoàng băng"
+      ],
+      "en": [
+        "Now, hearing that Tiên Hoàng had died,"
+      ]
+    },
+    {
+      "zh": [
+        "引占人寇。"
+      ],
+      "vi": [
+        "Khánh dẫn người Chiêm vào cướp"
+      ],
+      "en": [
+        "he led the Cham to raid."
+      ]
+    }
+  ]
+}

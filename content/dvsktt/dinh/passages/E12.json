@@ -1,0 +1,145 @@
+{
+  "id": "E12",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "971",
+  "type": "annal",
+  "folio": "3b",
+  "folios": [],
+  "page": 59,
+  "zh": "辛未二年〈宋開寳四年〉。初定文武僧道。以阮匐爲定國公，劉基爲都護府士師，黎桓爲十道將軍，僧綂吳真流賜號匡越大師，張麻尼爲僧錄道士鄧玄光授崇真威儀。以明珠公主嫁陳升，封升駙馬都尉〈陳升明公弟〉。",
+  "zhPartial": false,
+  "vi": "Tân Mùi, ⟦Thái Bình⟧ năm thứ 2 ⟦971⟧, ⟨Tống Khai Bảo năm thứ 4⟩. Bắt đầu quy định cấp bậc văn võ, tăng đạo. Lấy Nguyễn Bặc làm Định quốc công, Lưu cơ làm Đô hộ phủ sĩ sư{n1}, Lê Hoàn làm Thập đạo tướng quân{n2}, Tăng thống{n3}, Ngô Chân Lưu được ban hiệu là Khuông Việt đại sư, Trương Ma Ni làm Tăng lục{n4}, Đạo sĩ Đặng Huyền Quang được trao chức Sùng chân uy nghi{n5}.",
+  "en": "Year 2 of Tân Mùi [971] (Song Kaibao 4). Ranks were first established for civil and military officials and for Buddhist and Daoist clergy. Nguyễn Bặc was made Duke of Định Quốc; Lưu Cơ, Judge of the Protectorate; Lê Hoàn, General of the Ten Circuits; the Buddhist supervisor Ngô Chân Lưu was granted the title Great Master Khuông Việt; Trương Ma Ni became Buddhist registrar; and the Daoist Đặng Huyền Quang was given the office of Sùng Chân Wei-yi. [Chinese text only, absent from the Vietnamese translation: He married Princess Minh Châu to Trần Thăng and made him Commandant-Escort (Trần Thăng was a younger brother of Minh Công).]",
+  "notes": [
+    "Đô hộ phủ sĩ sư: chức quan coi việc hình án ở phủ đô hộ, tức là trong cả nước (nhà Đinh dùng tên phủ đô hộ thời thuộc Đường).",
+    "Tướng chỉ huy 10 đạo quân, tức quân đội cả nước.",
+    "Tăng thống: chức quan phong cho vị sư được triều đình coi là người đứng đầu Phật giáo.",
+    "Tăng lục: chức quan trông coi Phật giáo dưới chức Tăng thống.",
+    "Sùng chân uy nghi: chức quan trông coi về đạo giáo."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "辛未二年"
+      ],
+      "vi": [
+        "Tân Mùi",
+        "năm thứ 2"
+      ],
+      "en": [
+        "Year 2 of Tân Mùi [971]"
+      ]
+    },
+    {
+      "zh": [
+        "宋開寳四年。"
+      ],
+      "vi": [
+        "Tống Khai Bảo năm thứ 4"
+      ],
+      "en": [
+        "(Song Kaibao 4)."
+      ]
+    },
+    {
+      "zh": [
+        "初定文武僧道。"
+      ],
+      "vi": [
+        "Bắt đầu quy định cấp bậc văn võ, tăng đạo"
+      ],
+      "en": [
+        "Ranks were first established for civil and military officials and for Buddhist and Daoist clergy."
+      ]
+    },
+    {
+      "zh": [
+        "以阮匐爲定國公，"
+      ],
+      "vi": [
+        "Lấy Nguyễn Bặc làm Định quốc công"
+      ],
+      "en": [
+        "Nguyễn Bặc was made Duke of Định Quốc;"
+      ]
+    },
+    {
+      "zh": [
+        "劉基爲都護府士師，"
+      ],
+      "vi": [
+        "Lưu cơ làm Đô hộ phủ sĩ sư"
+      ],
+      "en": [
+        "Lưu Cơ, Judge of the Protectorate;"
+      ]
+    },
+    {
+      "zh": [
+        "黎桓爲十道將軍，"
+      ],
+      "vi": [
+        "Lê Hoàn làm Thập đạo tướng quân"
+      ],
+      "en": [
+        "Lê Hoàn, General of the Ten Circuits;"
+      ]
+    },
+    {
+      "zh": [
+        "僧綂"
+      ],
+      "vi": [
+        "Tăng thống"
+      ],
+      "en": [
+        "the Buddhist supervisor"
+      ]
+    },
+    {
+      "zh": [
+        "吳真流賜號匡越大師，"
+      ],
+      "vi": [
+        "Ngô Chân Lưu được ban hiệu là Khuông Việt đại sư"
+      ],
+      "en": [
+        "Ngô Chân Lưu was granted the title Great Master Khuông Việt;"
+      ]
+    },
+    {
+      "zh": [
+        "張麻尼爲僧錄"
+      ],
+      "vi": [
+        "Trương Ma Ni làm Tăng lục"
+      ],
+      "en": [
+        "Trương Ma Ni became Buddhist registrar;"
+      ]
+    },
+    {
+      "zh": [
+        "道士"
+      ],
+      "vi": [
+        "Đạo sĩ"
+      ],
+      "en": [
+        "and the Daoist"
+      ]
+    },
+    {
+      "zh": [
+        "鄧玄光授崇真威儀。"
+      ],
+      "vi": [
+        "Đặng Huyền Quang được trao chức Sùng chân uy nghi"
+      ],
+      "en": [
+        "Đặng Huyền Quang was given the office of Sùng Chân Wei-yi."
+      ]
+    }
+  ]
+}

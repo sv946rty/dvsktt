@@ -1,0 +1,85 @@
+{
+  "id": "F03",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "pd0",
+  "type": "narr",
+  "folio": "7b",
+  "folios": [
+    "8a"
+  ],
+  "page": 62,
+  "zh": "佃、匐既死，范盍軍氣沮，奔潰于北江吉利鄉，桓率師追之，生擒范盍歸京師。",
+  "zhPartial": false,
+  "vi": "Điền, Bặc đã chết, quân Phạm Hạp mất hết khí thế, tan chạy về hương Cát Lợi ở Bắc Giang. Hoàn dẫn quân đuổi theo, bắt sống được Phạm Hạp đem về |8a| Kinh sư.",
+  "en": "After Điền and Bặc were dead, Phạm Hạp's army lost its spirit and fled in disorder to Cát Lợi district in Bắc Giang. Hoàn led his troops in pursuit, captured Phạm Hạp alive, and brought him to the capital.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "佃、匐既死，"
+      ],
+      "vi": [
+        "Điền, Bặc đã chết"
+      ],
+      "en": [
+        "After Điền and Bặc were dead,"
+      ]
+    },
+    {
+      "zh": [
+        "范盍軍氣沮，"
+      ],
+      "vi": [
+        "quân Phạm Hạp mất hết khí thế"
+      ],
+      "en": [
+        "Phạm Hạp's army lost its spirit"
+      ]
+    },
+    {
+      "zh": [
+        "奔潰于北江吉利鄉，"
+      ],
+      "vi": [
+        "tan chạy về hương Cát Lợi ở Bắc Giang"
+      ],
+      "en": [
+        "and fled in disorder to Cát Lợi district in Bắc Giang."
+      ]
+    },
+    {
+      "zh": [
+        "桓率師追之，"
+      ],
+      "vi": [
+        "Hoàn dẫn quân đuổi theo"
+      ],
+      "en": [
+        "Hoàn led his troops in pursuit,"
+      ]
+    },
+    {
+      "zh": [
+        "生擒范盍"
+      ],
+      "vi": [
+        "bắt sống được Phạm Hạp đem về"
+      ],
+      "en": [
+        "captured Phạm Hạp alive,"
+      ]
+    },
+    {
+      "zh": [
+        "歸京師。"
+      ],
+      "vi": [
+        "Kinh sư"
+      ],
+      "en": [
+        "and brought him to the capital."
+      ]
+    }
+  ]
+}

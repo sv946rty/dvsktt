@@ -1,0 +1,171 @@
+{
+  "id": "F08",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "9b",
+  "folios": [],
+  "page": 63,
+  "zh": "秋七月丁未，宋以侯仁寶為交州陸路水路轉運使，蘭陵團練使孫全興，漆作使郝守俊，鞍轡庫使陳欽祚，左監門將軍崔亮為邕则路兵馬郡部署，寧州刺史劉澄，軍器車副使賈湜，供奉官閤門祇侯王僎為廣州路兵馬都部署，會兵四起，約日來侵。",
+  "zhPartial": false,
+  "vi": "Mùa thu, tháng 7, ngày Đinh Mùi, nhà Tống lấy Hầu Nhân Bảo làm Giao Châu lục lộ thủy lộ chuyển vận sứ, Lan Lãng đoàn luyện sứ Tôn Toàn Hưng,Bất tác sứ Hác Thủ Tuấn, Yên bi khổ sứ Trần Khâm Tộ, Tả giám môn tướng quân Thôi Lượng làm Ung Châu Lộ binh mã bộ thư, Ninh Châu thứ sử Lưu Trừng, Quân khi khố phó sứ Giả Thực, Cung phụng quan cáp môn chi hậu Vương Soạn làm Quảng Châu Lộ binh mã đô bộ thư., họp quân cả bốn hướng, hẹn ngày cùng sang xâm lược.",
+  "en": "Autumn, seventh month, Đinh Mùi day: the Song appointed Hou Renbao as Transport Commissioner for the land and water routes of Giao Châu; Sun Quanxing, Training Commissioner of Lanling; Hao Shoujun, Commissioner of Lacquer-work; Chen Qinzuo, Commissioner of the Saddle and Bridle Storehouse; and Cui Liang, General of the Left Palace Gate, as Deployment Commander of the Yongzhou circuit; and Liu Cheng, Prefect of Ningzhou; Jia Shi, Deputy Commissioner of the Arms and Carriage Storehouse; and Wang Zhuan, Palace Attendant Gate Guard, as Deployment Commanders of the Guangzhou circuit. Armies were gathered from the four directions, with a date set to invade together.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "秋七月丁未，"
+      ],
+      "vi": [
+        "Mùa thu, tháng 7, ngày Đinh Mùi"
+      ],
+      "en": [
+        "Autumn, seventh month, Đinh Mùi day:"
+      ]
+    },
+    {
+      "zh": [
+        "宋以侯仁寶為"
+      ],
+      "vi": [
+        "nhà Tống lấy Hầu Nhân Bảo làm"
+      ],
+      "en": [
+        "the Song appointed Hou Renbao as"
+      ]
+    },
+    {
+      "zh": [
+        "交州陸路水路轉運使，"
+      ],
+      "vi": [
+        "Giao Châu lục lộ thủy lộ chuyển vận sứ"
+      ],
+      "en": [
+        "Transport Commissioner for the land and water routes of Giao Châu;"
+      ]
+    },
+    {
+      "zh": [
+        "蘭陵團練使孫全興，"
+      ],
+      "vi": [
+        "Lan Lãng đoàn luyện sứ Tôn Toàn Hưng"
+      ],
+      "en": [
+        "Sun Quanxing, Training Commissioner of Lanling;"
+      ]
+    },
+    {
+      "zh": [
+        "漆作使郝守俊，"
+      ],
+      "vi": [
+        "Bất tác sứ Hác Thủ Tuấn"
+      ],
+      "en": [
+        "Hao Shoujun, Commissioner of Lacquer-work;"
+      ]
+    },
+    {
+      "zh": [
+        "鞍轡庫使陳欽祚，"
+      ],
+      "vi": [
+        "Yên bi khổ sứ Trần Khâm Tộ"
+      ],
+      "en": [
+        "Chen Qinzuo, Commissioner of the Saddle and Bridle Storehouse;"
+      ]
+    },
+    {
+      "zh": [
+        "左監門將軍崔亮為"
+      ],
+      "vi": [
+        "Tả giám môn tướng quân Thôi Lượng làm"
+      ],
+      "en": [
+        "and Cui Liang, General of the Left Palace Gate, as"
+      ]
+    },
+    {
+      "zh": [
+        "邕则路兵馬郡部署，"
+      ],
+      "vi": [
+        "Ung Châu Lộ binh mã bộ thư"
+      ],
+      "en": [
+        "Deployment Commander of the Yongzhou circuit;"
+      ]
+    },
+    {
+      "zh": [
+        "寧州刺史劉澄，"
+      ],
+      "vi": [
+        "Ninh Châu thứ sử Lưu Trừng"
+      ],
+      "en": [
+        "and Liu Cheng, Prefect of Ningzhou;"
+      ]
+    },
+    {
+      "zh": [
+        "軍器車副使賈湜，"
+      ],
+      "vi": [
+        "Quân khi khố phó sứ Giả Thực"
+      ],
+      "en": [
+        "Jia Shi, Deputy Commissioner of the Arms and Carriage Storehouse;"
+      ]
+    },
+    {
+      "zh": [
+        "供奉官閤門祇侯王僎為"
+      ],
+      "vi": [
+        "Cung phụng quan cáp môn chi hậu Vương Soạn làm"
+      ],
+      "en": [
+        "and Wang Zhuan, Palace Attendant Gate Guard, as"
+      ]
+    },
+    {
+      "zh": [
+        "廣州路兵馬都部署，"
+      ],
+      "vi": [
+        "Quảng Châu Lộ binh mã đô bộ thư"
+      ],
+      "en": [
+        "Deployment Commanders of the Guangzhou circuit."
+      ]
+    },
+    {
+      "zh": [
+        "會兵四起，"
+      ],
+      "vi": [
+        "họp quân cả bốn hướng"
+      ],
+      "en": [
+        "Armies were gathered from the four directions,"
+      ]
+    },
+    {
+      "zh": [
+        "約日來侵。"
+      ],
+      "vi": [
+        "hẹn ngày cùng sang xâm lược"
+      ],
+      "en": [
+        "with a date set to invade together."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "E22",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "978",
+  "type": "annal",
+  "folio": "4b",
+  "folios": [
+    "5a"
+  ],
+  "page": 60,
+  "zh": "戊寅九年〈宋太平興國三年〉春正月，地震。立少子項郎爲皇太子，封次子璿爲衛王。二月，雨雹。",
+  "zhPartial": false,
+  "vi": "Mậu Dần, ⟦Thái Bình⟧ năm thứ 9 ⟦978⟧, ⟨Tống Thái Bình Hưng Quốc năm thứ 3⟩. Mùa xuân, tháng giêng, động đất. Lập con nhỏ là Hạng Lang |5a| làm hoàng thái tử, phong con thứ là Toàn làm Vệ Vương. Tháng hai, mưa đá.",
+  "en": "Year 9 of Mậu Dần [978] (Song Taiping Xingguo 3). Spring, first month: an earthquake. His youngest son, Hạng Lang, was made crown prince, and his second son, Toàn, was made Prince of Vệ. Second month: hail.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "戊寅九年"
+      ],
+      "vi": [
+        "Mậu Dần",
+        "năm thứ 9"
+      ],
+      "en": [
+        "Year 9 of Mậu Dần [978]"
+      ]
+    },
+    {
+      "zh": [
+        "宋太平興國三年"
+      ],
+      "vi": [
+        "Tống Thái Bình Hưng Quốc năm thứ 3"
+      ],
+      "en": [
+        "(Song Taiping Xingguo 3)."
+      ]
+    },
+    {
+      "zh": [
+        "春正月，"
+      ],
+      "vi": [
+        "Mùa xuân, tháng giêng"
+      ],
+      "en": [
+        "Spring, first month:"
+      ]
+    },
+    {
+      "zh": [
+        "地震。"
+      ],
+      "vi": [
+        "động đất"
+      ],
+      "en": [
+        "an earthquake."
+      ]
+    },
+    {
+      "zh": [
+        "立少子項郎"
+      ],
+      "vi": [
+        "Lập con nhỏ là Hạng Lang"
+      ],
+      "en": [
+        "His youngest son, Hạng Lang,"
+      ]
+    },
+    {
+      "zh": [
+        "爲皇太子，"
+      ],
+      "vi": [
+        "làm hoàng thái tử"
+      ],
+      "en": [
+        "was made crown prince,"
+      ]
+    },
+    {
+      "zh": [
+        "封次子璿爲衛王。"
+      ],
+      "vi": [
+        "phong con thứ là Toàn làm Vệ Vương"
+      ],
+      "en": [
+        "and his second son, Toàn, was made Prince of Vệ."
+      ]
+    },
+    {
+      "zh": [
+        "二月，"
+      ],
+      "vi": [
+        "Tháng hai"
+      ],
+      "en": [
+        "Second month:"
+      ]
+    },
+    {
+      "zh": [
+        "雨雹。"
+      ],
+      "vi": [
+        "mưa đá"
+      ],
+      "en": [
+        "hail."
+      ]
+    }
+  ]
+}

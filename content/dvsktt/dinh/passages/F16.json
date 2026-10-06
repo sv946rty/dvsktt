@@ -1,0 +1,61 @@
+{
+  "id": "F16",
+  "chapter": "dinh",
+  "reign": "pd",
+  "year": "980",
+  "type": "annal",
+  "folio": "12b",
+  "folios": [],
+  "page": 65,
+  "zh": "右丁朝二帝，起戊辰，終庚辰，凡十三年。",
+  "zhPartial": false,
+  "vi": "Trở nên là triều Đinh, hai vua, bắt đầu từ năm Mậu Thìn, chấm dứt vào năm Canh Thìn ⟦968-980⟧ tất cả 13 năm.",
+  "en": "In all, the Đinh dynasty had two emperors, beginning in the year Mậu Thìn and ending in Canh Thìn [968–980], thirteen years in total.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "右丁朝二帝，"
+      ],
+      "vi": [
+        "Trở nên là triều Đinh, hai vua"
+      ],
+      "en": [
+        "In all, the Đinh dynasty had two emperors,"
+      ]
+    },
+    {
+      "zh": [
+        "起戊辰，"
+      ],
+      "vi": [
+        "bắt đầu từ năm Mậu Thìn"
+      ],
+      "en": [
+        "beginning in the year Mậu Thìn"
+      ]
+    },
+    {
+      "zh": [
+        "終庚辰，"
+      ],
+      "vi": [
+        "chấm dứt vào năm Canh Thìn"
+      ],
+      "en": [
+        "and ending in Canh Thìn [968–980],"
+      ]
+    },
+    {
+      "zh": [
+        "凡十三年。"
+      ],
+      "vi": [
+        "tất cả 13 năm"
+      ],
+      "en": [
+        "thirteen years in total."
+      ]
+    }
+  ]
+}

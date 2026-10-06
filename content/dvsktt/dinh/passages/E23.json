@@ -1,0 +1,39 @@
+{
+  "id": "E23",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "978",
+  "type": "annal",
+  "folio": "5a",
+  "folios": [],
+  "page": 60,
+  "zh": "夏六月，旱。",
+  "zhPartial": false,
+  "vi": "Mùa hạ, tháng sáu, nắng hạn.",
+  "en": "Summer, sixth month: drought.",
+  "notes": [],
+  "groups": [
+    {
+      "zh": [
+        "夏六月，"
+      ],
+      "vi": [
+        "Mùa hạ, tháng sáu"
+      ],
+      "en": [
+        "Summer, sixth month:"
+      ]
+    },
+    {
+      "zh": [
+        "旱。"
+      ],
+      "vi": [
+        "nắng hạn"
+      ],
+      "en": [
+        "drought."
+      ]
+    }
+  ]
+}

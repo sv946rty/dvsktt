@@ -1,0 +1,373 @@
+{
+  "id": "E26",
+  "chapter": "dinh",
+  "reign": "th",
+  "year": "979",
+  "type": "annal",
+  "folio": "5b",
+  "folios": [
+    "6a"
+  ],
+  "page": 61,
+  "zh": "冬十月，秪候内人杜釋弑帝于宫庭。定國公阮匐等誅之。先是釋爲桐關吏，夜卧橋上，忽流星入口，釋以爲休徵，遂萌弑心。至是乘帝夜宴，醉卧庭中，遂殺之，害及南越王璉。時捕賊甚急，釋潜伏于宮霤。踰三日，渴甚，遇雨，以手盛水而飲，宫女見之以吿。定國公阮匐使人收斬之，碎其骨，臠其肉，分與國人食之，不争啖焉。初，帝微時，嘗漁于膠水江，綱得大圭，觸頭闕其角。是夜投膠水寺宿，藏圭于魚筥底，待明是賣魚。時帝方熟睡，其筥有異光，寺僧起問故，帝言乃以圭示之。僧嘆曰：「吾子他日富貴不可言，但恨福不長耳。」",
+  "zhPartial": false,
+  "vi": "Mùa đông, tháng mười, Chi hậu nội nhân Đỗ Thích{n1} giết vua ở sân cung. Bọn Đinh quốc công Nguyễn Bặc bắt được đem giết. Trước đó Đỗ Thích làm chức lại ở Đồng Quan, đêm nằm trên cầu, bỗng thấy sao sa rơi vào miệng, Thích cho là điềm tốt, bèn nảy ra ý định giết vua. Đến đây, nhân lúc vua ăn yến ban đêm, say rượu nằm trong sân, |6a| Thích bèn giết chết, lại giết luôn cả Nam Việt Vương Liễn. Khi ấy lệnh lùng bắt hung thủ rất gấp, Thích phải lén núp ở máng nước trong cung qua 3 ngày, khát lắm, gặp lúc trời mưa thò tay hứng nước uống, cung nữ trông thấy liền đi báo. Đinh quốc công Nguyễn Bặc sai người bắt đem chém, đập nát xương, băm thịt ra từng mảnh, chia cho người trong nước ăn, chẳng ai không tranh lấy mà nhai nuốt. Ngày trước, khi vua còn hàn vi, thường đánh cá ở sông Giao Thủy, kéo lưới được viên ngọc khuê to nhưng va vào mũi thuyền, sứt mất một góc. Đêm ấy vào ngủ nhờ ở chùa Giao Thủy, giấu ngọc ở dưới đáy giỏ cá, đợi sáng ra chợ bán cá. Bấy giờ vua đang ngủ say, trong giỏ có ánh sáng lạ, nhà sư chùa ấy gọi dậy hỏi duyên cớ, vua nói thực và lấy ngọc khuê cho xem. Sư than rằng: \"Anh ngày sau phú quý không thể nói hết, chỉ tiếc phúc không được dài\".",
+  "en": "Winter, tenth month: Đỗ Thích, Attendant of the Palace, murdered the emperor in the palace courtyard. Nguyễn Bặc, Duke of Định Quốc, and others seized and executed him. Earlier, Thích had been a minor official at Đồng Quan. One night, lying on a bridge, he saw a shooting star fall into his mouth; he took it as a good omen and conceived the idea of killing a ruler. Now, taking advantage of the emperor's night banquet, when the emperor lay drunk in the courtyard, he killed him, and the harm extended to Liễn, King of Nam Việt. The search for the assassin was urgent, and Thích hid in the palace water-spout. After three days, parched with thirst, when rain came, he held out his hand to catch rainwater to drink, and a court lady saw him and reported it. Nguyễn Bặc, Duke of Định Quốc, had him seized and beheaded, his bones smashed and his flesh cut into pieces and shared out among the people to eat, and none failed to scramble for a bite. Earlier, when the emperor was of humble station, he often fished in the Giao Thủy river. Once he hauled up a large jade tablet (khuê), which struck the prow of the boat and chipped a corner. That night he lodged at the Giao Thủy temple and hid the tablet at the bottom of his fish basket, waiting for morning to sell fish at the market. While the emperor slept soundly, an unusual light came from the basket; the monk of the temple woke him to ask why, and he told the truth and showed the tablet. The monk sighed: \"Young man, your future wealth and rank cannot be put into words; I only regret that your good fortune will not be long.\"",
+  "notes": [
+    "Cương mục chú: Đỗ Thích người xã Đại Đê, huyện Thiên Bản, nay là huyện Vụ Bản, tỉnh Hà Nam Ninh (CMTB1,8b)."
+  ],
+  "groups": [
+    {
+      "zh": [
+        "冬十月，"
+      ],
+      "vi": [
+        "Mùa đông, tháng mười"
+      ],
+      "en": [
+        "Winter, tenth month:"
+      ]
+    },
+    {
+      "zh": [
+        "秪候内人杜釋"
+      ],
+      "vi": [
+        "Chi hậu nội nhân Đỗ Thích"
+      ],
+      "en": [
+        "Đỗ Thích, Attendant of the Palace,"
+      ]
+    },
+    {
+      "zh": [
+        "弑帝于宫庭。"
+      ],
+      "vi": [
+        "giết vua ở sân cung"
+      ],
+      "en": [
+        "murdered the emperor in the palace courtyard."
+      ]
+    },
+    {
+      "zh": [
+        "定國公阮匐等誅之。"
+      ],
+      "vi": [
+        "Bọn Đinh quốc công Nguyễn Bặc bắt được đem giết"
+      ],
+      "en": [
+        "Nguyễn Bặc, Duke of Định Quốc, and others seized and executed him."
+      ]
+    },
+    {
+      "zh": [
+        "先是釋爲桐關吏，"
+      ],
+      "vi": [
+        "Trước đó Đỗ Thích làm chức lại ở Đồng Quan"
+      ],
+      "en": [
+        "Earlier, Thích had been a minor official at Đồng Quan."
+      ]
+    },
+    {
+      "zh": [
+        "夜卧橋上，忽流星入口，"
+      ],
+      "vi": [
+        "đêm nằm trên cầu, bỗng thấy sao sa rơi vào miệng"
+      ],
+      "en": [
+        "One night, lying on a bridge, he saw a shooting star fall into his mouth;"
+      ]
+    },
+    {
+      "zh": [
+        "釋以爲休徵，遂萌弑心。"
+      ],
+      "vi": [
+        "Thích cho là điềm tốt, bèn nảy ra ý định giết vua"
+      ],
+      "en": [
+        "he took it as a good omen and conceived the idea of killing a ruler."
+      ]
+    },
+    {
+      "zh": [
+        "至是乘帝夜宴，醉卧庭中，"
+      ],
+      "vi": [
+        "Đến đây, nhân lúc vua ăn yến ban đêm, say rượu nằm trong sân"
+      ],
+      "en": [
+        "Now, taking advantage of the emperor's night banquet, when the emperor lay drunk in the courtyard,"
+      ]
+    },
+    {
+      "zh": [
+        "遂殺之，"
+      ],
+      "vi": [
+        "Thích bèn giết chết"
+      ],
+      "en": [
+        "he killed him,"
+      ]
+    },
+    {
+      "zh": [
+        "害及南越王璉。"
+      ],
+      "vi": [
+        "lại giết luôn cả Nam Việt Vương Liễn"
+      ],
+      "en": [
+        "and the harm extended to Liễn, King of Nam Việt."
+      ]
+    },
+    {
+      "zh": [
+        "時捕賊甚急，"
+      ],
+      "vi": [
+        "Khi ấy lệnh lùng bắt hung thủ rất gấp"
+      ],
+      "en": [
+        "The search for the assassin was urgent,"
+      ]
+    },
+    {
+      "zh": [
+        "釋潜伏于宮霤。"
+      ],
+      "vi": [
+        "Thích phải lén núp ở máng nước trong cung"
+      ],
+      "en": [
+        "and Thích hid in the palace water-spout."
+      ]
+    },
+    {
+      "zh": [
+        "踰三日，"
+      ],
+      "vi": [
+        "qua 3 ngày"
+      ],
+      "en": [
+        "After three days,"
+      ]
+    },
+    {
+      "zh": [
+        "渴甚，遇雨，"
+      ],
+      "vi": [
+        "khát lắm, gặp lúc trời mưa"
+      ],
+      "en": [
+        "parched with thirst, when rain came,"
+      ]
+    },
+    {
+      "zh": [
+        "以手盛水而飲，"
+      ],
+      "vi": [
+        "thò tay hứng nước uống"
+      ],
+      "en": [
+        "he held out his hand to catch rainwater to drink,"
+      ]
+    },
+    {
+      "zh": [
+        "宫女見之以吿。"
+      ],
+      "vi": [
+        "cung nữ trông thấy liền đi báo"
+      ],
+      "en": [
+        "and a court lady saw him and reported it."
+      ]
+    },
+    {
+      "zh": [
+        "定國公阮匐使人收斬之，"
+      ],
+      "vi": [
+        "Đinh quốc công Nguyễn Bặc sai người bắt đem chém"
+      ],
+      "en": [
+        "Nguyễn Bặc, Duke of Định Quốc, had him seized and beheaded,"
+      ]
+    },
+    {
+      "zh": [
+        "碎其骨，臠其肉，"
+      ],
+      "vi": [
+        "đập nát xương, băm thịt ra từng mảnh"
+      ],
+      "en": [
+        "his bones smashed and his flesh cut into pieces"
+      ]
+    },
+    {
+      "zh": [
+        "分與國人食之，不争啖焉。"
+      ],
+      "vi": [
+        "chia cho người trong nước ăn, chẳng ai không tranh lấy mà nhai nuốt"
+      ],
+      "en": [
+        "and shared out among the people to eat, and none failed to scramble for a bite."
+      ]
+    },
+    {
+      "zh": [
+        "初，帝微時，"
+      ],
+      "vi": [
+        "Ngày trước, khi vua còn hàn vi"
+      ],
+      "en": [
+        "Earlier, when the emperor was of humble station,"
+      ]
+    },
+    {
+      "zh": [
+        "嘗漁于膠水江，"
+      ],
+      "vi": [
+        "thường đánh cá ở sông Giao Thủy"
+      ],
+      "en": [
+        "he often fished in the Giao Thủy river."
+      ]
+    },
+    {
+      "zh": [
+        "綱得大圭，觸頭闕其角。"
+      ],
+      "vi": [
+        "kéo lưới được viên ngọc khuê to nhưng va vào mũi thuyền, sứt mất một góc"
+      ],
+      "en": [
+        "Once he hauled up a large jade tablet (khuê), which struck the prow of the boat and chipped a corner."
+      ]
+    },
+    {
+      "zh": [
+        "是夜投膠水寺宿，"
+      ],
+      "vi": [
+        "Đêm ấy vào ngủ nhờ ở chùa Giao Thủy"
+      ],
+      "en": [
+        "That night he lodged at the Giao Thủy temple"
+      ]
+    },
+    {
+      "zh": [
+        "藏圭于魚筥底，"
+      ],
+      "vi": [
+        "giấu ngọc ở dưới đáy giỏ cá"
+      ],
+      "en": [
+        "and hid the tablet at the bottom of his fish basket,"
+      ]
+    },
+    {
+      "zh": [
+        "待明是賣魚。"
+      ],
+      "vi": [
+        "đợi sáng ra chợ bán cá"
+      ],
+      "en": [
+        "waiting for morning to sell fish at the market."
+      ]
+    },
+    {
+      "zh": [
+        "時帝方熟睡，"
+      ],
+      "vi": [
+        "Bấy giờ vua đang ngủ say"
+      ],
+      "en": [
+        "While the emperor slept soundly,"
+      ]
+    },
+    {
+      "zh": [
+        "其筥有異光，"
+      ],
+      "vi": [
+        "trong giỏ có ánh sáng lạ"
+      ],
+      "en": [
+        "an unusual light came from the basket;"
+      ]
+    },
+    {
+      "zh": [
+        "寺僧起問故，"
+      ],
+      "vi": [
+        "nhà sư chùa ấy gọi dậy hỏi duyên cớ"
+      ],
+      "en": [
+        "the monk of the temple woke him to ask why,"
+      ]
+    },
+    {
+      "zh": [
+        "帝言乃以圭示之。"
+      ],
+      "vi": [
+        "vua nói thực và lấy ngọc khuê cho xem"
+      ],
+      "en": [
+        "and he told the truth and showed the tablet."
+      ]
+    },
+    {
+      "zh": [
+        "僧嘆曰："
+      ],
+      "vi": [
+        "Sư than rằng"
+      ],
+      "en": [
+        "The monk sighed:"
+      ]
+    },
+    {
+      "zh": [
+        "「吾子他日富貴不可言，"
+      ],
+      "vi": [
+        "Anh ngày sau phú quý không thể nói hết"
+      ],
+      "en": [
+        "\"Young man, your future wealth and rank cannot be put into words;"
+      ]
+    },
+    {
+      "zh": [
+        "但恨福不長耳。」"
+      ],
+      "vi": [
+        "chỉ tiếc phúc không được dài"
+      ],
+      "en": [
+        "I only regret that your good fortune will not be long.\""
+      ]
+    }
+  ]
+}
